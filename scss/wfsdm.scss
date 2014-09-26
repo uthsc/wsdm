@@ -1,0 +1,17 @@
+@import "app.scss";
+#wrapper{
+background-attachment: fixed;
+    background-color: #d7d7d7;
+    background-image: url('../images/memphis-queen-iii-elaine-neeley.jpg');
+    background-position: center 33%;
+    background-repeat: no-repeat no-repeat;
+    background-size: cover;
+    display: block;
+    left: 0;
+    opacity: 1;
+    top: 0;
+    visibility: visible;
+    }
+.content-box {
+background: none repeat scroll 0 0 rgba(255, 255, 255, 0.85); 
+} 
