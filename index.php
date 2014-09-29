@@ -1,4 +1,4 @@
-﻿<!doctype html>
+<!doctype html>
 <html class="no-js" lang="en">
   <head>
   	<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
@@ -79,26 +79,24 @@
  
       <div class="row">
         <div class="large-12">
-          <div class="row" data-equalizer>
-            <div class="large-4 medium-2 small-2 columns header-footer-box" data-equalizer-watch>
+        	<div class="row" data-equalizer>
+            <div class="large-4 small-2 columns header-footer-box" data-equalizer-watch>
             </div>
-            <div class="large-4 medium-8 small-8 columns header-footer-box" data-equalizer-watch>
+            <div class="large-4 small-8 columns header-footer-box" data-equalizer-watch>
             	<img class="wfsdm-logo" src="images/wfsdm-logo.png">
             </div>
-            <div class="large-4 medium-2 small-2 columns header-footer-box" data-equalizer-watch>
-            	<p class="hide-for-small" style="color: #505050;font-size: 0.75em;letter-spacing: 2px;margin: 25%;">formerly<br />MidSouth<br />Dental<br />Congress</p>
+            <div class="large-4 small-2 columns header-footer-box" data-equalizer-watch>
+            	<p style="color: #505050;font-size: 0.75em;letter-spacing: 2px;margin: 25%;">formerly<br />MidSouth<br />Dental<br />Congress</p>
             </div>
-          </div>
-        </div>
-      </div>
-      <div class="row show-for-small-only">
-        <div class="large-12">
           
-            <div class="small-12 columns header-footer-box">
-            	<p style="color: #505050;font-size: 0.70em;letter-spacing: 2px;text-align:center;">formerly MidSouth Dental Congress</p>
-            </div>
-        </div>
+          <!--<div id="featured" data-orbit>
+              <img src="http://placehold.it/1200x500&text=Slide Image 1" alt="slide image">
+              <img src="http://placehold.it/1200x500&text=Slide Image 2" alt="slide image">
+              <img src="http://placehold.it/1200x500&text=Slide Image 3" alt="slide image">
+            </div>-->
+ 
       </div>
+    </div>
  
      <br />
  
@@ -118,11 +116,10 @@
       <div class="row">
         <div class="large-12 columns">
           <div class="row" data-equalizer>
-            <div class="large-8 small-12 columns content-box" style="background: url('images/save-the-date-07.jpg') no-repeat scroll -10px 20% / cover rgba(0, 0, 0, 0);" data-equalizer-watch>
+            <div class="large-8 small-12 columns content-box" style="background: url('images/save-the-date-07.jpg') no-repeat scroll -10px center / cover rgba(0, 0, 0, 0);" data-equalizer-watch>
  							 <div class="row">
                 <div class="large-6 column">
-                	<img class="padded-image show-for-medium-up" src="images/celebrating-20.png" />
-                	<img class="padded-image show-for-small-only" src="images/celebrating-20.png" width="80%" />
+                	<img class="padded-image" src="images/celebrating-20.png" />
                </div>
                 <div class="large-6 column">
                 	
