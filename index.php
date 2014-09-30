@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>William F. Slagle Dental Meeting</title>
     <link rel="stylesheet" href="css/uthsc.css" />
+    <link rel="stylesheet" href="foundation-icons/foundation-icons.css" />
     <script src="bower_components/modernizr/modernizr.js"></script>
   </head>
   <body>
@@ -79,24 +80,26 @@
  
       <div class="row">
         <div class="large-12">
-        	<div class="row" data-equalizer>
-            <div class="large-4 small-2 columns header-footer-box" data-equalizer-watch>
+          <div class="row" data-equalizer>
+            <div class="large-4 medium-2 small-2 columns header-footer-box" data-equalizer-watch>
             </div>
-            <div class="large-4 small-8 columns header-footer-box" data-equalizer-watch>
+            <div class="large-4 medium-8 small-8 columns header-footer-box" data-equalizer-watch>
             	<img class="wfsdm-logo" src="images/wfsdm-logo.png">
             </div>
-            <div class="large-4 small-2 columns header-footer-box" data-equalizer-watch>
-            	<p style="color: #505050;font-size: 0.75em;letter-spacing: 2px;margin: 25%;">formerly<br />MidSouth<br />Dental<br />Congress</p>
+            <div class="large-4 medium-2 small-2 columns header-footer-box" data-equalizer-watch>
+            	<p class="hide-for-small" style="color: #505050;font-size: 0.75em;letter-spacing: 2px;margin: 25%;">formerly<br />MidSouth<br />Dental<br />Congress</p>
             </div>
-          
-          <!--<div id="featured" data-orbit>
-              <img src="http://placehold.it/1200x500&text=Slide Image 1" alt="slide image">
-              <img src="http://placehold.it/1200x500&text=Slide Image 2" alt="slide image">
-              <img src="http://placehold.it/1200x500&text=Slide Image 3" alt="slide image">
-            </div>-->
- 
+          </div>
+        </div>
       </div>
-    </div>
+      <div class="row show-for-small-only">
+        <div class="large-12">
+          
+            <div class="small-12 columns header-footer-box">
+            	<p style="color: #505050;font-size: 0.70em;letter-spacing: 2px;text-align:center;">formerly MidSouth Dental Congress</p>
+            </div>
+        </div>
+      </div>
  
      <br />
  
@@ -116,10 +119,11 @@
       <div class="row">
         <div class="large-12 columns">
           <div class="row" data-equalizer>
-            <div class="large-8 small-12 columns content-box" style="background: url('images/save-the-date-07.jpg') no-repeat scroll -10px center / cover rgba(0, 0, 0, 0);" data-equalizer-watch>
+            <div class="large-8 small-12 columns content-box" style="background: url('images/save-the-date-07.jpg') no-repeat scroll -10px 20% / cover rgba(0, 0, 0, 0);" data-equalizer-watch>
  							 <div class="row">
                 <div class="large-6 column">
-                	<img class="padded-image" src="images/celebrating-20.png" />
+                	<img class="padded-image show-for-medium-up" src="images/celebrating-20-orange.png" />
+                	<img class="padded-image show-for-small-only" src="images/celebrating-20-orange.png" width="80%" />
                </div>
                 <div class="large-6 column">
                 	
@@ -129,17 +133,40 @@
               </div>
             </div>
             <div class="large-4 small-12 columns content-box" data-equalizer-watch>
-             	<h2>Save the Date</h2>
-              		<h3 style="color: #db7620;font-family: Georgia;margin-top: -10px;">March 6-8, 2015</h3><hr>
-              		<p>Hilton Memphis<br />
-              		939 Ridge Lake Boulevard<br />
-					Memphis, Tennessee 38120<br />
-					901-762-7445</p>
-              			<img class="padded-image" src="http://www3.hilton.com/resources/media/hi/MEMPHHF/en_US/img/shared/full_page_image_gallery/main/HH_ext01_675x359_FitToBoxSmallDimension_Center.jpg" />
-              		<p>Registration opens December 1, 2014.</p>
-              
-
-
+            	<div class="row">
+            		<div class="large-12 medium-6 small-12 columns">
+            			
+									<h2>Save the Date</h2>
+              			<h3 style="color: #db7620;font-family: Georgia;margin-top: -10px;"><i class="fi-calendar size-1-75"></i> March 6-8, 2015</h3>
+              			<p>Registration opens December&nbsp;1,&nbsp;2014.</p>
+              			<hr class="hide-for-medium">
+								</div>
+								<div class="large-12 medium-6 small-12 columns">
+									<div class="row">
+										<div class="large-2 medium-2 small-2 columns">
+											<div class="show-for-medium"><br /></div>
+											<i class="fi-marker size-5"></i>
+										</div>
+										<div class="large-10 medium-10 small-10 columns">
+											<div class="show-for-medium"><br /></div>
+											<p><strong>Hilton Memphis</strong><br />
+											939 Ridge Lake Boulevard<br />
+											Memphis, Tennessee 38120<br />
+											901-762-7445</p>
+											
+										</div>
+									</div>
+								<div class="large-12 hide-for-medium small-12 columns">
+									<img class="padded-image" src="http://www3.hilton.com/resources/media/hi/MEMPHHF/en_US/img/shared/full_page_image_gallery/main/HH_ext01_675x359_FitToBoxSmallDimension_Center.jpg" />
+								</div>
+								
+            	</div>
+            	<div class="row">
+            		<div class="medium-12 show-for-medium columns">
+									<div style="background: url('http://www3.hilton.com/resources/media/hi/MEMPHHF/en_US/img/shared/full_page_image_gallery/main/HH_ext01_675x359_FitToBoxSmallDimension_Center.jpg') repeat scroll 0px -55px / cover transparent; height: 150px; width: 98%;"></div>
+									
+								</div>
+            	</div>
             </div>
           </div>
         </div>
@@ -148,13 +175,13 @@
       <div class="row">
         <div class="large-12 columns">
         	<div class="large-4 small-12 columns content-box">
-        		<a href="http://uthscalumni.com/"><img src="images/cde-alumni-logo.png" class="affiliates" /></a>
-        	</div>
-        	<div class="large-4 small-12 columns content-box">
         		<a href="http://uthsc.edu/"><img src="images/uthsc-logo-stack.png" class="affiliates" /></a>
         	</div>
         	<div class="large-4 small-12 columns content-box">
         		<a href="http://uthsc.edu/dentistry/"><img src="images/cod-seal.png" class="affiliates" /></a>
+        	</div>
+        	<div class="large-4 small-12 columns content-box">
+        		<a href="http://uthscalumni.com/"><img src="images/cde-alumni-logo.png" class="affiliates" /></a>
         	</div>
           </div>
         </div>
@@ -218,6 +245,7 @@
         	</div>
           </div>
         </div>
+        </div>
  
      
  
@@ -225,17 +253,18 @@
      
  
       <footer class="row">
-        <div class="large-12 columns"><hr>
+        <div class="large-12 columns">
+        	<br />
             <div class="row header-footer-box">
- 
+ <br />
               <div class="large-12 columns">
-                  <p style="color:#fff;">&copy; <?php echo date("Y") ?> William F. Slagle Dental Meeting &bull; Background art by Elaine Neeley</p>
+                  <p style="color:#fff;text-align:center;">&copy;  William F. Slagle Dental Meeting&emsp;&bull;&emsp;Background art by Elaine Neeley &copy;&emsp;&bull;&emsp;<a href="http://www.facebook.com/228909720561308"><i class="fi-social-facebook size-1-75"  style="position: relative; top: 3px;"></i></a></p>
+                </div>
               </div>
  
               
  
             </div>
-        </div>
       </footer>
  
      
