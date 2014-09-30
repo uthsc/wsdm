@@ -73,32 +73,27 @@
  -->
    
  
-  <div class="row">
-    <div class="large-12 columns">
+  
  
      
  
-      <div class="row">
+      <div class="row header-footer-box">
         <div class="large-12">
           <div class="row" data-equalizer>
-            <div class="large-4 medium-2 small-2 columns header-footer-box" data-equalizer-watch>
+            <div class="large-4 medium-4 small-2 columns" data-equalizer-watch>
             </div>
-            <div class="large-4 medium-8 small-8 columns header-footer-box" data-equalizer-watch>
-            	<img class="wfsdm-logo" src="images/wfsdm-logo.png">
+            <div class="large-4 medium-4 small-8 columns" data-equalizer-watch>
+            	<img class="wfsdm-logo" src="images/wfsdm-logo.png" style="width:100%;">
             </div>
-            <div class="large-4 medium-2 small-2 columns header-footer-box" data-equalizer-watch>
-            	<p class="hide-for-small" style="color: #505050;font-size: 0.75em;letter-spacing: 2px;margin: 25%;">formerly<br />MidSouth<br />Dental<br />Congress</p>
+            <div class="large-4 medium-4 small-2 columns" data-equalizer-watch>
             </div>
           </div>
         </div>
       </div>
-      <div class="row show-for-small-only">
-        <div class="large-12">
-          
-            <div class="small-12 columns header-footer-box">
+      <div class="row header-footer-box">
+            <div class="small-12 columns">
             	<p style="color: #505050;font-size: 0.70em;letter-spacing: 2px;text-align:center;">formerly MidSouth Dental Congress</p>
             </div>
-        </div>
       </div>
  
      <br />
@@ -213,7 +208,7 @@
             <div class="large-4 small-12 columns content-box" data-equalizer-watch>
  				<h3>Saturday, March 7, 2015</h3>
   					<p><strong>Connie Podesta</strong><br />
-  					Keynote Address<em>and…</em><br />
+  					Keynote Address <em>and…</em><br />
   					<em>Life Would be Easy if it Weren't for Other People</em><br />
  	 				<em>The Real Power of Persuasion</em></p>
   					<p><strong>Harold L. Crossley, DDS, PhD</strong><br />
@@ -221,13 +216,13 @@
   					<p><strong>John O. Burgess, DDS, MS</strong><br />
   					<em>Current  Materials &amp; Restorative Dentistry Techniques</em><br />
  	 				<p><strong>James F. Simon, DDS, MEd</strong><br />
-					<em>Introduction to CAD CAM Dentistry Hands-on Seminar</em></p>
+					<em>All-Ceramic and CAD/CAM Technology (Lecture &amp; Hands-On)</em></p>
             </div>
             <div class="large-4 small-12 columns content-box" data-equalizer-watch>
  				<h3>Sunday, March 8, 2015</h3>
   					<p><strong>Laney Kay, JD</strong><br />
   					<em>Blood, Spit &amp; Fears: A Painless  OSHA Update</em></p>
-  					<p><strong>Dr. Morris  Robbins</strong><br />
+  					<p><strong>Morris L. Robbins, DDS</strong><br />
 					<em>CPR Certification &amp; ReCertification</em></p>
 					<p><strong>James Ragain, Jr., DDS, MS, PhD, FICD, FACD</strong><br />
   					<em>Chemical Dependency: A review of substance  abuse, its impact on the dental practice and rehabilitation strategies</em></p>
@@ -258,7 +253,7 @@
             <div class="row header-footer-box">
  <br />
               <div class="large-12 columns">
-                  <p style="color:#fff;text-align:center;">&copy;  William F. Slagle Dental Meeting&emsp;&bull;&emsp;Background art by Elaine Neeley &copy;&emsp;&bull;&emsp;<a href="http://www.facebook.com/228909720561308"><i class="fi-social-facebook size-1-75"  style="position: relative; top: 3px;"></i></a></p>
+                  <p style="color:#fff;text-align:center;">&copy; <?php echo date("Y") ?> William F. Slagle Dental Meeting&emsp;&bull;&emsp;Background art by Elaine Neeley &copy;&emsp;&bull;&emsp;<a href="http://www.facebook.com/228909720561308"><i class="fi-social-facebook size-1-75"  style="position: relative; top: 3px;"></i></a></p>
                 </div>
               </div>
  
@@ -269,14 +264,13 @@
  
      
  
-    </div>
-  </div>
 
+</div> <!--end wrapper-->
  <script src="bower_components/jquery/dist/jquery.min.js"></script>
     <script src="bower_components/foundation/js/foundation.min.js"></script>
     <script src="js/app.js"></script>
  
     
-  </div> <!--end wrapper-->
+  
   </body>
 </html>
