@@ -13,8 +13,12 @@ background-attachment: fixed;
     }
 .content-box {
 background: none repeat scroll 0 0 rgba(255, 255, 255, 0.85);
-/*background: linear-gradient(to right, rgba(255,255,255,.85) 98%,rgba(255,255,255,0) 98%); */
 }
+.schedule {
+/*background: linear-gradient(to right, rgba(255,255,255,.85) 95%,rgba(255,255,255,0) 95%);*/
+background: none repeat scroll 0 0 rgba(255, 255, 255, 0.85);
+border: 1px solid #8c8c8c;
+	}
 .header-footer-box {
     background: none repeat scroll 0 0 rgba(30, 30, 30, 0.96);
 }
@@ -53,3 +57,23 @@ padding:3%;
     max-width:430px;
     margin:10px 0;
 }
+.big-image {
+	/*background: url('../images/save-the-date-07.jpg') no-repeat scroll 0 22% / 100% rgba(0, 0, 0, 0);*/
+	background-attachment: scroll;
+    background-color: rgba(0, 0, 0, 0);
+    background-image: url("../images/save-the-date-07.jpg");
+    background-position: 0 22%;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+	}
+	.hilton-image {
+		background-attachment: scroll;
+									background-color: rgba(0, 0, 0, 0);
+									background-image: url('http://www3.hilton.com/resources/media/hi/MEMPHHF/en_US/img/shared/full_page_image_gallery/main/HH_ext01_675x359_FitToBoxSmallDimension_Center.jpg');
+									background-position: 0 -55px;
+									background-repeat: repeat;
+									background-size: cover;
+									height: 150px;
+									margin-bottom: 15px;
+									width: 100%;
+		}
