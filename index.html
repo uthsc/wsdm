@@ -45,7 +45,9 @@
 							</div>
 							<div class="large-12 medium-6 columns">
 								<div class="row">
+									<div class="show-for-medium"><br /></div>
 									<div class="small-2 columns">
+										
 										<i class="fi-marker size-5"></i>
 									</div>
 									<div class="small-10 columns">
