@@ -22,6 +22,17 @@ border: 1px solid #8c8c8c;
 .header-footer-box {
     background: none repeat scroll 0 0 rgba(30, 30, 30, 0.96);
 }
+.footer-box {
+	margin-top:15px;
+	}
+.footer-box p {
+	color:#fff;
+	text-align:center;
+	}
+.footer-box p i {
+	position: relative;
+	top: 3px;
+	}
 .heading-box {
     background: none repeat scroll 0 0 rgba(30, 30, 30, 0.80);
 }
