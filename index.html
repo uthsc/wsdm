@@ -19,7 +19,8 @@
 		<title>William F. Slagle Dental Meeting</title>
 		<link rel="stylesheet" href="css/uthsc.css" />
 		<link rel="stylesheet" href="foundation-icons/foundation-icons.css" />
-		<link rel="icon" href="images/favicon.png" type="image/gif"/>
+		<link rel="shortcut icon" href="images/favicon.ico" /> 
+		<link rel="icon" href="images/favicon.png" type="image/png"/>
 		<link rel="apple-touch-icon-precomposed" href="images/apple-touch-icon-144x144-precomposed.png"/>
 		<script src="bower_components/modernizr/modernizr.js"></script>
 	</head>
