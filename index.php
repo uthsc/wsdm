@@ -4,29 +4,48 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<meta name="google-site-verification" content="SrYsQ03OKS8FkbNXLYtTFNB5DyNfpIcxqr_7CnGmDu4" />
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+			
+			ga('create', 'UA-44569544-1', 'midsouthdentalcongress.com');
+			ga('send', 'pageview');
+		</script>
+
 		<title>William F. Slagle Dental Meeting</title>
 		<link rel="stylesheet" href="css/uthsc.css" />
 		<link rel="stylesheet" href="foundation-icons/foundation-icons.css" />
+		<link rel="icon" href="images/favicon.png" type="image/gif"/>
+		<link rel="apple-touch-icon-precomposed" href="images/apple-touch-icon-144x144-precomposed.png"/>
 		<script src="bower_components/modernizr/modernizr.js"></script>
 	</head>
 	<body>
 		<div id="wrapper">
-			<div class="row header-footer-box"> <!--header-->
+			<div class="row header-footer-box gutter"> <!--header-->
 				<div class="large-4 medium-4 small-2 columns">1</div>
 				<div class="large-4 medium-4 small-8 columns">
-					<img class="wfsdm-logo" src="images/wfsdm-logo.png" style="width:100%;">
+					<img class="wfsdm-logo" src="images/wfsdm-logo.png">
 					</div>
 				<div class="large-4 medium-4 small-2 columns">3</div>
 				<div class="small-12 columns">
-					<p style="color: #505050;font-size: 0.70em;letter-spacing: 2px;text-align:center;">formerly MidSouth Dental Congress</p>
+					<p class="formerly">formerly MidSouth Dental Congress</p>
 				</div>
 			</div><!--end header-->
 
 			<div class="row" data-equalizer>
-				<div style="margin-top:15px;">
-				<div class="large-8 columns">
+				<div class="large-8 columns gutter">
 					
-					<div class="big-image" data-equalizer-watch>
+					<div class="big-image big-image-large show-for-large-up" data-equalizer-watch>
+						<div class="row">
+							<div class="large-8 medium-7 small-9 columns">
+								<img class="padded-image" src="images/celebrating-20-orange.png" width="100%" />
+							</div>
+						</div>
+						</div>
+					<div class="big-image hide-for-large-up" data-equalizer-watch>
 						<div class="row">
 							<div class="large-8 medium-7 small-9 columns">
 								<img class="padded-image" src="images/celebrating-20-orange.png" width="100%" />
@@ -34,12 +53,12 @@
 						</div>
 						</div>
 						</div>
-				</div>
-				<div class="large-4 columns content-box" data-equalizer-watch>
+						
+				<div class="large-4 columns content-box gutter" data-equalizer-watch>
 						<div class="row">
 							<div class="large-12 medium-6 columns">
 								<h2>Save the Date</h2>
-										<h3 style="color: #db7620;font-family: Georgia;margin-top: -10px;"><i class="fi-calendar size-1-75"></i> March 6-8, 2015</h3>
+										<h3 class="h3-after-h2"><i class="fi-calendar size-1-75"></i> <span class="font-date">March 6-8, 2015</span></h3>
 										<p>Registration opens December&nbsp;1,&nbsp;2014.</p>
 										<hr class="hide-for-medium">
 							</div>
@@ -69,7 +88,7 @@
 				</div>
 			</div>
 
-			<div class="row" style="margin-top:15px;margin-bottom:15px;"><!--affiliates-->
+			<div class="row gutter"><!--affiliates-->
 					<div class="large-4 medium-4 small-12 columns content-box">
 						<a href="http://uthsc.edu/"><img src="images/uthsc-logo-stack.png" class="affiliates" /></a>
 					</div>
@@ -81,14 +100,14 @@
 					</div>
 			</div><!--end affiliates-->
 
-			<div class="row"><!--speakers-->
+			<div class="row gutter"><!--speakers-->
 				<div class="large-12 small-12 columns  heading-box">
-					<h2 style="text-align:center;">Speakers</h2>
+					<h2 class="center-text">Speakers</h2>
 				</div>
 				<div class="large-12 columns">
 					<div class="row" data-equalizer>
 						<div class="large-4 medium-4 small-12 columns schedule" data-equalizer-watch>
-							<h3>Friday <i class="fi-calendar size-1-75"></i><br /><span style="font-family: Georgia;">March&nbsp;6,&nbsp;2015</span></h3>
+							<h3><strong>Friday</strong> <i class="fi-calendar size-1-75"></i><br /><span class="font-date">March&nbsp;6,&nbsp;2015</span></h3>
 								<p><strong>Darrell W.  Cain, CPA</strong><br />
 								<em>The Economy, Investments &amp; Your Financial Freedom</em><br />
 								<em>Financial Patterns Dentists  Continue to Adhere to that Amaze Us!</em></p>
@@ -102,7 +121,7 @@
 								<strong><em> (this course is a two day commitment)</em></strong></p>
 						</div>
 						<div class="large-4 medium-4 small-12 columns schedule" data-equalizer-watch>
-							<h3>Saturday <i class="fi-calendar size-1-75"></i><br /><span style="font-family: Georgia;">March&nbsp;7,&nbsp;2015</span></h3>
+							<h3><strong>Saturday</strong> <i class="fi-calendar size-1-75"></i><br /><span class="font-date">March&nbsp;7,&nbsp;2015</span></h3>
 								<p><strong>Connie Podesta</strong><br />
 								Keynote Address <em>and…</em><br />
 								<em>Life Would be Easy if it Weren't for Other People</em><br />
@@ -115,7 +134,7 @@
 								<em>All-Ceramic and CAD/CAM Technology (Lecture &amp; Hands-On)</em></p>
 						</div>
 						<div class="large-4 medium-4 small-12 columns schedule" data-equalizer-watch>
-							<h3><strong>Sunday</strong> <i class="fi-calendar size-1-75"></i><br /><span style="font-family: Georgia;">March&nbsp;8,&nbsp;2015</span></h3>
+							<h3><strong>Sunday</strong> <i class="fi-calendar size-1-75"></i><br /><span class="font-date">March&nbsp;8,&nbsp;2015</span></h3>
 								<p><strong>Laney Kay, JD</strong><br />
 								<em>Blood, Spit &amp; Fears: A Painless  OSHA Update</em></p>
 								<p><strong>Morris L. Robbins, DDS</strong><br />
@@ -134,9 +153,9 @@
 				</div>
 			</div><!--end speakers-->
 
-			<footer class="row header-footer-box" style="margin-top:15px;">
+			<footer class="row header-footer-box footer-box">
 				<div class="large-12 columns">
-					<p style="color:#fff;text-align:center;">&copy; <?php echo date("Y") ?> William F. Slagle Dental Meeting&emsp;&bull;&emsp;Background art by Elaine Neeley &copy;&emsp;&bull;&emsp;<a href="http://www.facebook.com/228909720561308"><i class="fi-social-facebook size-1-75"  style="position: relative; top: 3px;"></i></a></p>
+					<p>&copy; <?php echo date("Y") ?> William F. Slagle Dental Meeting&emsp;&bull;&emsp;Background art by Elaine Neeley &copy;&emsp;&bull;&emsp;<a href="http://www.facebook.com/228909720561308"><i class="fi-social-facebook size-1-75 align-with-text"></i></a></p>
 				</div>
 			</footer>
 		</div> <!--end wrapper-->
