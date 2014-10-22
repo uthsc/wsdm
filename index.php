@@ -30,11 +30,11 @@
 	<body>
 		<div id="wrapper">
 			<div class="row header-footer-box gutter"><!--header-->
-				<div class="large-4 medium-4 small-3 x-small-2 columns">&nbsp;</div>
-				<div class="large-4 medium-4 small-6 x-small-8 columns">
+				<div class="large-4 medium-4 small-2 columns">&nbsp;</div>
+				<div class="large-4 medium-4 small-8 columns">
 					<img class="wfsdm-logo" src="images/wfsdm-logo.png" alt="slagle logo" />
 				</div>
-				<div class="large-4 medium-4 small-3 x-small-2 columns">&nbsp;</div>
+				<div class="large-4 medium-4 small-2 columns">&nbsp;</div>
 				<div class="small-12 columns">
 					<p class="formerly">formerly MidSouth Dental Congress</p>
 				</div>
@@ -64,7 +64,7 @@
 						<div class="large-12 medium-6 columns">
 							<h2>Save the Date</h2>
 							<h3 class="h3-after-h2"><i class="fi-calendar size-1-75"></i> <span class="font-date">March 6-8, 2015</span></h3>
-							<p>Registration opens December&nbsp;1,&nbsp;2014.</p>
+							<p>Registration opens November&nbsp;30,&nbsp;2014.</p>
 							<hr class="hide-for-medium" />
 						</div>
 						<div class="large-12 medium-6 columns">
@@ -152,7 +152,7 @@
 					</div>
 				</div>
 				<div class="large-12 columns heading-box">
-					<p>A total of 18 credit hours may be earned by attending the maximum number of courses (15 hours), mini-sessions (2 hours), and breakfast with faculty (1 hour).</p>
+					<p>A total of 19 credit hours may be earned by attending the maximum number of courses (16 hours), mini-sessions (2 hours), and breakfast with faculty (1 hour).</p>
 				</div>
 			</div><!--end speakers-->
 
