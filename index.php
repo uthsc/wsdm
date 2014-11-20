@@ -1,47 +1,4 @@
-<!doctype html>
-<html class="no-js" lang="en">
-	<head>
-		<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		<meta name="google-site-verification" content="SrYsQ03OKS8FkbNXLYtTFNB5DyNfpIcxqr_7CnGmDu4" />
-		<meta name="apple-mobile-web-app-title" content="Dental Meeting" />
-		<meta property="og:image" content="images/wfsdm-logo-fb.jpg" />
-		<meta property="og:title" content="William F. Slagle Dental Meeting" />
-		<meta property="og:site_name" content="William F. Slagle Dental Meeting" />
-		<meta property="og:url" content="http://midsouthdentalcongress.com" />
-		<meta property="og:description" content="William F. Slagle Dental Meeting - formerly MidSouth Dental Congress" />
-		<script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-      ga('create', 'UA-44569544-1', 'slagledentalmeeting.com');
-      ga('require', 'displayfeatures');
-      ga('send', 'pageview');
-
-		</script>
-		<title>William F. Slagle Dental Meeting</title>
-		<link rel="stylesheet" href="css/uthsc.css" />
-		<link rel="stylesheet" href="foundation-icons/foundation-icons.css" />
-		<link rel="shortcut icon" href="images/favicon.ico" />
-		<link rel="icon" href="images/favicon.png" type="image/png" />
-		<link rel="apple-touch-icon-precomposed" href="images/apple-touch-icon-144x144-precomposed.png" />
-		<script src="bower_components/modernizr/modernizr.js"></script>
-	</head>
-	<body>
-		<div id="wrapper">
-			<div class="row header-footer-box gutter"><!--header-->
-				<div class="large-4 medium-4 small-2 columns">&nbsp;</div>
-				<div class="large-4 medium-4 small-8 columns">
-					<img class="wfsdm-logo" src="images/wfsdm-logo.png" alt="slagle logo" />
-				</div>
-				<div class="large-4 medium-4 small-2 columns">&nbsp;</div>
-				<div class="small-12 columns">
-					<p class="formerly">formerly MidSouth Dental Congress</p>
-				</div>
-			</div><!--end header-->
+<?php include("template-top.php"); ?>
 
 			<div class="row" data-equalizer><!--big image and important info-->
 				<div class="large-8 columns gutter">
@@ -105,6 +62,7 @@
 					<a href="http://uthscalumni.com/"><img src="images/cde-alumni-logo.png" class="affiliates" alt="uthsc alumni logo" /></a>
 				</div>
 			</div><!--end affiliates-->
+      <div  id="speakers" style="height:44px;"></div>
 
 			<div class="row gutter"><!--speakers-->
 				<div class="large-12 small-12 columns heading-box">
@@ -158,15 +116,4 @@
 					<p>A total of 19 credit hours may be earned by attending the maximum number of courses (16 hours), mini-sessions (2 hours), and breakfast with faculty (1 hour).</p>
 				</div>
 			</div><!--end speakers-->
-
-			<footer class="row header-footer-box footer-box">
-				<div class="large-12 columns">
-					<p>&copy; <?php echo date("Y") ?> William F. Slagle Dental Meeting&emsp;&bull;&emsp;Background art by Elaine Neeley &copy;&emsp;&bull;&emsp;<a href="http://www.facebook.com/228909720561308"><i class="fi-social-facebook size-1-75 align-with-text"></i></a></p>
-				</div>
-			</footer>
-		</div><!--end wrapper-->
-		<script src="bower_components/jquery/dist/jquery.min.js"></script>
-		<script src="bower_components/foundation/js/foundation.min.js"></script>
-		<script src="js/app.js"></script>
-	</body>
-</html>
+			<?php include("template-bottom.php"); ?>
