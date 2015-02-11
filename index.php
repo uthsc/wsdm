@@ -1,4 +1,7 @@
-<?php include("template-top.php"); ?>
+<?php
+$pagename ='Home';
+include("template-top.php");
+?>
 
 			<div class="row" data-equalizer><!--big image and important info-->
 				<div class="large-8 columns gutter">
@@ -23,8 +26,8 @@
 					<div class="row">
 						<div class="large-12 medium-6 columns">
 							<h2>Save the Date</h2>
-							<h3 class="h3-after-h2"><i class="fi-calendar size-1-75"></i> <span class="font-date">March 6-8, 2015</span></h3>
-							<p>Registration opens November&nbsp;30,&nbsp;2014.</p>
+							<h3 class="h3-after-h2"><i class="fa fa-calendar"></i> <span class="font-date">March 6-8, 2015</span></h3>
+							<p><a href="registration.php">Registration is now OPEN!</a></p>
 							<hr class="hide-for-medium" />
 						</div>
 						<div class="large-12 medium-6 columns">
@@ -32,7 +35,7 @@
 								<div class="show-for-medium"><br /></div>
 								<div class="small-2 columns">
 
-									<i class="fi-marker size-5"></i>
+									<i class="fa fa-map-marker fa-5x"></i>
 								</div>
 								<div class="small-10 columns">
 									<p><strong>Hilton Memphis</strong><br />
@@ -71,7 +74,7 @@
 				<div class="large-12 columns">
 					<div class="row" data-equalizer>
 						<div class="large-4 medium-4 small-12 columns schedule" data-equalizer-watch>
-							<h3><strong>Friday</strong> <i class="fi-calendar size-1-75"></i><br /><span class="font-date">March&nbsp;6,&nbsp;2015</span></h3>
+							<h3><strong>Friday</strong> <i class="fa fa-calendar"></i><br /><span class="font-date">March&nbsp;6,&nbsp;2015</span></h3>
 							<p><strong>Darrell W. Cain, CPA</strong><br />
 								<em>The Economy, Investments &amp; Your Financial Freedom</em><br />
 								<em>Financial Patterns Dentists Continue to Adhere to that Amaze Us!</em></p>
@@ -85,11 +88,10 @@
 								<strong><em> (this course is a two day commitment)</em></strong></p>
 						</div>
 						<div class="large-4 medium-4 small-12 columns schedule" data-equalizer-watch>
-							<h3><strong>Saturday</strong> <i class="fi-calendar size-1-75"></i><br /><span class="font-date">March&nbsp;7,&nbsp;2015</span></h3>
+							<h3><strong>Saturday</strong> <i class="fa fa-calendar"></i><br /><span class="font-date">March&nbsp;7,&nbsp;2015</span></h3>
 							<p><strong>Connie Podesta</strong><br />
 								Keynote Address <em>and…</em><br />
-								<em>Life Would be Easy if it Weren't for Other People</em><br />
-								<em>The Real Power of Persuasion</em></p>
+								<em>Life Would be Easy if it Weren't for Other People</em></p>
 							<p><strong>Harold L. Crossley, DDS, PhD</strong><br />
 								<em>Medical &amp; Dental Implications of the Most Common Physician–Prescribed Medications!!</em></p>
 							<p><strong>John O. Burgess, DDS, MS</strong><br />
@@ -98,7 +100,7 @@
 								<em>All-Ceramic and CAD/CAM Technology (Lecture &amp; Hands-On)</em></p>
 						</div>
 						<div class="large-4 medium-4 small-12 columns schedule" data-equalizer-watch>
-							<h3><strong>Sunday</strong> <i class="fi-calendar size-1-75"></i><br /><span class="font-date">March&nbsp;8,&nbsp;2015</span></h3>
+							<h3><strong>Sunday</strong> <i class="fa fa-calendar"></i> <br /><span class="font-date">March&nbsp;8,&nbsp;2015</span></h3>
 							<p><strong>Laney Kay, JD</strong><br />
 								<em>Blood, Spit &amp; Fears: A Painless OSHA Update</em></p>
 							<p><strong>Morris L. Robbins, DDS</strong><br />
@@ -107,7 +109,7 @@
 								<em>Chemical Dependency: A review of substance abuse, its impact on the dental practice and rehabilitation strategies</em></p>
 							<p><strong>Ronald C. Staples, DDS</strong><br />
 								<em>Management of the Medically Compromised Dental Patient</em></p>
-							<p><strong>Jacob Shiloah, III, DMD</strong><br />
+							<p><strong>Jacob Shiloah, DMD</strong><br />
 								<em>Periodontics for the Entire Dental Team</em></p>
 						</div>
 					</div>
