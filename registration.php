@@ -11,7 +11,25 @@ include("template-top.php");
                     <div class="small-12 large-7 columns">
                     	<p>We encourage you to register early and take advantage of the discounted fee for registration by February 20. Advance registration for all programs is strongly encouraged and appreciated. Check-in for the William F. Slagle Dental Meeting begins Thursday afternoon at the Hilton Hotel and will continue all day Friday, Saturday and Sunday mornings. All information, nametags, and meal tickets will be held for pick-up at the registration desk. Your registration fee covers your choice of sessions unless otherwise noted, Friday and Saturday lunch, refreshment breaks, continuing education credit, and admission to the Welcome Party and exhibit booths.</p>
 										<p class="panel">Sponsor a current UT College of Dentistry student to attend the William F. Slagle Dental Meeting.  Your $75 sponsorship will allow a student the opportunity to participate in the courses and network with dental professionals. Simply indicate the number of students you would like to sponsor when registering. Your support is greatly appreciated.</p>
-										<p><a href="https://utconferences.outreach.utk.edu/ei/getdemo.ei?id=377&s=_3VS0X2Y5U&bulk=y" class="button expand">Register Now!</a></p>
+
+                        <div class="row alert-box warning">
+                            <div class="columns medium-6">
+                                <p><strong>Online</strong> registration closes:</p>
+                                <ul>
+                                    <li>Tuesday, March 3, 10am</li>
+                                </ul>
+                            </div>
+                            <div class="columns medium-6">
+                                <p><strong>On-site</strong> registration open:</p>
+                                <ul>
+                                    <li>Friday, March 6, 7am - 6pm</li>
+                                    <li>Saturday, March 7, 7am - 2pm</li>
+                                </ul>
+                            </div>
+                            <a href="https://utconferences.outreach.utk.edu/ei/getdemo.ei?id=377&s=_3VS0X2Y5U&bulk=y" class="button expand">Register Now!</a>
+                        </div>
+                        <br style="clear: both;" />
+
                     </div>
                     <div class="small-12 large-5 columns">
                          <img src="images/registration.jpg" alt="Exhibitor at the conference" style="padding-bottom:2em;"/>

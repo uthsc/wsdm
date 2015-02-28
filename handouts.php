@@ -1,27 +1,86 @@
 <?php
-$pagename ='Welcome';
+$pagename = 'Handouts';
 include("template-top.php");
 ?>
 
-	<div class="row">
+    <div class="row">
         <div class="small-12 columns schedule gutter">
-<!--===============Conetnt Area (begin)===============-->
-            <h1><?php echo $pagename;?></h1>
-                <div class="row">
-                    <div class="columns">
-                    	<img src="images/jeannie-beauchamp.jpg" alt="Jeannie Beauchamp, President of the Dentistry Alumni Association Board of Trustees" class="content-image right" />
-                      <p>The William F. Slagle Dental Meeting, formerly named the MidSouth Dental Congress, is one of the College of Dentistry's greatest traditions. We are celebrating an historic milestone during the Slagle Meeting in March 2015, - Our 20th Anniversary! The MidSouth Dental Congress was implemented in 1995 as a means to promote quality care by providing the dental team with an exceptional education opportunity. In accordance with this mission, this meeting is committed to offering extensive continuing education courses, commercial exhibits, and additional educational programs advancing the growth and development of the dental profession.</p>
-                    <p>The Planning Committee, the Dentistry Alumni Association, and the UT College of Dentistry have worked diligently to present the 2015 program that honors the legacy of this meeting and celebrates everything we have accomplished in the past two decades by bringing back the "best of the best" in continuing education speakers. The 2015 program also includes hands-on courses, expanded programming for the entire dental office staff and a Key Note Address from Connie Podesta.</p>
-                  <p>In the past twenty years, more than $2 million in proceeds from this meeting have been donated directly to the College of Dentistry. That is one intangible you do not get from other continuing education programs. Your participation at the William F. Slagle Dental Meeting and Dentistry Alumni Weekend helps enhance the dental school experience for current and future students.</p>
-                <p>On behalf of the University of Tennessee Health Science Center College of Dentistry Alumni Association and the William F. Slagle Dental Meeting Planning Committee, I would like to extend our warmest greetings to you, and thank you for your participation in this exciting 20th Anniversary Meeting.</p>
-                <p>We look forward to seeing you in Memphis! </p>
-                <p>Warmest Regards, <br />
-                	Jeannie Beauchamp, DDS <br />
-                President, Dentistry Alumni Association Board of Trustees</p>
+            <!--===============Conetnt Area (begin)===============-->
+            <h1><?php echo $pagename; ?></h1>
+
+            <div class="row">
+                <div class="columns">
+                    <h2>Downloads</h2>
+
+                    <div class="handout-schedule">
+                        <a href="/handouts/dr-ian-erwood-mini-dental-implants-day-2.pdf" class="button small-12 medium-9"><strong>Dr. Ian Erwood</strong> -
+                            <em>Mini Dental Implants Day 2</em>&emsp;<i class="fa fa-file-o"></i></a>
+                        <a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#ian-erwood-info"><i class="fa fa-calendar"></i></a>
+
+                        <a href="/handouts/dr-ian-erwood-mini-dental-implants-day-1.pdf" class="button small-12 medium-9"><strong>Dr. Ian Erwood</strong> -
+                            <em>Mini Dental Implants Day 1</em>&emsp;<i class="fa fa-file-o"></i></a>
+                        <a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#ian-erwood-info"><i class="fa fa-calendar"></i></a>
+
+
+                        <a href="/handouts/laney-kay-jd-blood-spit-and-fears-a-painless-osha-update.pdf" class="button small-12 medium-9"><strong>Laney Kay Jd</strong> -
+                            <em>Blood Spit and Fears a Painless OSHA Update</em>&emsp;<i class="fa fa-file-o"></i></a>
+                        <a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#laney-kay-info"><i class="fa fa-calendar"></i></a>
+
+
+                        <a href="/handouts/dr-stanley-malamed-emergency-medicine-back-to-basics.pdf" class="button small-12 medium-9"><strong>Dr. Stanley Malamed</strong> -
+                            <em>Emergency Medicine Back to Basics</em>&emsp;<i class="fa fa-file-o"></i></a>
+                        <a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#stanley-malamed-info"><i class="fa fa-calendar"></i></a>
+
+
+                        <a href="/handouts/dr-jacob-shiloah-periodontics-for-the-entire-dental-team.pdf" class="button small-12 medium-9"><strong>Dr. Jacob Shiloah</strong> -
+                            <em>Periodontics for the Entire Dental Team</em>&emsp;<i class="fa fa-file-o"></i></a>
+                        <a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#jacob-shiloah-info"><i class="fa fa-calendar"></i></a>
+
+
+                        <a href="/handouts/dr-james-simon-all-ceramic-crowns-and-cad-cam-technology.pdf" class="button small-12 medium-9"><strong>Dr. James Simon</strong> -
+                            <em>All Ceramic Crowns and Cad Cam Technology</em>&emsp;<i class="fa fa-file-o"></i></a>
+                        <a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#james-simon-info"><i class="fa fa-calendar"></i></a>
+
+
+                        <a href="/handouts/dr-ronald-staples-management-of-the-medically-compromised-patient.pdf" class="button small-12 medium-9"><strong>Dr. Ronald Staples</strong> -
+                            <em>Management of the Medically Compromised Patient</em>&emsp;<i class="fa fa-file-o"></i></a>
+                        <a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#ron-staples-info"><i class="fa fa-calendar"></i></a>
+
+
+                        <a href="/handouts/dr-john-svirsky-lumps-bumps-and-lesions-for-all-seasons-pm.pdf" class="button small-12 medium-9"><strong>Dr. John Svirsky</strong> -
+                            <em>Lumps Bumps and Lesions for All Seasons PM</em>&emsp;<i class="fa fa-file-o"></i></a>
+                        <a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#john-svirsky-info"><i class="fa fa-calendar"></i></a>
+
+
+                        <a href="/handouts/dr-john-svirsky-come-in-and-catch-it-the-review-that-sticks-am-2.pdf" class="button small-12 medium-9"><strong>Dr. John Svirsky</strong> -
+                            <em>Come In and Catch It. The Review That Sticks AM 2</em>&emsp;<i class="fa fa-file-o"></i></a>
+                        <a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#john-svirsky-info"><i class="fa fa-calendar"></i></a>
+
+
+                        <a href="/handouts/dr-john-svirsky-come-in-and-catch-it-the-review-that-sticks-am-1.pdf" class="button small-12 medium-9"><strong>Dr. John Svirsky</strong> -
+                            <em>Come In and Catch It. The Review That Sticks AM 1</em>&emsp;<i class="fa fa-file-o"></i></a>
+                        <a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#john-svirsky-info"><i class="fa fa-calendar"></i></a>
+                    </div>
+<div class="handout-schedule-2">
+                    <h2>Info</h2>
+                    <a data-tooltip aria-haspopup="true" class="has-tip button small-12 medium-9 info" title="Participants will be provided a specific website link at course start in order to access and view the most current version of the presentation handout. If course registrants would like to download the presentation to follow along and make notes, we encourage them to bring a mobile device or small laptop to the course."><strong>Dr. John O. Burgess</strong> - <em>Current Materials &amp; Restorative Dentistry Techniques</em>&emsp;<i class="fa fa-info-circle"></i></a>
+                    <a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#john-burgess-info"><i class="fa fa-calendar"></i></a>
+</div>
+                    <br style="clear: both;" />
+    <div class="handout-schedule-2">
+                    <a data-tooltip aria-haspopup="true" class="has-tip button small-12 medium-9 info" title="Participants will receive their BLS for Healthcare Providers Student Manual and instructor handout at course start."><strong>Dr. Morris Robbins</strong> - <em>CPR Certification & ReCertification</em>&emsp;
+                        <i class="fa fa-info-circle"></i> </a>
+                    <a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#morris-robbins-info"><i class="fa fa-calendar"></i></a>
+        <br style="clear: both;" />
+        <br style="clear: both;" />
+
 
                     </div>
+
                 </div>
-<!--===============Conetnt Area (end)===============-->
             </div>
+
+            <!--===============Conetnt Area (end)===============-->
         </div>
-			<?php include("template-bottom.php"); ?>
+    </div>
+<?php include("template-bottom.php"); ?>
