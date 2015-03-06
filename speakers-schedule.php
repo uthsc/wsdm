@@ -300,32 +300,33 @@ include("template-top.php");
             </tr>
             </thead>
             <tr id="connie-podesta-info">
-                <td>8:30am - 4:30pm</td>
+                <td>8:00am - 4:45pm</td>
                 <td>
                     <strong><a href="#" data-reveal-id="connie-podesta">Mrs. Connie Podesta</a></strong><br/> (8:00am - 8:45am) -
                     <em>20th Anniversary Keynote Address</em><br/> (9:00am - 4:45pm) -
                     <em>Life Would be Easy if it Weren't for Other People</em></td>
                 <td>6 CEU</td>
             </tr>
-            <tr id="harold-crossley-info">
-                <td>8:30am - 4:30pm</td>
-                <td><a href="#" data-reveal-id="harold-crossley">Dr. Harold L. Crossley</a><br/>
-                    <em>Medical &amp; Dental Implications of the Most Common Physician - Prescribed Medications!!</em>
+            <tr id="wendy-hupp-info">
+                <td>9:00am - 4:45pm</td>
+                <td><a href="#" data-reveal-id="wendy-hupp">Dr. Wendy S. Hupp</a><br/>
+                    <em>Pharmacology for Oral Healthcare Providers</em>&nbsp;
+                    <a href="handouts/dr-hupp-part-1-handout.pdf" class="button radius tiny large-2 small-12 use-hyphen handout secondary"><i class="fa fa-file-o"></i>&ensp;Handout Part 1</a>&nbsp;
+                    <a href="handouts/dr-hupp-part-2-handout.pdf" class="button radius tiny large-2 small-12 use-hyphen handout secondary"><i class="fa fa-file-o"></i>&ensp;Handout Part 2</a>&nbsp;
+                    <a href="handouts/dr-hupp-part-1-handout.pdf" class="button radius tiny large-2 small-12 use-hyphen handout secondary"><i class="fa fa-file-o"></i>&ensp;Handout Part 3</a>
                 </td>
                 <td>6 CEU</td>
             </tr>
             <tr id="john-burgess-info">
-                <td>8:30am - 4:30pm</td>
+                <td>9:00am - 4:45pm</td>
                 <td><a href="#" data-reveal-id="john-burgess">Dr. John O. Burgess</a><br/>
-                    <em>Current Materials &amp; Restorative Dentistry Techniques</em>&emsp;<span data-tooltip aria-haspopup="true" class="has-tip" title="Participants will be provided a specific website link at course start in order to access and view the most current version of the presentation handout. If course registrants would like to download the presentation to follow along and make notes, we encourage them to bring a mobile device or small laptop to the course."><div class="button radius tiny large-3 small-12 use-hyphen handout secondary">
-                            <i class="fa fa-file-o"></i>&ensp;Handout
-                        </div></span>
-
+                    <em>Current Materials &amp; Restorative Dentistry Techniques</em>&emsp;<a href="handouts/dr-john-burgess-restorative-techniques.pdf" class="button radius tiny large-3 small-12 use-hyphen handout secondary"><i class="fa fa-file-o"></i>&ensp;Handout</a>
                 </td>
+
                 <td>6 CEU</td>
             </tr>
             <tr id="james-simon-info">
-                <td>8:30am - 4:30pm</td>
+                <td>9:00am - 4:45pm</td>
                 <td><a href="#" data-reveal-id="james-simon">Dr. James F. Simon</a><br/>
                     <em>All-Ceramic and CAD/CAM Technology (Lecture &amp; Hands-On)</em>&nbsp;<a href="handouts/dr-james-simon-all-ceramic-crowns-and-cad-cam-technology.pdf" class="button radius tiny large-3 small-12 use-hyphen handout secondary"><i class="fa fa-file-o"></i>&ensp;Handout</a>
                 </td>
@@ -373,7 +374,7 @@ include("template-top.php");
                             <div class="columns medium-6">
                                 <a href="#" data-reveal-id="ian-erwood" class="button expand">Previous Speaker</a></div>
                             <div class="columns medium-6">
-                                <a href="#" data-reveal-id="harold-crossley" class="button expand">Next Speaker</a>
+                                <a href="#" data-reveal-id="wendy-hupp" class="button expand">Next Speaker</a>
                             </div>
                         </div>
 
@@ -385,7 +386,7 @@ include("template-top.php");
                     <h4>Key Note Address</h4>
 
                     <p>
-                        <strong>8:30 a.m. - 8:45 a.m.<br/> Course Code: 006 / 1 hour CE<br/> Recommended for the Entire Dental Team</strong>
+                        <strong>8:00 a.m. - 8:45 a.m.<br/> Course Code: 006 / 1 hour CE<br/> Recommended for the Entire Dental Team</strong>
                     </p>
 
                     <p><em>Sponsored by Delta Dental of Tennessee</em></p>
@@ -410,17 +411,17 @@ include("template-top.php");
             </div>
             <a class="close-reveal-modal">&#215;</a>
         </div>
-        <div id="harold-crossley" class="reveal-modal" data-reveal="data-reveal">
+        <div id="wendy-hupp" class="reveal-modal" data-reveal="data-reveal">
 
             <div class="columns">
                 <div class="row panel callout radius">
-                    <h4>Harold L. Crossley, DDS, PhD</h4>
+                    <h4>Wendy S. Hupp, DMD, DABOM</h4>
 
                     <div class="columns medium-5 medium-push-7 large-reset-order large-4">
-                        <img src="images/harold-crossley.jpg" alt="Harold L. Crossley, D.D.S. photo" title="photo" class="th"/>
+                        <img src="images/wendy-hupp.jpg" alt="Wendy S. Hupp, DMD, DABOM photo" title="photo" class="th"/>
                     </div>
                     <div class="columns medium-7 medium-pull-5 large-reset-order large-8">
-                        <p>Harold L. Crossley, D.D.S., M.S., Ph.D. is Professor Emeritus at the University of Maryland Dental School. A native of Rhode Island, Dr. Crossley received a Bachelor of Science degree in Pharmacy from the University of Rhode Island in 1964. He later was awarded the Master of Science, Doctorate degree in Pharmacology and a D.D.S. degree. The liaison between the classroom and his part-time dental practice produced a practical approach to understanding the pharmacology of drugs used in the dental office.</p>
+                        <p>Wendy S. Hupp, DMD, DABOM, is an Associate Professor of Oral Medicine and Interim Chair of the Department of General Dentistry and Oral Medicine at the University of Louisville, School of Dentistry.  She is a Diplomate of the American Board of Oral Medicine, and has lectured widely on Medically Compromised Patient care, HIV Disease, Pharmacology, Clinical Oral Pathology and Women’s Health. Her most recent publications include chapters for a medical textbook on diseases of the mouth and the ADA Practical Guide to Patients with Medical Conditions. Dr. Hupp is originally from Philadelphia and earned her DMD from the University of Pennsylvania.  Her Oral Medicine training was in Bethesda, Maryland while on active duty with the U.S. Navy. </p>
 
                         <div class="row">
                             <div class="columns medium-6">
@@ -434,25 +435,27 @@ include("template-top.php");
                 </div>
             </div>
             <div class="columns">
-                <h4>Medical &amp; Dental Implications of the Most Common Physician- Prescribed Medications!! </h4>
+                <h4>Pharmacology for Oral Healthcare Providers</h4>
 
                 <p><strong>9:00 a.m. - 4:45 p.m.<br/> Course Code: 008 / 6 hours CE</strong></p>
 
-                <p><em>Sponsored by Delta Dental of Arkansas</em></p>
+                <!--<p><em>Sponsored by Delta Dental of Arkansas</em></p>-->
 
-                <p>Should I use caution when prescribing NSAIDs with antihypertensives? Can NSAIDs cause atrial fibrillation? Can I prescribe a NSAID to a patient who takes warfarin? Can I prescribe fluconazole, (Diflucan), for a patient taking clopidogrel, (Plavix). There are hundreds of drug interactions, but only a handful is clinically relevant.</p>
+                <p>Dentists and dental hygienists are challenged daily with the large number of prescription and over-the-counter medications available to patients; many may cause significant oral manifestations and/or the need for modifications in the course of dental treatment because of the diseases or conditions being treated by the medical provider.  This course will review the most commonly prescribed drugs that our patients are taking, as well as the medications that we use daily.  Different references will be reviewed for finding this information, as well as guidance for prescribing medications for medically compromised patients.</p>
 
-                <p>
-                    <strong>Is antibiotic prophylaxis required for patients with orthopedic prostheses?</strong> Your patients are living longer thanks to their medications, but many of the physician-prescribed medications used by your patients have dental implications and side effects affecting your treatment plan. Some medications are more likely to cause violent behavior and others can cause, "burning mouth syndrome."
-                </p>
+                <strong>At the conclusion of this course, the participant should understand:</strong>
+                <ul>
+                    <li>The most common medications taken by our patients</li>
+                    <li>Side effects of common medications, including those affecting the oral cavity</li>
+                    <li>Interactions of drugs prescribed by dentists with other medications</li>
+                    <li>Resources available for finding drug information</li>
+                    <li>Management of oral conditions secondary to systemic problems</li>
+                </ul>
 
-                <p>
-                    <strong>What analgesic is the safest for a pregnant patient?</strong> This presentation includes the indications, contraindications, and side effects of the most commonly prescribed medications. Many of these medications were not approved when you took your pharmacology course in dental school. These medications represent one third of all prescriptions taken by your dental patients and familiarity with these drugs will provide the dental practitioner with a better appreciation for the health profile of your dental patient.
-                </p>
             </div>
             <a class="close-reveal-modal">&#215;</a>
         </div>
-        <!-- end crossley-->
+        <!-- end hupp-->
     </div>
     <!-- end saturday -->
     <div id="john-burgess" class="reveal-modal" data-reveal="data-reveal">
@@ -470,7 +473,7 @@ include("template-top.php");
 
                     <div class="row">
                         <div class="columns medium-6">
-                            <a href="#" data-reveal-id="harold-crossley" class="button expand">Previous Speaker</a>
+                            <a href="#" data-reveal-id="wendy-hupp" class="button expand">Previous Speaker</a>
                         </div>
                         <div class="columns medium-6">
                             <a href="#" data-reveal-id="james-simon" class="button expand">Next Speaker</a></div>

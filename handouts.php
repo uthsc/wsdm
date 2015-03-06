@@ -60,13 +60,16 @@ include("template-top.php");
                         <a href="/handouts/dr-john-svirsky-come-in-and-catch-it-the-review-that-sticks-am-1.pdf" class="button small-12 medium-9"><strong>Dr. John Svirsky</strong> -
                             <em>Come In and Catch It. The Review That Sticks AM 1</em>&emsp;<i class="fa fa-file-o"></i></a>
                         <a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#john-svirsky-info"><i class="fa fa-calendar"></i></a>
+
+                     <a href="/handouts/dr-john-burgess-restorative-techniques.pdf" class="button small-12 medium-9"><strong>Dr. John O. Burgess</strong> -
+                            <em>Current Materials &amp; Restorative Dentistry Techniques</em>&emsp;<i class="fa fa-file-o"></i></a>
+                        <a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#john-burgess-info"><i class="fa fa-calendar"></i></a>
+
+
+
+
                     </div>
-<div class="handout-schedule-2">
-                    <h2>Info</h2>
-                    <a data-tooltip aria-haspopup="true" class="has-tip button small-12 medium-9 info" title="Participants will be provided a specific website link at course start in order to access and view the most current version of the presentation handout. If course registrants would like to download the presentation to follow along and make notes, we encourage them to bring a mobile device or small laptop to the course."><strong>Dr. John O. Burgess</strong> - <em>Current Materials &amp; Restorative Dentistry Techniques</em>&emsp;<i class="fa fa-info-circle"></i></a>
-                    <a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#john-burgess-info"><i class="fa fa-calendar"></i></a>
-</div>
-                    <br style="clear: both;" />
+
     <div class="handout-schedule-2">
                     <a data-tooltip aria-haspopup="true" class="has-tip button small-12 medium-9 info" title="Participants will receive their BLS for Healthcare Providers Student Manual and instructor handout at course start."><strong>Dr. Morris Robbins</strong> - <em>CPR Certification & ReCertification</em>&emsp;
                         <i class="fa fa-info-circle"></i> </a>
