@@ -313,7 +313,7 @@ include("template-top.php");
                     <em>Pharmacology for Oral Healthcare Providers</em>&nbsp;
                     <a href="handouts/dr-hupp-part-1-handout.pdf" class="button radius tiny large-2 small-12 use-hyphen handout secondary"><i class="fa fa-file-o"></i>&ensp;Handout Part 1</a>&nbsp;
                     <a href="handouts/dr-hupp-part-2-handout.pdf" class="button radius tiny large-2 small-12 use-hyphen handout secondary"><i class="fa fa-file-o"></i>&ensp;Handout Part 2</a>&nbsp;
-                    <a href="handouts/dr-hupp-part-1-handout.pdf" class="button radius tiny large-2 small-12 use-hyphen handout secondary"><i class="fa fa-file-o"></i>&ensp;Handout Part 3</a>
+                    <a href="handouts/dr-hupp-part-3-handout.pdf" class="button radius tiny large-2 small-12 use-hyphen handout secondary"><i class="fa fa-file-o"></i>&ensp;Handout Part 3</a>
                 </td>
                 <td>6 CEU</td>
             </tr>
