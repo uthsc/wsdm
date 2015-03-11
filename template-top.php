@@ -76,6 +76,7 @@
                                 <li><a href="location.php">Location</a></li>
                                 <li><a href="things-to-do-in-memphis.php">Things To Do In Memphis</a></li>
                                 <li><a href="registration.php">Registration</a></li>
+                                <li><a href="cancellation-policy.php">Cancellation Policy</a></li>
                                 <li><a href="evaluation.php">Evaluation</a></li>
                                 <li>
                                     <a href="http://www.uthscalumni.com/DentistryWeekend2015">Alumni Events &amp; Reunion Info
