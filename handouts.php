@@ -20,8 +20,23 @@ include("template-top.php");
                         <a href="/handouts/dr-ian-erwood-mini-dental-implants-day-1.pdf" class="button small-12 medium-9"><strong>Dr. Ian Erwood</strong> -
                             <em>Mini Dental Implants Day 1</em>&emsp;<i class="fa fa-file-o"></i></a>
                         <a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#ian-erwood-info"><i class="fa fa-calendar"></i></a>
+---
+
+                        <a href="/handouts/dr-hupp-part-1-handout.pdf" class="button small-12 medium-9"><strong>Dr. Wendy S. Hupp</strong> -
+                            <em>Pharmacology for Oral Healthcare Providers - Part 1</em>&emsp;<i class="fa fa-file-o"></i></a>
+                        <a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#wendy-hupp-info"><i class="fa fa-calendar"></i></a>
 
 
+                        <a href="/handouts/dr-hupp-part-2-handout.pdf" class="button small-12 medium-9"><strong>Dr. Wendy S. Hupp</strong> -
+                            <em>Pharmacology for Oral Healthcare Providers - Part 2</em>&emsp;<i class="fa fa-file-o"></i></a>
+                        <a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#wendy-hupp-info"><i class="fa fa-calendar"></i></a>
+
+
+                        <a href="/handouts/dr-hupp-part-3-handout.pdf" class="button small-12 medium-9"><strong>Dr. Wendy S. Hupp</strong> -
+                            <em>Pharmacology for Oral Healthcare Providers - Part 3</em>&emsp;<i class="fa fa-file-o"></i></a>
+                        <a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#wendy-hupp-info"><i class="fa fa-calendar"></i></a>
+
+---
                         <a href="/handouts/laney-kay-jd-blood-spit-and-fears-a-painless-osha-update.pdf" class="button small-12 medium-9"><strong>Laney Kay Jd</strong> -
                             <em>Blood Spit and Fears a Painless OSHA Update</em>&emsp;<i class="fa fa-file-o"></i></a>
                         <a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#laney-kay-info"><i class="fa fa-calendar"></i></a>
