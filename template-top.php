@@ -87,10 +87,6 @@
                         <li><a href="sponsors.php">Sponsors</a></li>
                         <li><a href="continuing-education.php">Continuing Education</a></li>
                     </ul>
-                    <ul class="right">
-                        <li class="active show-for-small-down center-text" style="width: 100%;"><a href="handouts.php"><strong>Handouts&emsp;<i class="fa fa-file-o"></i></strong></a></li>   <!-- 1) Displayed 3x to force positioning-->
-                        <li class="active show-for-large-up center-text" style="width: 334px;"><a href="handouts.php"><strong>Handouts&emsp;<i class="fa fa-file-o"></i></strong></a></li>    <!-- 2) Displayed 3x to force positioning-->
-                    </ul>
                 </section>
             </nav>
             <a href="handouts.php" class="button show-for-medium medium-12 small"><strong>Handouts&emsp;<i class="fa fa-file-o"></i></strong></a>                                             <!-- 3) Displayed 3x to force positioning-->
