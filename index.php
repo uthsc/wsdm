@@ -56,60 +56,50 @@ include("template-top.php");
             <div class="row" data-equalizer>
                 <div class="large-4 medium-4 small-12 columns schedule" data-equalizer-watch>
                     <h3><strong>Friday</strong>
-                        <i class="fa fa-calendar"></i><br/><span class="font-date">March&nbsp;6,&nbsp;2015</span></h3>
+                        <i class="fa fa-calendar"></i><br/><span class="font-date">March&nbsp;4,&nbsp;2016</span></h3>
 
-                    <p><strong>Darrell W. Cain, CPA</strong><br/>
-                        <em>The Economy, Investments &amp; Your Financial Freedom</em><br/>
-                        <em>Financial Patterns Dentists Continue to Adhere to that Amaze Us!</em></p>
-
-                    <p><strong>John A. Svirsky, DDS, MEd</strong><br/>
-                        <em>Come in and Catch it: the review that sticks</em><br/>
-                        <em>Lumps, Bumps and Lesions for all Seasons</em></p>
-
-                    <p><strong>Stanley F. Malamed, DDS</strong><br/> <em>Emergency Medicine: Back to Basics</em></p>
-
-                    <p><strong>Ian Erwood, DDS</strong><br/>
-                        <em>MDI Two Day Certification &amp; Expanded Indications Hands-On Seminar</em><br/>
-                        <strong><em> (this course is a two day commitment)</em></strong></p>
+                    <p>Les H. Binkley, Jr., DDS<br />
+                        Paul N. Gregory, DDS, BS<br />
+                        Quinton C. Robinson, DDS, MS, BS<br />
+                        Rhonda R. Savage, DDS<br />
+                        Terry M. Trojan, DDS, MS<br />
+                        Christopher J. Walinski, DDS<br />
+                        Richard Young, DDS
+                    </p>
                 </div>
                 <div class="large-4 medium-4 small-12 columns schedule" data-equalizer-watch>
                     <h3><strong>Saturday</strong>
-                        <i class="fa fa-calendar"></i><br/><span class="font-date">March&nbsp;7,&nbsp;2015</span></h3>
+                        <i class="fa fa-calendar"></i><br/><span class="font-date">March&nbsp;5,&nbsp;2016</span></h3>
 
-                    <p><strong>Connie Podesta</strong><br/> Keynote Address <em>and…</em><br/>
-                        <em>Life Would be Easy if it Weren't for Other People</em></p>
-
-                    <p><strong>Harold L. Crossley, DDS, PhD</strong><br/>
-                        <em>Medical &amp; Dental Implications of the Most Common Physician–Prescribed Medications!!</em>
+                    <p>Pradeep C. Adatrow, BDS<br />
+                        Harold L. Crossley, DDS, MS, PhD<br />
+                        Van B. Haywood, DMD<br />
+                        Daniel Hassler, DDSm, DHSc, MSHL<br />
+                        Tom Korioth, PhD, DDS<br />
+                        Mrs. Judy Kay Mausolf<br />
+                        David E. Umsted, DDS<br />
+                        Jane Weiner, RDH, BS<br />
+                        Martha H. Wells, DMD
                     </p>
-
-                    <p><strong>John O. Burgess, DDS, MS</strong><br/>
-                        <em>Current Materials &amp; Restorative Dentistry Techniques</em></p>
-
-                    <p><strong>James F. Simon, DDS, MEd</strong><br/>
-                        <em>All-Ceramic and CAD/CAM Technology (Lecture &amp; Hands-On)</em></p>
                 </div>
                 <div class="large-4 medium-4 small-12 columns schedule" data-equalizer-watch>
                     <h3><strong>Sunday</strong> <i class="fa fa-calendar"></i>
-                        <br/><span class="font-date">March&nbsp;8,&nbsp;2015</span></h3>
+                        <br/><span class="font-date">March&nbsp;6,&nbsp;2016</span></h3>
 
-                    <p><strong>Laney Kay, JD</strong><br/> <em>Blood, Spit &amp; Fears: A Painless OSHA Update</em></p>
-
-                    <p><strong>Morris L. Robbins, DDS</strong><br/> <em>CPR Certification &amp; ReCertification</em></p>
-
-                    <p><strong>James Ragain, Jr., DDS, MS, PhD, FICD, FACD</strong><br/>
-                        <em>Chemical Dependency: A review of substance abuse, its impact on the dental practice and rehabilitation strategies</em>
+                    <p>
+                        Laney Kay, JD<br />
+                        Morris L. Robbins, DDS<br />
+                        Cory Glenn, DDS<br />
+                        Wayne McElhiney, DPh, DDS<br />
+                        Larry L. Weeda, Jr., DDS
                     </p>
-
-                    <p><strong>Ronald C. Staples, DDS</strong><br/>
-                        <em>Management of the Medically Compromised Dental Patient</em></p>
-
-                    <p><strong>Jacob Shiloah, DMD</strong><br/> <em>Periodontics for the Entire Dental Team</em></p>
                 </div>
             </div>
         </div>
-        <div class="large-12 columns heading-box">
-            <p>A total of 19 credit hours may be earned by attending the maximum number of courses (16 hours), mini-sessions (2 hours), and breakfast with faculty (1 hour).</p>
+        <div class="large-12 columns heading-box center-text">
+            <p>*Speakers subject to change.</p>
+        </div><div class="large-12 columns heading-box">
+            <p>A total of 18 credit hours may be earned by attending the maximum number of courses (15 hours), mini-sessions (2 hours), and breakfast with faculty (1 hour).</p>
         </div>
     </div><!--end speakers-->
 <?php include("template-bottom.php"); ?>
