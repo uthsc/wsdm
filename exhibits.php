@@ -25,7 +25,8 @@ include("template-top.php");
                     		<ul>
                     			<li><a href="documents/exhibitor-contract.pdf">Exhibitor Contract Agreement <i class="fa fa-file-pdf-o"></i></a></li>
                     			<li><a href="documents/electrical-exhibit-request.pdf">Electrical Exhibit Request <i class="fa fa-file-pdf-o"></i></a></li>
-                    			<li><a href="documents/credit-card-authorization-form.pdf">Credit Card Authorization Form <i class="fa fa-file-pdf-o"></i></a></li>
+                                <li><a href="documents/credit-card-authorization-form.pdf">Credit Card Authorization Form <i class="fa fa-file-pdf-o"></i></a></li>
+                                <li><a href="documents/exhibit-layout.pdf">Exibit Layout* <i class="fa fa-file-pdf-o"></i></a><br />*subject to change per measurement and guideline</li>
                     		</ul>
                     		<p>The completed forms can be mailed to:</p>
                     		<p>Diane S. Weber<br />
