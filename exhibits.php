@@ -29,12 +29,13 @@ include("template-top.php");
                                 <li><a href="documents/exhibit-layout.pdf">Exibit Layout* <i class="fa fa-file-pdf-o"></i></a><br />*subject to change per measurement and guideline</li>
                     		</ul>
                     		<p>The completed forms can be mailed to:</p>
-                    		<p>Diane S. Weber<br />
-                    			Office of Clinical Affairs/College of Dentistry<br />
-                    			The University of Tennessee Health Science Center<br />
-                    			875 Union Avenue<br />
-                    			Room C209E<br />
-                    			Memphis, TN 38163</p>
+                    		<p>Blake Dingman, Planning Committee Member<br />
+                                C/O - University of Tennessee - Dentistry Office of Financial Affairs<br />
+                                875 Union Ave, Rm C211 Memphis, TN 38163<br />
+                                (901)448-6370<br />
+                                (901)448-7104 fax<br />
+                                bdingman@uthsc.edu
+                            </p>
                     		</div>
                          <img src="images/exhibitor.jpg" alt="Exhibitor at the conference" />
                     </div>
