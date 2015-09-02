@@ -24,83 +24,10 @@ include("template-top.php");
 
         <div class="large-4 columns content-box gutter" data-equalizer-watch>
             <div class="row">
-                <div class="large-12 medium-6 columns">
-                    <?php
-                    $info_box = '
-                            <h2>Save the Date</h2>
-                            <h3 class="h3-after-h2"><i class="fa fa-calendar"></i> <span class="font-date">March 6-8, 2015</span></h3>
-                            <a href="registration.php" class="expand round button tiny warning">Register Here!</a>
-
-                            ';
-                    if (
-                        (mktime() > strtotime("march 3, 2015")) &&
-                        (mktime() < strtotime("march 4, 2015"))
-                    ) {
-                        $info_box = '
-                                    <p style="margin-top: 20px;"><strong>Online</strong> registration closes:<br />
-                                    Tuesday, March 3, 10am<br />
-                                    <strong>On-site</strong> registration open:<br />
-                                    Friday, March 6, 7am - 6pm<br />
-                                    Saturday, March 7, 7am - 2pm<br />
-                                    </p>
-                                    <a href="registration.php" class="expand round button tiny warning">Register Here!</a>
-
-                                    ';
-                    }
-                    if (mktime() > strtotime("march 4, 2015")) {
-                        $info_box = '
-                                    <p style="margin-top: 20px;"><strong>Online</strong> registration closes:<br />
-                                    Tuesday, March 3, 10am<br />
-                                    <strong>On-site</strong> registration open:<br />
-                                    Friday, March 6, 7am - 6pm<br />
-                                    Saturday, March 7, 7am - 2pm<br />
-                                    </p>
-                                    ';
-                    }
-
-                    echo $info_box;
-                    ?>
-                    <hr class="hide-for-medium"/>
-                </div>
-                <div class="large-12 medium-6 columns">
-                    <div class="row">
-                        <div class="show-for-medium"><br/></div>
-                        <div class="small-2 columns">
-
-                            <i class="fa fa-map-marker fa-5x"></i>
-                        </div>
-                        <div class="small-10 columns">
-
-                            <p><strong>Hilton Memphis</strong><br/>
-                                <a href="#" data-reveal-id="mapModal">939 Ridge Lake Boulevard<br/> Memphis, Tennessee 38120</a><br/>901-762-7445
-                            </p>
-
-                            <div id="mapModal" class="reveal-modal" data-reveal="data-reveal">
-                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d816.0168084196964!2d-89.86880200000006!3d35.105032!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0xfe047068d613996b!2sHilton+Memphis!5e0!3m2!1sen!2sus!4v1424794919549" width="100%" height="300" frameborder="0" style="border:0"></iframe>
-                                <?php
-                                if (strpos($_SERVER['HTTP_USER_AGENT'], 'Windows') !== false) {
-                                    ?>
-                                    <a href="bingmaps:?collection=point.35.1050219_-89.8688783_William%20F.%20Slagle%20Dental%20Meeting&lvl=10" class="button show-for-large-up">Open in Desktop App</a>
-
-                                <?php
-                                }
-                                if (strpos($_SERVER['HTTP_USER_AGENT'], 'Mac') !== false) {
-                                    ?>
-                                    <a href="http://maps.apple.com/?q=35.1050219,-89.8688783" class="button show-for-large-up">Open in App</a>
-                                <?php
-                                }
-                                ?>
-                                <a href="http://maps.apple.com/?q=35.1050219,-89.8688783" class="button hide-for-large-up">Open in App</a>
-
-                                <a class="close-reveal-modal">&#215;</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="large-12 hide-for-medium columns">
-                    <img class="padded-image" src="http://www3.hilton.com/resources/media/hi/MEMPHHF/en_US/img/shared/full_page_image_gallery/main/HH_ext01_675x359_FitToBoxSmallDimension_Center.jpg" alt="picture of the hilton hotel in memphis"/>
-                </div>
-                <div class="large-12 show-for-medium columns hilton-image">
+                <div class="columns">
+                    <h3>Don't Miss Out!</h3>
+                    <p>Programming is beginning to take shape for the 2016 William F. Slagle Dental Meeting in Memphis, TN!  20 speakers in all will provide amazing courses – topics of interest for everyone.</p>
+                    <p>Please be sure to save the dates of March 4-6 on your calendars!  You will not want to miss this premier educational event!</p>
                 </div>
             </div>
         </div>
