@@ -96,20 +96,3 @@
             <a href="handouts.php" class="button show-for-medium medium-12 small"><strong>Handouts&emsp;<i class="fa fa-file-o"></i></strong></a>                                             <!-- 3) Displayed 3x to force positioning-->
         </div>
     </div>
-<div class="row">
-        <div  data-alert="data-alert" class="panel alert-box warning radius">
-            <i class="fa fa-info-circle fa-4x left"></i>
-            <h2>Dear Registered Attendees:</h2>
-            <br style="clear: both;" />
-            <p>We have received many inquiries regarding the status of the William F. Slagle Dental Meeting scheduled for Friday, March 6-Sunday, March 8, 2015 at the Hilton Memphis in Memphis, TN.  At this time, <strong>the meeting is taking place as scheduled</strong>.</p>
-
-                <p>In the event that we need to send out further information, you will receive it by email.  Follow us on <a href="https://www.facebook.com/pages/William-F-Slagle-Dental-Meeting/228909720561308">Facebook</a> for updates.  </p>
-
-                <p>Sincerely,<br />
-            William F. Slagle Dental Meeting
-                <a href="#" class="close">&times;</a>
-            </p>
-
-
-        </div>
-</div>
