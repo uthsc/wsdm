@@ -26,7 +26,7 @@ include("template-top.php");
                     <h3><strong>Saturday</strong>
                         <i class="fa fa-calendar"></i><br/><span class="font-date">March&nbsp;5,&nbsp;2016</span></h3>
 
-                    <p>Pradeep C. Adatrow, BDS<br />
+                    <p>Cimara Fortes Ferreira, DDS, MSc, PhD, MDS<br />
                         Harold L. Crossley, DDS, MS, PhD<br />
                         Van B. Haywood, DMD<br />
                         Daniel Hassler, DDSm, DHSc, MSHL<br />
@@ -46,7 +46,8 @@ include("template-top.php");
                         Morris L. Robbins, DDS<br />
                         Cory Glenn, DDS<br />
                         Wayne McElhiney, DPh, DDS<br />
-                        Larry L. Weeda, Jr., DDS
+                        Larry L. Weeda, Jr., DDS<br />
+                        Mitsunori Misawa, PhD, MEd
                     </p>
                 </div>
             </div>
