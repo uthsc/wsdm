@@ -13,18 +13,20 @@ include("template-top.php");
                             <h3>Hilton Memphis</h3>
                                 <p>939 Ridge Lake Boulevard<br />
                                 Memphis, Tennessee 38120<br />
-                                901-762-7445</p>
+                                (901) 684-6664 or Toll Free at (800) 445-8667<br />
+
+                                </p>
                                 <img src="http://www3.hilton.com/resources/media/hi/MEMPHHF/en_US/img/shared/full_page_image_gallery/main/HH_ext01_675x359_FitToBoxSmallDimension_Center.jpg" alt="picture of the hilton hotel in memphis" />
                         </div>
                     </div>
                     <div class="medium-8 columns">
-                        <p>A room block is reserved for March 4, 2014 - March 8, 2015.<br />
-                        Special Room Rate:  $125/night + applicable tax and fees<br />
-                        Hotel Reservation Deadline:  February 2nd, 2015<br />
+                        <p>A room block is reserved for March 2, 2016 - March 5, 2016.<br />
+                        Special Room Rate:  $129/night + applicable tax and fees<br />
+                        Hotel Reservation Deadline:  February 1st, 2016<br />
                         (or until the group block is sold-out, whichever comes first)<br />
                         Hotel Check-in:  3 p.m.<br />
                         Hotel Check-out:  11 a.m.</p>
-                        <p>Hotel provides free shuttle service from the Memphis International Airport. See you at the Hilton Memphis in March! We hope you enjoy your stay and your group's event!</p>
+                        <p>Hotel provides free shuttle service from the Memphis International Airport. Once an individual reservation has been made, any changes should be made directly with the Group Reservations Department. A credit card number or one night's advance deposit will be required to secure a room out of this block.  Cancellations must be received 24 hours prior to arrival or one night's room and tax will be assessed.</p>
                         <a href="documents/hilton-meeting-room-map.pdf">Meeting Room Map</a>
                     </div>
                     <div class="columns">
