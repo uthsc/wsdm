@@ -38,6 +38,7 @@ include("template-top.php");
                         <h2>Bronze Level</h2>
                         <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-4 text-center">
                             <li><a href="https://www.waterpik.com/">WaterPik<br /><img src="images/sponsors/waterpick.png" alt="WaterPik logo" /></a></li>
+                            <li><a href="http://www.tenndental.org/mx/hm.asp?id=home">Tennessee Dental Association<br /><img src="images/sponsors/tennessee-dental-association.png" alt="Tennessee Dental Association logo" /></a></li>
                         </ul>
                         <p><a class="button expand" href="corporate-sponsorship-guidelines.php">Find out how your company can become a sponsor!</a></p>
                     </div>
