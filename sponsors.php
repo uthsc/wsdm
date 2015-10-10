@@ -22,9 +22,14 @@ include("template-top.php");
                             <li><a href="http://kuraraydental.com/">Kuraray America, Inc.<br /><img src="images/sponsors/kuraray.png" alt="Kuraray America, Inc. logo" /></a></li>
                         </ul>
                         <hr />
-                        <h2>Titanium Level</h2>
+                        <h2>Silver Level</h2>
                         <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-4 text-center">
                             <li><a href="https://online.deltadentalar.com/dd/ToolKitMain.aspx?DView=HomePage">Delta Dental of Arkansas<br /><img src="images/sponsors/delta-dental.png" alt="Delta Dental Logo"></a></li>
+                            <li><a href="http://www.dentsply.com/en-us">Dentsply Caulk<br /><img src="images/sponsors/caulk-ce.png" alt="Dentsply Caulk logo" /></a></li>
+                        </ul>
+                        <hr />
+                        <h2>Titanium Level</h2>
+                        <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-4 text-center">
                             <li><a href="http://www.pattersondental.com/">Patterson Dental Supply<br /><img src="images/sponsors/patterson-dental.png" alt="Patterson Dental Supply logo" /></a></li>
                             <li><a href="http://www.nashvilledental.com/">Nashville Dental<br /><img src="images/sponsors/nashville-dental-inc.png" alt="Nashville Dentallogo" /></a></li>
                             <li><a href="http://www.mydrmccord.com/">Ocoee Oral Surgery<br /><img src="images/sponsors/ocoee-oral-surgery.png" alt="Ocoee Oral Surgery logo" /></a></li>

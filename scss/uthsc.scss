@@ -190,6 +190,10 @@ margin-top:15px;
 .handout-schedule-2 a.button:nth-child(even) {
   margin-bottom: 0;
 }
+.label.with-wrap {
+  white-space: inherit;
+}
+
 a.button:nth-child(odd) {
   margin-bottom: 0;
 }
