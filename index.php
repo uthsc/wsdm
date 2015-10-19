@@ -8,17 +8,19 @@ include("template-top.php");
 
             <div class="big-image big-image-large show-for-large-up" data-equalizer-watch>
                 <div class="row">
-                    <div class="small-10 columns small-centered text-center content-box" style="margin-top: 10%;">
-                        <h2>Save the Date</h2>
+                    <div class="small-10 columns small-centered text-center content-box" style="margin-top: 10%;padding: 0 0 1rem 0;">
+                        <h2>Registration is Open!</h2>
                         <h3 class="h3-after-h2"><i class="fa fa-calendar"></i> <span class="font-date">March 4-6, 2016</span></h3>
+                        <a class="button" href="registration.php"><strong>Register Now!</strong></a>
                     </div>
                 </div>
             </div>
             <div class="big-image hide-for-large-up" data-equalizer-watch>
                 <div class="row">
-                    <div class="small-10 columns small-centered text-center content-box">
-                        <h2>Save the Date</h2>
+                    <div class="small-10 columns small-centered text-center content-box" style="margin-top: 10%;margin-bottom:10%;padding: 0 0 1rem 0;">
+                        <h2>Registration is Open!</h2>
                         <h3 class="h3-after-h2"><i class="fa fa-calendar"></i> <span class="font-date">March 4-6, 2016</span></h3>
+                        <a class="button small" href="registration.php"><strong>Register Now!</strong></a>
                     </div>
                 </div>
             </div>
