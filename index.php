@@ -62,7 +62,7 @@ include("template-top.php");
 
                     <p>Les H. Binkley, Jr., DDS<br />
                         Paul N. Gregory, DDS, BS<br />
-                        Quinton C. Robinson, DDS, MS, BS<br />
+                        Quinton C. Robinson, DDS, MS<br />
                         Rhonda R. Savage, DDS<br />
                         Terry M. Trojan, DDS, MS<br />
                         Christopher J. Walinski, DDS<br />
