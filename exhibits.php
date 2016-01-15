@@ -20,8 +20,7 @@
                     beginning at 1:00 PM and will need to be completed with booth assembly by 4:30 PM. The Exhibit Hall
                     will open for display during the William F. Slagle Dental Meeting on Friday morning, March 4th at
                     7:30 AM and close at 6:00 PM. Exhibitors will reopen for display on Saturday morning, March 5th
-                    beginning at 7:30 AM and will close at 6:00 PM. Sunday Morning Exhibitors will reopen for display
-                    from 7:30 AM to 2:30 PM. Booth takedown will begin promptly thereafter.</p>
+                    beginning at 7:30 AM and will close at 2:00 pm. Booth takedown will begin promptly thereafter.</p>
                 <p>Should you wish to participate, <a href="documents/exhibitor-contract.pdf">a contract is available <i
                         class="fa fa-file-pdf-o"></i></a> for you to print, complete and return with a check for $700.00
                     made payable to the UT/William F. Slagle Dental Meeting. We have an early bird special for those
