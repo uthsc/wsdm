@@ -323,6 +323,17 @@ include("template-top.php");
                             <td>3 hours CE<br />[011PM]</td>
                         </tr>
                         <tr>
+                            <td>5:00pm - 7:00pm</td>
+                            <td>
+                                <div class="label warning">NEW EVENT <i class="fa fa-exclamation-circle"></i></div><br />
+                                <strong>Class Reunion Social Cocktail Reception</strong><br />
+                                <p class="label with-wrap">Tower Center<br />
+                                    5100 Poplar Ave., 33rd Floor<br />
+                                Cost $15 per guest</p>
+                            </td>
+                            <td></td>
+                        </tr>
+                        <tr>
                             <td>7:00pm</td>
                             <td><strong>UT Individual Class Reunion Events</strong><br />
                                 <p class="label with-wrap">Separate registration through the Office of Alumni Affairs.
