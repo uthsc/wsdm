@@ -92,6 +92,5 @@
                     </ul>
                 </section>
             </nav>
-            <a href="handouts.php" class="button show-for-medium medium-12 small"><strong>Handouts&emsp;<i class="fa fa-file-o"></i></strong></a>                                             <!-- 3) Displayed 3x to force positioning-->
         </div>
     </div>
