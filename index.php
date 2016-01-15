@@ -45,7 +45,7 @@ include("template-top.php");
             <a href="http://uthsc.edu/dentistry/"><img src="images/cod-seal.png" class="affiliates" alt="uthsc college of denistry seal"/></a>
         </div>
         <div class="large-4 medium-4 small-12 columns content-box">
-            <a href="http://uthscalumni.com/"><img src="images/cde-alumni-logo.png" class="affiliates" alt="uthsc alumni logo"/></a>
+            <a href="http://www.uthscalumni.com/s/1341/uthsc/index.aspx?sid=1341&gid=4&pgid=7026"><img src="images/cde-alumni-logo.png" class="affiliates" alt="uthsc alumni logo"/></a>
         </div>
     </div><!--end affiliates-->
     <div id="speakers" style="height:44px;"></div>
