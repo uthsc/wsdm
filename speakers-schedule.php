@@ -62,7 +62,7 @@ include("template-top.php");
                             <td>12 hours CE<br />[001]</td>
                         </tr>
                         <tr>
-                            <td>8:30am – 11:30pm</td>
+                            <td>8:30am – 11:30am</td>
                             <td><strong>Savage Bottom Line</strong><br />
                                 <a href="#" data-reveal-id="rhonda-savage">Rhonda R. Savage, DDS</a><br />
                                 Sponsored by Delta Dental of Tennessee
@@ -70,14 +70,14 @@ include("template-top.php");
                             <td>3 hours CE<br />[002AM]</td>
                         </tr>
                         <tr>
-                            <td>8:30am – 11:30pm</td>
+                            <td>8:30am – 11:30am</td>
                             <td><strong>Adapting Your Mind to Orthodontic Treatment</strong><br />
                                 <a href="#" data-reveal-id="terry-trojan">Terry M. Trojan, DDS, MS</a>
                             </td>
                             <td>3 hours CE<br />[003AM]</td>
                         </tr>
                         <tr>
-                            <td>8:30am – 11:30pm</td>
+                            <td>8:30am – 11:30am</td>
                             <td><strong>Tooth Structure: Nature’s Best Restorative Material (Use It, Don’t Lose It!)</strong><br />
                                 <a href="#" data-reveal-id="richard-young">Richard Young, DDS</a><br />
                                 Sponsored by Kuraray Company
@@ -107,7 +107,7 @@ include("template-top.php");
                             <td>[006]</td>
                         </tr>
                         <tr>
-                            <td>12:30pm – 1:15pm</td>
+                            <td>12:15pm – 1:15pm</td>
                             <td><strong>Exhibitor Sponsored Mini Sessions</strong><br />
                                 Course Titles and Speakers Coming Soon!
                             </td>
@@ -141,7 +141,7 @@ include("template-top.php");
                             <td>3 hours CE<br />[004PM ]</td>
                         </tr>
                         <tr>
-                            <td>4:45pm – 6:30pm</td>
+                            <td>4:30pm – 6:00pm</td>
                             <td><strong>American College of Dentist’s Meeting</strong><br />
 
                             </td>
@@ -187,7 +187,7 @@ include("template-top.php");
                         </tr>
 <!--=========-->
                         <tr>
-                            <td id="breakfast-and-learn-info" rowspan="2">7:00am - 8:15pm<br/>
+                            <td id="breakfast-and-learn-info" rowspan="2">7:00am - 8:15am<br/>
                                 <span data-tooltip aria-haspopup="true" class="has-tip" title="<strong>Breakfast &amp; Learn</strong><br />with UT Faculty"><i class="fa fa-coffee button expand small secondary center-text"></i></span>
                             </td>
                             <td class="dropcap">1 <strong>Update on Fixed Prosthodontics at UT: And Yes, Gold & PFM are Still Alive!</strong><br/>
@@ -281,7 +281,7 @@ include("template-top.php");
                             <td>[014]</td>
                         </tr>
                         <tr>
-                            <td>12:30pm – 1:20pm</td>
+                            <td>12:15pm – 1:20pm</td>
                             <td><strong>Exhibitor Sponsored Mini Sessions</strong><br />
                                 Course Titles and Speakers Coming Soon!
                             </td>
