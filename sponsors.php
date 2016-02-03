@@ -39,6 +39,8 @@ include("template-top.php");
                         <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-4 text-center">
                             <li><a href="https://www.waterpik.com/">WaterPik<br /><img src="images/sponsors/waterpick.png" alt="WaterPik logo" /></a></li>
                             <li><a href="http://www.tenndental.org/mx/hm.asp?id=home">Tennessee Dental Association<br /><img src="images/sponsors/tennessee-dental-association.png" alt="Tennessee Dental Association logo" /></a></li>
+                            <li><a href="http://www.dildentallab.com/">DIL Dental Lab<br /><img src="images/sponsors/dil-dental-lab.png" alt="DIL Dental Lab logo" /></a></li>
+                            <li><a href="http://rdentlab.com/">R-Dent Dental Laboratory<br /><img src="images/sponsors/r-dent.png" alt="R-Dent Dental Laboratory logo" /></a></li>
                         </ul>
                         <p><a class="button expand" href="corporate-sponsorship-guidelines.php">Find out how your company can become a sponsor!</a></p>
                     </div>
