@@ -11,90 +11,33 @@ include("template-top.php");
             <div class="row">
                 <div class="columns">
                     <h2>Downloads</h2>
-
-                    <div class="handout-schedule">
-                        <a href="/handouts/dr-ian-erwood-mini-dental-implants-day-2.pdf" class="button small-12 medium-9"><strong>Dr. Ian Erwood</strong> -
-                            <em>Mini Dental Implants Day 2</em>&emsp;<i class="fa fa-file-o"></i></a>
-                        <a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#ian-erwood-info"><i class="fa fa-calendar"></i></a>
-
-                        <a href="/handouts/dr-ian-erwood-mini-dental-implants-day-1.pdf" class="button small-12 medium-9"><strong>Dr. Ian Erwood</strong> -
-                            <em>Mini Dental Implants Day 1</em>&emsp;<i class="fa fa-file-o"></i></a>
-                        <a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#ian-erwood-info"><i class="fa fa-calendar"></i></a>
----
-
-                        <a href="/handouts/dr-hupp-part-1-handout.pdf" class="button small-12 medium-9"><strong>Dr. Wendy S. Hupp</strong> -
-                            <em>Pharmacology for Oral Healthcare Providers - Part 1</em>&emsp;<i class="fa fa-file-o"></i></a>
-                        <a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#wendy-hupp-info"><i class="fa fa-calendar"></i></a>
-
-
-                        <a href="/handouts/dr-hupp-part-2-handout.pdf" class="button small-12 medium-9"><strong>Dr. Wendy S. Hupp</strong> -
-                            <em>Pharmacology for Oral Healthcare Providers - Part 2</em>&emsp;<i class="fa fa-file-o"></i></a>
-                        <a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#wendy-hupp-info"><i class="fa fa-calendar"></i></a>
-
-
-                        <a href="/handouts/dr-hupp-part-3-handout.pdf" class="button small-12 medium-9"><strong>Dr. Wendy S. Hupp</strong> -
-                            <em>Pharmacology for Oral Healthcare Providers - Part 3</em>&emsp;<i class="fa fa-file-o"></i></a>
-                        <a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#wendy-hupp-info"><i class="fa fa-calendar"></i></a>
-
----
-                        <a href="/handouts/laney-kay-jd-blood-spit-and-fears-a-painless-osha-update.pdf" class="button small-12 medium-9"><strong>Laney Kay Jd</strong> -
-                            <em>Blood Spit and Fears a Painless OSHA Update</em>&emsp;<i class="fa fa-file-o"></i></a>
-                        <a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#laney-kay-info"><i class="fa fa-calendar"></i></a>
-
-
-                        <a href="/handouts/dr-stanley-malamed-emergency-medicine-back-to-basics.pdf" class="button small-12 medium-9"><strong>Dr. Stanley Malamed</strong> -
-                            <em>Emergency Medicine Back to Basics</em>&emsp;<i class="fa fa-file-o"></i></a>
-                        <a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#stanley-malamed-info"><i class="fa fa-calendar"></i></a>
-
-
-                        <a href="/handouts/dr-jacob-shiloah-periodontics-for-the-entire-dental-team.pdf" class="button small-12 medium-9"><strong>Dr. Jacob Shiloah</strong> -
-                            <em>Periodontics for the Entire Dental Team</em>&emsp;<i class="fa fa-file-o"></i></a>
-                        <a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#jacob-shiloah-info"><i class="fa fa-calendar"></i></a>
-
-
-                        <a href="/handouts/dr-james-simon-all-ceramic-crowns-and-cad-cam-technology.pdf" class="button small-12 medium-9"><strong>Dr. James Simon</strong> -
-                            <em>All Ceramic Crowns and Cad Cam Technology</em>&emsp;<i class="fa fa-file-o"></i></a>
-                        <a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#james-simon-info"><i class="fa fa-calendar"></i></a>
-
-
-                        <a href="/handouts/dr-ronald-staples-management-of-the-medically-compromised-patient.pdf" class="button small-12 medium-9"><strong>Dr. Ronald Staples</strong> -
-                            <em>Management of the Medically Compromised Patient</em>&emsp;<i class="fa fa-file-o"></i></a>
-                        <a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#ron-staples-info"><i class="fa fa-calendar"></i></a>
-
-
-                        <a href="/handouts/dr-john-svirsky-lumps-bumps-and-lesions-for-all-seasons-pm.pdf" class="button small-12 medium-9"><strong>Dr. John Svirsky</strong> -
-                            <em>Lumps Bumps and Lesions for All Seasons PM</em>&emsp;<i class="fa fa-file-o"></i></a>
-                        <a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#john-svirsky-info"><i class="fa fa-calendar"></i></a>
-
-
-                        <a href="/handouts/dr-john-svirsky-come-in-and-catch-it-the-review-that-sticks-am-2.pdf" class="button small-12 medium-9"><strong>Dr. John Svirsky</strong> -
-                            <em>Come In and Catch It. The Review That Sticks AM 2</em>&emsp;<i class="fa fa-file-o"></i></a>
-                        <a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#john-svirsky-info"><i class="fa fa-calendar"></i></a>
-
-
-                        <a href="/handouts/dr-john-svirsky-come-in-and-catch-it-the-review-that-sticks-am-1.pdf" class="button small-12 medium-9"><strong>Dr. John Svirsky</strong> -
-                            <em>Come In and Catch It. The Review That Sticks AM 1</em>&emsp;<i class="fa fa-file-o"></i></a>
-                        <a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#john-svirsky-info"><i class="fa fa-calendar"></i></a>
-
-                     <a href="/handouts/dr-john-burgess-restorative-techniques.pdf" class="button small-12 medium-9"><strong>Dr. John O. Burgess</strong> -
-                            <em>Current Materials &amp; Restorative Dentistry Techniques</em>&emsp;<i class="fa fa-file-o"></i></a>
-                        <a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#john-burgess-info"><i class="fa fa-calendar"></i></a>
-
-
-
-
-                    </div>
-
-    <div class="handout-schedule-2">
-                    <a data-tooltip aria-haspopup="true" class="has-tip button small-12 medium-9 info" title="Participants will receive their BLS for Healthcare Providers Student Manual and instructor handout at course start."><strong>Dr. Morris Robbins</strong> - <em>CPR Certification & ReCertification</em>&emsp;
-                        <i class="fa fa-info-circle"></i> </a>
-                    <a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#morris-robbins-info"><i class="fa fa-calendar"></i></a>
-        <br style="clear: both;" />
-        <br style="clear: both;" />
-
-
-                    </div>
-
+                        <ul class="small-block-grid-1">
+                            <li><a href="/handouts/dr.-crossley-medical-and-dental-implications-of-the-most-common-physician-prescribed-medications.pdf" class="button small-12"><strong>Dr. Crossley</strong> - <em>Medical and Dental Implications of the Most Common Physician Prescribed Medications</em>&emsp;<i class="fa fa-file-o"></i></a><!--<a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#-haywood-info"><i class="fa fa-calendar"></i></a>--></li>
+                            <li><a href="/handouts/dr.-haywood-am-01-bleaching-childrens-teeth-questions-and-answers.pdf" class="button small-12"><strong>Dr. Haywood</strong> - <em>Bleaching Childrens Teeth Questions and answers (AM 01)</em>&emsp;<i class="fa fa-file-o"></i></a><!--<a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#-haywood-info"><i class="fa fa-calendar"></i></a>--></li>
+                            <li><a href="/handouts/dr.-haywood-am-02-bottom-line-on-bleaching.pdf" class="button small-12"><strong>Dr. Haywood</strong> - <em>Bottom Line on Bleaching (AM 02)</em>&emsp;<i class="fa fa-file-o"></i></a><!--<a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#-haywood-info"><i class="fa fa-calendar"></i></a>--></li>
+                            <li><a href="/handouts/dr.-haywood-am-03-bleaching-instructions.pdf" class="button small-12"><strong>Dr. Haywood</strong> - <em>Bleaching Instructions (AM 03)</em>&emsp;<i class="fa fa-file-o"></i></a><!--<a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#-haywood-info"><i class="fa fa-calendar"></i></a>--></li>
+                            <li><a href="/handouts/dr.-haywood-am-04-in-office-bleaching-haywood-guest-editorial.pdf" class="button small-12"><strong>Dr. Haywood</strong> - <em>In Office Bleaching Haywood Guest Editorial (AM 04)</em>&emsp;<i class="fa fa-file-o"></i></a><!--<a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#-haywood-info"><i class="fa fa-calendar"></i></a>--></li>
+                            <li><a href="/handouts/dr.-haywood-am-05-bleaching-analysis-form.pdf" class="button small-12"><strong>Dr. Haywood</strong> - <em>Bleaching Analysis Form (AM 05)</em>&emsp;<i class="fa fa-file-o"></i></a><!--<a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#-haywood-info"><i class="fa fa-calendar"></i></a>--></li>
+                            <li><a href="/handouts/dr.-haywood-am-06-prebleaching-exam-in-practice-id.pdf" class="button small-12"><strong>Dr. Haywood</strong> - <em>PreBleaching Exam in Practice ID (AM 06)</em>&emsp;<i class="fa fa-file-o"></i></a><!--<a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#-haywood-info"><i class="fa fa-calendar"></i></a>--></li>
+                            <li><a href="/handouts/dr.-haywood-pm-01-tray-fabrication.pdf" class="button small-12"><strong>Dr. Haywood</strong> - <em>Tray Fabrication (PM 01)</em>&emsp;<i class="fa fa-file-o"></i></a><!--<a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#-haywood-info"><i class="fa fa-calendar"></i></a>--></li>
+                            <li><a href="/handouts/dr.-haywood-pm-02-adt-caries-control-elderly.pdf" class="button small-12"><strong>Dr. Haywood</strong> - <em>ADT Caries Control Elderly (PM 02)</em>&emsp;<i class="fa fa-file-o"></i></a><!--<a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#-haywood-info"><i class="fa fa-calendar"></i></a>--></li>
+                            <li><a href="/handouts/dr.-haywood-pm-03-considerations-for-managing-bleaching-sensitivity.pdf" class="button small-12"><strong>Dr. Haywood</strong> - <em>Considerations for Managing Bleaching Sensitivity (PM 03)</em>&emsp;<i class="fa fa-file-o"></i></a><!--<a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#-haywood-info"><i class="fa fa-calendar"></i></a>--></li>
+                            <li><a href="/handouts/dr.-haywood-pm-04-bleaching-instructions-sensitive-teeth.pdf" class="button small-12"><strong>Dr. Haywood</strong> - <em>Bleaching Instructions Sensitive Teeth (PM 04)</em>&emsp;<i class="fa fa-file-o"></i></a><!--<a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#-haywood-info"><i class="fa fa-calendar"></i></a>--></li>
+                            <li><a href="/handouts/dr.-haywood-pm-05-orthodontic-caries-control-and-bleaching.pdf" class="button small-12"><strong>Dr. Haywood</strong> - <em>Orthodontic Caries Control and Bleaching (PM 05)</em>&emsp;<i class="fa fa-file-o"></i></a><!--<a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#-haywood-info"><i class="fa fa-calendar"></i></a>--></li>
+                            <li><a href="/handouts/dr.-haywood-pm-06-single-dark-tooth-bleach.pdf" class="button small-12"><strong>Dr. Haywood</strong> - <em>Single Dark Tooth Bleach (PM 06)</em>&emsp;<i class="fa fa-file-o"></i></a><!--<a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#-haywood-info"><i class="fa fa-calendar"></i></a>--></li>
+                            <li><a href="/handouts/laney-kay-a-painless-osha-update.pdf" class="button small-12"><strong>Ms. Laney Kay</strong> - <em>A Painless OSHA Update</em>&emsp;<i class="fa fa-file-o"></i></a><!--<a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#-laney-kay-info"><i class="fa fa-calendar"></i></a>--></li>
+                            <li><a href="/handouts/dr.-korioth-fixed-prosthodonics-guidelines-for-crowns.pdf" class="button small-12"><span data-tooltip aria-haspopup="true" class="has-tip" title="<strong>Breakfast &amp; Learn</strong>"><i class="fa fa-coffee label"></i></span> <strong>Dr. Korioth</strong> - <em>Fixed Prosthodonics Guidelines for Crowns</em>&emsp;<i class="fa fa-file-o"></i></a><!--<a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#-korioth-info"><i class="fa fa-calendar"></i></a>--></li>
+                            <li><a href="/handouts/dr.-korioth-update-on-fixed-prosthodontics-at-uthsc.pdf" class="button small-12"><span data-tooltip aria-haspopup="true" class="has-tip" title="<strong>Breakfast &amp; Learn</strong>"><i class="fa fa-coffee label"></i></span> <strong>Dr. Korioth</strong> - <em>Update on Fixed Prosthodontics at UTHSC (And Yes Gold and PFM are Still Alive)</em>&emsp;<i class="fa fa-file-o"></i></a><!--<a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#-korioth-info"><i class="fa fa-calendar"></i></a>--></li>
+                            <li><a href="/handouts/ms.-mausolf-communication-solutions.pdf" class="button small-12"><strong>Ms. Mausolf</strong> - <em>Communication Solutions</em>&emsp;<i class="fa fa-file-o"></i></a><!--<a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#-mausolf-info"><i class="fa fa-calendar"></i></a>--></li>
+                            <li><a href="/handouts/ms.-mausolf-delivering-wow-service.pdf" class="button small-12"><strong>Ms. Mausolf</strong> - <em>Delivering WOW Service</em>&emsp;<i class="fa fa-file-o"></i></a><!--<a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#-mausolf-info"><i class="fa fa-calendar"></i></a>--></li>
+                            <li><a href="/handouts/dr.-mcelhiney-chemical-dependency.pdf" class="button small-12"><strong>Dr. McElhiney</strong> - <em>Chemical Dependency</em>&emsp;<i class="fa fa-file-o"></i></a><!--<a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#-mcelhiney-info"><i class="fa fa-calendar"></i></a>--></li>
+                            <li><a href="/handouts/dr.-savage-the-savage-bottom-line.pdf" class="button small-12"><strong>Dr. Savage</strong> - <em>The Savage Bottom Line</em>&emsp;<i class="fa fa-file-o"></i></a><!--<a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#-savage-info"><i class="fa fa-calendar"></i></a>--></li>
+                            <li><a href="/handouts/dr.-savage-the-savage-front-desk.pdf" class="button small-12"><strong>Dr. Savage</strong> - <em>The Savage Front Desk</em>&emsp;<i class="fa fa-file-o"></i></a><!--<a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#-savage-info"><i class="fa fa-calendar"></i></a>--></li>
+                            <li><a href="/handouts/dr.-umsted-breakfast-and-learn.pdf" class="button small-12"><span data-tooltip aria-haspopup="true" class="has-tip" title="<strong>Breakfast &amp; Learn</strong>"><i class="fa fa-coffee label"></i></span> <strong>Dr. Umsted</strong> - <em>Breakfast and Learn</em>&emsp;<i class="fa fa-file-o"></i></a><!--<a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#-umsted-info"><i class="fa fa-calendar"></i></a>--></li>
+                            <li><a href="/handouts/dr.-weeda-goodbye-bronj.pdf" class="button small-12"><strong>Dr. Weeda</strong> - <em>Goodbye BRONJ</em>&emsp;<i class="fa fa-file-o"></i></a><!--<a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#-weeda-info"><i class="fa fa-calendar"></i></a>--></li>
+                            <li><a href="/handouts/ms.-weiner-am-dental-hygiene-update.pdf" class="button small-12"><strong>Ms. Weiner</strong> - <em>Dental Hygiene Update (AM)</em>&emsp;<i class="fa fa-file-o"></i></a><!--<a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#-laney-kay-info"><i class="fa fa-calendar"></i></a>--></li>
+                            <li><a href="/handouts/dr.-wells-uploading-pediatric-dentistry-2.0.pdf" class="button small-12"><strong>Dr. Wells</strong> - <em>Uploading Pediatric Dentistry 2.0</em>&emsp;<i class="fa fa-file-o"></i></a><!--<a class="button secondary small-12 medium-2" title="View in schedule." href="speakers-schedule.php#-wells-info"><i class="fa fa-calendar"></i></a>--></li>
+                        </ul>
                 </div>
             </div>
 
