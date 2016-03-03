@@ -2,7 +2,6 @@
 $pagename = 'Home';
 include("template-top.php");
 ?>
-
     <div class="row" data-equalizer><!--big image and important info-->
         <div class="large-8 columns gutter">
 
@@ -10,17 +9,44 @@ include("template-top.php");
                 <div class="row">
                     <div class="small-10 columns small-centered text-center content-box" style="margin-top: 10%;padding: 0 0 1rem 0;">
                         <h2>Registration is Open!</h2>
-                        <h3 class="h3-after-h2"><i class="fa fa-calendar"></i> <span class="font-date">March 4-6, 2016</span></h3>
-                        <a class="button" href="registration.php"><strong>Register Now!</strong></a>
+                        <div data-alert class="alert-box warning radius small-10 small-centered small-push-1">
+                            <div class="row">
+                                <div class="columns small-6">
+                                    <strong>Don’t miss out!</strong><br />
+                                    Online Registration closes<br /><i class="fa fa-calendar"></i>  Tuesday, February 23!<br />
+                                </div>
+                                <div class="columns small-6">
+                                    <a class="button small" href="registration.php"><strong>Register Now!</strong></a>
+                                </div>
+                            </div>
+                            <a href="#" class="close">&times;</a>
+                        </div>
+
+                        <div class="panel"> On-site registration is open:
+                            Friday, March 4, 7am - 6pm
+                            Saturday, March 5, 7am - 2pm
+                        </div>
                     </div>
                 </div>
             </div>
             <div class="big-image hide-for-large-up" data-equalizer-watch>
                 <div class="row">
                     <div class="small-10 columns small-centered text-center content-box" style="margin-top: 10%;margin-bottom:10%;padding: 0 0 1rem 0;">
+
                         <h2>Registration is Open!</h2>
-                        <h3 class="h3-after-h2"><i class="fa fa-calendar"></i> <span class="font-date">March 4-6, 2016</span></h3>
-                        <a class="button small" href="registration.php"><strong>Register Now!</strong></a>
+                        <div data-alert class="alert-box warning radius small-10 small-centered small-push-1">
+                            <strong>Don’t miss out!</strong><br />
+                            Online Registration closes<br /><i class="fa fa-calendar"></i>  Tuesday, February 23!<br />
+
+                            <a class="button small" href="registration.php"><strong>Register Now!</strong></a>
+                            <a href="#" class="close">&times;</a>
+                        </div>
+
+                            <div class="panel"> On-site registration is open:
+                            Friday, March 4, 7am - 6pm
+                            Saturday, March 5, 7am - 2pm
+                        </div>
+
                     </div>
                 </div>
             </div>
@@ -29,8 +55,7 @@ include("template-top.php");
         <div class="large-4 columns content-box gutter" data-equalizer-watch>
             <div class="row">
                 <div class="columns">
-                    <h3>Don't Miss Out!</h3>
-                    <p>Programming is beginning to take shape for the 2016 William F. Slagle Dental Meeting in Memphis, TN!  20 speakers in all will provide amazing courses – topics of interest for everyone.</p>
+                    <h2><i class="fa fa-calendar"></i> <span class="font-date">March 4-6, 2016</span></h2>                    <p>Programming is beginning to take shape for the 2016 William F. Slagle Dental Meeting in Memphis, TN!  20 speakers in all will provide amazing courses – topics of interest for everyone.</p>
                     <p>Please be sure to save the dates of March 4-6 on your calendars!  You will not want to miss this premier educational event!</p>
                 </div>
             </div>
