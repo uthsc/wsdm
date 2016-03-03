@@ -10,7 +10,7 @@
     <meta property="og:title" content="William F. Slagle Dental Meeting"/>
     <meta property="og:site_name" content="William F. Slagle Dental Meeting"/>
     <meta property="og:url" content="http://slagledentalmeeting.com"/>
-    <meta property="og:description" content="March 6-8, 2015 at the Hilton Memphis. Registration is now OPEN! The William F. Slagle Dental Meeting, formerly named the MidSouth Dental Congress, is one of the College of Dentistry's greatest traditions. We are celebrating an historic milestone during the Slagle Meeting in March 2015, - Our 20th Anniversary! The MidSouth Dental Congress was implemented in 1995 as a means to promote quality care by providing the dental team with an exceptional education opportunity. In accordance with this mission, this meeting is committed to offering extensive continuing education courses, commercial exhibits, and additional educational programs advancing the growth and development of the dental profession."/>
+    <meta property="og:description" content="The William F. Slagle Dental Meeting, formerly named the MidSouth Dental Congress, is one of The University of Tennessee College of Dentistry’s greatest traditions.  The event was implemented in 1995 as a means to promote quality care by providing the dental team with an exceptional education opportunity. In accordance with this mission, this premier meeting is committed to offering extensive continuing education courses, commercial exhibits, and additional educational programs advancing the growth and development of the dental profession."/>
     <script>
         (function (i, s, o, g, r, a, m) {
             i['GoogleAnalyticsObject'] = r;
@@ -89,6 +89,7 @@
                     </ul>
                     <ul class="right">
                         <li class="active"><a href="registration.php"><strong>Register Now!</strong></a></li>
+                        <li><a href="handouts.php"><span class="fa fa-file-pdf-o"></span>&emsp;Handouts</a></li>
                     </ul>
                 </section>
             </nav>
