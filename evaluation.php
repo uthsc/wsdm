@@ -16,12 +16,12 @@ include("template-top.php");
                     <?php
                     $link = '';
                     $class = 'disabled';
-                    $title = 'Inactive. Only available March 6, 2015 - April 6, 2015';
+                    $title = 'Inactive. Only available March 4, 2016 - April 6, 2016';
                     if (
-                        (mktime() > strtotime("march 6, 2015")) &&
-                        (mktime() < strtotime("april 7, 2015"))
+                        (mktime() > strtotime("march 4, 2016")) &&
+                        (mktime() < strtotime("april 7, 2016"))
                     ) {
-                        $link = 'href="https://uthsc.co1.qualtrics.com/SE/?SID=SV_b1LUGfIHeNeACcB"';
+                        $link = 'href="https://uthsc.co1.qualtrics.com/SE/?SID=SV_9mkie92rFvyVe3X"';
                         $class = '';
                         $title = 'Submit today and be eligible for the prize drawing!';
                     }
