@@ -89,7 +89,6 @@
                     </ul>
                     <ul class="right">
                         <li class="active"><a href="registration.php"><strong>Register Now!</strong></a></li>
-                        <li><a href="handouts.php"><span class="fa fa-file-pdf-o"></span>&emsp;Handouts</a></li>
                     </ul>
                 </section>
             </nav>
