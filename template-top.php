@@ -72,7 +72,7 @@
                         </li>
                         <li class="has-dropdown"><a href="#">Attend</a>
                             <ul class="dropdown">
-                                <li><a href="speakers-schedule.php">Speakers &amp; Schedule</a></li>
+<!--                                <li><a href="speakers-schedule.php">Speakers &amp; Schedule</a></li>-->
                                 <li><a href="location.php">Location</a></li>
                                 <li><a href="things-to-do-in-memphis.php">Things To Do In Memphis</a></li>
                                 <li><a href="registration.php">Registration</a></li>
@@ -87,9 +87,9 @@
                         <li><a href="sponsors.php">Sponsors</a></li>
                         <li><a href="continuing-education.php">Continuing Education</a></li>
                     </ul>
-                    <ul class="right">
-                        <li class="active"><a href="registration.php"><strong>Register Now!</strong></a></li>
-                    </ul>
+<!--                    <ul class="right">-->
+<!--                        <li class="active"><a href="registration.php"><strong>Register Now!</strong></a></li>-->
+<!--                    </ul>-->
                 </section>
             </nav>
         </div>

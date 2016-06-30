@@ -20,17 +20,17 @@ include("template-top.php");
                         </div>
                         <p class="panel">Sponsor a current UT College of Dentistry student to attend the William F. Slagle Dental Meeting.  Your $75 sponsorship will allow a student the opportunity to participate in the courses and network with dental professionals. Simply indicate the number of students you would like to sponsor when registering. Your support is greatly appreciated.</p>
 
-                        <div class="row alert-box warning">
-                            <div class="columns small-centered">
-                                <p><strong>On-site</strong> registration open:</p>
-                                <ul>
-                                    <li>Friday, March 4, 7am - 6pm</li>
-                                    <li>Saturday, March 5, 7am - 2pm</li>
-                                </ul>
-                            </div>
-                            <a href="https://utconferences.outreach.utk.edu/ei/getdemo.ei?id=453&s=_3VS0X2Y5U&bulk=y" class="button expand">Register Now!</a>
-                        </div>
-                        <br style="clear: both;" />
+<!--                        <div class="row alert-box warning">-->
+<!--                            <div class="columns small-centered">-->
+<!--                                <p><strong>On-site</strong> registration open:</p>-->
+<!--                                <ul>-->
+<!--                                    <li>Friday, March 4, 7am - 6pm</li>-->
+<!--                                    <li>Saturday, March 5, 7am - 2pm</li>-->
+<!--                                </ul>-->
+<!--                            </div>-->
+<!--                            <a href="https://utconferences.outreach.utk.edu/ei/getdemo.ei?id=453&s=_3VS0X2Y5U&bulk=y" class="button expand">Register Now!</a>-->
+<!--                        </div>-->
+<!--                        <br style="clear: both;" />-->
 
                     </div>
                     <div class="small-12 large-5 columns">
