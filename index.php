@@ -15,22 +15,9 @@ include("template-top.php");
             </div>
             <div class="big-image hide-for-large-up" data-equalizer-watch>
                 <div class="row">
-                    <div class="small-10 columns small-centered text-center content-box" style="margin-top: 10%;margin-bottom:10%;padding: 0 0 1rem 0;">
-
-                        <h2>Registration is Open!</h2>
-                        <div data-alert class="alert-box warning radius small-10 small-centered small-push-1">
-                            <strong>Don’t miss out!</strong><br />
-                            Online Registration closes<br /><i class="fa fa-calendar"></i>  Tuesday, February 23!<br />
-
-                            <a class="button small" href="registration.php"><strong>Register Now!</strong></a>
-                            <a href="#" class="close">&times;</a>
-                        </div>
-
-                            <div class="panel"> On-site registration is open:
-                            Friday, March 4, 7am - 6pm
-                            Saturday, March 5, 7am - 2pm
-                        </div>
-
+                    <div class="small-10 columns small-centered text-center content-box">
+                        <h2>Save the Date</h2>
+                        <h3 class="h3-after-h2"><i class="fa fa-calendar"></i> <span class="font-date">March 3-5, 2017</span></h3>
                     </div>
                 </div>
             </div>
