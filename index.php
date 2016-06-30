@@ -26,8 +26,9 @@ include("template-top.php");
         <div class="large-4 columns content-box gutter" data-equalizer-watch>
             <div class="row">
                 <div class="columns">
-                    <h2><i class="fa fa-calendar"></i> <span class="font-date">March 4-6, 2016</span></h2>                    <p>Programming is beginning to take shape for the 2016 William F. Slagle Dental Meeting in Memphis, TN!  20 speakers in all will provide amazing courses – topics of interest for everyone.</p>
-                    <p>Please be sure to save the dates of March 4-6 on your calendars!  You will not want to miss this premier educational event!</p>
+                    <h3>Don't Miss Out!</h3>
+                    <p>Programming is beginning to take shape for the 2017 William F. Slagle Dental Meeting in Memphis, TN!  25 speakers in all will provide amazing courses – topics of interest for everyone.</p>
+                    <p>Please be sure to save the dates of March 3-5 on your calendars!  You will not want to miss this premier educational event!</p>
                 </div>
             </div>
         </div>
@@ -48,49 +49,53 @@ include("template-top.php");
 
     <div class="row gutter"><!--speakers-->
         <div class="large-12 small-12 columns heading-box">
-            <h2 class="center-text">Speakers</h2>
+            <h2 class="center-text">2017 Featured Speakers</h2>
         </div>
         <div class="large-12 columns">
             <div class="row" data-equalizer>
                 <div class="large-4 medium-4 small-12 columns schedule" data-equalizer-watch>
                     <h3><strong>Friday</strong>
-                        <i class="fa fa-calendar"></i><br/><span class="font-date">March&nbsp;4,&nbsp;2016</span></h3>
+                        <i class="fa fa-calendar"></i><br/><span class="font-date">March&nbsp;3,&nbsp;2017</span></h3>
 
-                    <p>Les H. Binkley, Jr., DDS<br />
-                        Paul N. Gregory, DDS, BS<br />
-                        Quinton C. Robinson, DDS, MS<br />
-                        Rhonda R. Savage, DDS<br />
-                        Terry M. Trojan, DDS, MS<br />
-                        Christopher J. Walinski, DDS<br />
-                        Richard Young, DDS
+                    <p>
+                        Kyle Ash, DMD<br />
+                        Mr. Jack Hadley<br />
+                        Gavin Heymann, DDS, MS<br />
+                        Harald Heymann, DDS, MEd<br />
+                        Karl Koerner, DDS, MS
+                        Lisa Harper-Mallonee, BSDH, MPH, RD, LD<br />
+                        Vernon Pennington, DDS, BS<br />
+                        James Ragain, Jr., DDS, MS, PhD<br />
+                        Joe Safirstein, DDS<br />
+                        Harry Sharp, DDS, BS
                     </p>
                 </div>
                 <div class="large-4 medium-4 small-12 columns schedule" data-equalizer-watch>
                     <h3><strong>Saturday</strong>
-                        <i class="fa fa-calendar"></i><br/><span class="font-date">March&nbsp;5,&nbsp;2016</span></h3>
+                        <i class="fa fa-calendar"></i><br/><span class="font-date">March&nbsp;4,&nbsp;2017</span></h3>
 
-                    <p>Cimara Fortes Ferreira, DDS, MSc, PhD, MDS<br />
-                        Harold L. Crossley, DDS, MS, PhD<br />
-                        Van B. Haywood, DMD<br />
-                        Daniel Hassler, DDSm, DHSc, MSHL<br />
-                        Tom Korioth, PhD, DDS<br />
-                        Mrs. Judy Kay Mausolf<br />
-                        David E. Umsted, DDS<br />
-                        Jane Weiner, RDH, BS<br />
-                        Martha H. Wells, DMD
+                    <p>
+                        David Bonner, DDS, MBA, MAGD, FICD, FICOI<br />
+                        Lil Caperila, RDH, BSDH, MEd<br />
+                        Cimara Fortes Ferreira, DDS, MS, PhD, MDS<br />
+                        Harvey Levy, DMD, MAGD<br />
+                        Madow Brothers<br />
+                        Joe Massad, DDS<br />
+                        Ms. Brenda Thaxton<br />
+                        Catherine Warren, RDH, MEd<br />
+                        Russell Wicks, DDS, MS
                     </p>
                 </div>
                 <div class="large-4 medium-4 small-12 columns schedule" data-equalizer-watch>
                     <h3><strong>Sunday</strong> <i class="fa fa-calendar"></i>
-                        <br/><span class="font-date">March&nbsp;6,&nbsp;2016</span></h3>
+                        <br/><span class="font-date">March&nbsp;5,&nbsp;2017</span></h3>
 
                     <p>
-                        Laney Kay, JD<br />
-                        Morris L. Robbins, DDS<br />
-                        Cory Glenn, DDS<br />
-                        Wayne McElhiney, DPh, DDS<br />
-                        Larry L. Weeda, Jr., DDS<br />
-                        Mitsunori Misawa, PhD, MEd
+                        Mojdeh Deghan, DDS, BA<br />
+                        Martyn Green, DDS, MS<br />
+                        James Ragain, Jr., DDS, MS, PhD<br />
+                        Lynn Russell, RDH, BS, MEd, EdD<br />
+                        Mrs. Catherine Warren, RDH, MEd
                     </p>
                 </div>
             </div>
@@ -98,6 +103,7 @@ include("template-top.php");
         <div class="large-12 columns heading-box center-text">
             <p>*Speakers subject to change.</p>
         </div><div class="large-12 columns heading-box">
+            <p>Stay tuned for the release of our detailed daily agenda including a list of exhibitor mini-sessions for 2017!</p>
             <p>A total of 18 credit hours may be earned by attending the maximum number of courses (15 hours), mini-sessions (2 hours), and breakfast with faculty (1 hour).</p>
         </div>
     </div><!--end speakers-->
