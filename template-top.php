@@ -87,9 +87,9 @@
                         <li><a href="sponsors.php">Sponsors</a></li>
                         <li><a href="continuing-education.php">Continuing Education</a></li>
                     </ul>
-                    <ul class="right">
-                        <li class="active"><a href="registration.php"><strong>Register Now!</strong></a></li>
-                    </ul>
+<!--                    <ul class="right">-->
+<!--                        <li class="active"><a href="registration.php"><strong>Register Now!</strong></a></li>-->
+<!--                    </ul>-->
                 </section>
             </nav>
         </div>
