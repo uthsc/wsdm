@@ -62,7 +62,7 @@ include("template-top.php");
                         Mr. Jack Hadley<br />
                         Gavin Heymann, DDS, MS<br />
                         Harald Heymann, DDS, MEd<br />
-                        Karl Koerner, DDS, MS
+                        Karl Koerner, DDS, MS<br />
                         Lisa Harper-Mallonee, BSDH, MPH, RD, LD<br />
                         Vernon Pennington, DDS, BS<br />
                         James Ragain, Jr., DDS, MS, PhD<br />
