@@ -1,8 +1,8 @@
 @import "app.scss";
 #wrapper{
     background-attachment: fixed;
-    background-image: url('../images/memphis-trolley-elaine-neeley.jpg');
-    background-position: center 33%;
+    background-image: url('../images/memphis-beale-night.jpg');
+    background-position: center 65%;
     background-repeat: no-repeat no-repeat;
     background-size: cover;
     display: block;
@@ -16,6 +16,7 @@ a {
     }
 .content-box {
     background: none repeat scroll 0 0 rgba(255, 255, 255, 0.85);
+  min-height: 70px;
     }
 .gutter {
     margin-bottom:15px;
@@ -39,7 +40,7 @@ background-position: center;
 background-size: 100%;
 }
 .header-footer-box {
-    background: none repeat scroll 0 0 rgba(30, 30, 30, 0.96);
+  background: none repeat scroll 0 0 rgba(255, 255, 255, 0.85);
     }
 /*.footer-box {
 margin-top:15px;
@@ -53,7 +54,7 @@ margin-top:15px;
     top: 3px;
     }
 .heading-box {
-    background: none repeat scroll 0 0 rgba(30, 30, 30, 0.80);
+    background: none repeat scroll 0 0 rgba(30, 30, 30, 0.91);
     }
 .heading-box>p {
     color:#fff;

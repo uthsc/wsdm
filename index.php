@@ -63,7 +63,7 @@ include("template-top.php");
                         Gavin Heymann, DDS, MS<br />
                         Harald Heymann, DDS, MEd<br />
                         Karl Koerner, DDS, MS<br />
-                        Lisa Harper-Mallonee, BSDH, MPH, RD, LD<br />
+                        Lisa Harper-Mallonee, MPH, RDH, RD<br />
                         Vernon Pennington, DDS, BS<br />
                         James Ragain, Jr., DDS, MS, PhD<br />
                         Joe Safirstein, DDS<br />
@@ -105,6 +105,12 @@ include("template-top.php");
         </div><div class="large-12 columns heading-box">
             <p>Stay tuned for the release of our detailed daily agenda including a list of exhibitor mini-sessions for 2017!</p>
             <p>A total of 18 credit hours may be earned by attending the maximum number of courses (15 hours), mini-sessions (2 hours), and breakfast with faculty (1 hour).</p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="columns panel info">
+            <h2><span class="fa fa-info-circle"></span> New Element for 2017</h2>
+            <p>ATTENTION RECENT GRADS: Social Media Marketing and modern-day Practice Management courses have been specifically designed and added to the program just for you on Friday, March 3rd!  Make plans to register and attend these new and engaging programs!</p>
         </div>
     </div><!--end speakers-->
 <?php include("template-bottom.php"); ?>
