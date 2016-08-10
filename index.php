@@ -63,7 +63,7 @@ include("template-top.php");
                         Gavin Heymann, DDS, MS<br />
                         Harald Heymann, DDS, MEd<br />
                         Karl Koerner, DDS, MS<br />
-                        Lisa Harper-Mallonee, BSDH, MPH, RD, LD<br />
+                        Lisa Harper-Mallonee, MPH, RDH, RD<br />
                         Vernon Pennington, DDS, BS<br />
                         James Ragain, Jr., DDS, MS, PhD<br />
                         Joe Safirstein, DDS<br />
