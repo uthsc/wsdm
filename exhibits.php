@@ -1,7 +1,7 @@
 <?php
-        $pagename ='Prospective Exhibitors';
-        include("template-top.php");
-        ?>
+$pagename = 'Prospective Exhibitors';
+include("template-top.php");
+?>
 
 <div class="row">
     <div class="small-12 columns schedule gutter">
@@ -65,11 +65,10 @@
                         (901)448-7104 fax<br/>
                         bdingman@uthsc.edu
                     </p>
+                    <img src="images/fred-heros.jpg" alt="Photo of Fred Heros"/>
                 </div>
-                <img src="images/fred-heros.jpg" alt="Photo of Fred Heros"/>
             </div>
+            <!--===============Conetnt Area (end)===============-->
         </div>
-        <!--===============Conetnt Area (end)===============-->
     </div>
-</div>
-        <?php include("template-bottom.php"); ?>
+<?php include("template-bottom.php"); ?>
