@@ -1,7 +1,11 @@
 ﻿			<footer class="row header-footer-box footer-box">
 				<div class="large-12 columns">
-					<p>&copy; <?php echo date("Y") ?> William F. Slagle Dental Meeting&emsp;&bull;&emsp;Background art by Elaine Neeley &copy;&emsp;&bull;&emsp;<a href="http://www.facebook.com/228909720561308">
-						<i class="fa fa-facebook-square fa-lg"></i></a></p>
+					<p>&copy; <?php echo date("Y") ?> William F. Slagle Dental Meeting<br />
+						Social: <a href="http://www.facebook.com/228909720561308" style="color: #3b5998;">
+						<i class="fa fa-facebook-square fa-lg"></i></a>
+						<a href="#" style="color: #cd201f;">
+						<i class="fa fa-youtube fa-lg"></i></a>
+					</p>
 				</div>
 			</footer>
 		</div><!--end wrapper-->
