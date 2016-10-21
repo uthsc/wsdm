@@ -116,7 +116,7 @@ include("template-top.php");
     <div class="row">
         <div class="columns panel info">
             <h2><span class="fa fa-info-circle"></span> New Element for 2017</h2>
-            <p>ATTENTION RECENT GRADS: Social Media Marketing and modern-day Practice Management courses have been specifically designed and added to the program just for you on Friday, March 3rd!  Make plans to register and attend these new and engaging programs!</p>
+            <p><a href="are-you-a-dental-school-grad-from-the-class-of-2012-2016.php"><img src="images/orange-5-trailblazers.png" alt="logo for orange 5 trailblazers" class="right" style="width: 28%; min-width: 180px;"></a>ATTENTION RECENT GRADS: Social Media Marketing and modern-day Practice Management courses have been specifically designed and added to the program just for you on Friday, March 3rd!  Make plans to register and attend these new and engaging programs!</p>
         </div>
     </div><!--end speakers-->
 <?php include("template-bottom.php"); ?>
