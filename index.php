@@ -68,10 +68,11 @@ include("template-top.php");
                         Harald Heymann, DDS, MEd<br />
                         Karl Koerner, DDS, MS<br />
                         Lisa Harper-Mallonee, MPH, RDH, RD<br />
-                        Vernon Pennington, DDS, BS<br />
                         James Ragain, Jr., DDS, MS, PhD<br />
+                        Lynn Russell, RDH, BS, MEd, EdD<br />
                         Joe Safirstein, DDS<br />
-                        Harry Sharp, DDS, BS
+                        Larry Weeda, Jr., DDS<br />
+                        Martha Wells, DMD, MS
                     </p>
                 </div>
                 <div class="large-4 medium-4 small-12 columns schedule" data-equalizer-watch>
@@ -97,6 +98,7 @@ include("template-top.php");
                     <p>
                         Mojdeh Deghan, DDS, BA<br />
                         Martyn Green, DDS, MS<br />
+                        Nancy Johnson, EDD, LPC/MHSP<br />
                         James Ragain, Jr., DDS, MS, PhD<br />
                         Lynn Russell, RDH, BS, MEd, EdD<br />
                         Mrs. Catherine Warren, RDH, MEd
