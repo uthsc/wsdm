@@ -27,6 +27,10 @@ include("template-top.php");
             <div class="row">
                 <div class="columns">
                     <h3>Don't Miss Out!</h3>
+                    <div data-alert class="alert-box info round text-center">
+                        <a href="registration.php">Online Registration Opens Nov. 7, 2016!</a>
+                        <a href="#" class="close">&times;</a>
+                    </div>
                     <p>Programming is beginning to take shape for the 2017 William F. Slagle Dental Meeting in Memphis, TN!  25 speakers in all will provide amazing courses – topics of interest for everyone.</p>
                     <p>Please be sure to save the dates of March 3-5 on your calendars!  You will not want to miss this premier educational event!</p>
                 </div>
