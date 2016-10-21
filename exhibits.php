@@ -63,15 +63,18 @@ include("template-top.php");
                             </li>
                         </ul>
                         <p>The completed forms can be mailed to:</p>
-                        <p>Blake Dingman, Planning Committee Member<br/>
-                            C/O - University of Tennessee - Dentistry Office of Financial Affairs<br/>
-                            875 Union Ave, Rm C211 Memphis, TN 38163<br/>
-                            (901)448-6370<br/>
-                            (901)448-7104 fax<br/>
-                            bdingman@uthsc.edu
+                        <p><strong>Blake Dingman</strong><br />
+                            Planning Committee Member<br/>
+                            C/O - University of Tennessee<br />
+                            Dentistry Office of Financial Affairs<br/>
+                            875 Union Ave, Rm C211<br />Memphis, TN 38163<br/>
+                            (901) 448-6370<br/>
+                            (901) 448-7104 fax<br/>
+                            <a href="mailto:bdingman@uthsc.edu">bdingman@uthsc.edu</a>
                         </p>
                     </div>
-                    <img src="images/fred-heros.jpg" alt="Photo of Fred Heros"/>
+                    <img src="images/fred-heros.jpg" style="margin-bottom: 1rem;" alt="Photo of Fred Heros"/>
+                    <br style="clear: both" />
                 </div>
             </div>
             <!--===============Conetnt Area (end)===============-->
