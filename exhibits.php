@@ -47,7 +47,8 @@ include("template-top.php");
                         2017 William F. Slagle Dental Meeting</p>
                 </div>
                 <div class="small-12 large-5 columns">
-                    <div class="panel hide">
+                    <div class="panel">
+                        <h2>Forms</h2>
                         <p>If interested, please fill out and return the following forms:</p>
                         <ul>
                             <li><a href="documents/exhibitor-contract.pdf">Exhibitor Contract Agreement <i
