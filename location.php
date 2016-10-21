@@ -30,7 +30,7 @@ include("template-top.php");
                                 Hotel Check-in:  3 p.m.<br />
                                 Hotel Check-out:  11 a.m.</p>
                             <p>
-                                <a href="http://www.hilton.com/en/hi/groups/personalized/M/MEMPHHF-WS0302-20160302/index.jhtml?WT.mc_id=POG" class="button secondary">Reserve your room!</a>
+                                <a href="http://www.hilton.com/en/hi/groups/personalized/M/MEMPHHF-WS0301-20170301/index.jhtml?WT.mc_id=POG" class="button secondary">Reserve your room!</a>
 </p>
                             <p>
                                 Group Name: <strong>WILLIAM F. SLAGLE DENTAL MEETING</strong><br />
