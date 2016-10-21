@@ -22,35 +22,22 @@ include("template-top.php");
                         March 5th beginning at 7:30 AM and will close at 12:00 pm. Booth takedown will begin promptly
                         thereafter.</p>
 
-<!--                    <p>Should you wish to participate, <a href="documents/exhibitor-contract.pdf">a contract is-->
-<!--                        available <i class="fa fa-file-pdf-o"></i></a> for you to print, complete and return with a-->
-<!--                        check for $700.00 made payable to the UT/William F. Slagle Dental Meeting. We have an early bird-->
-<!--                        special for those vendors who register and pay in full by January 1st, 2017. Early bird-->
-<!--                        registration is $650.00. If you are a vendor who needs a bigger space than an 8'x 8'x 6' booth,-->
-<!--                        please consider renting two booths. This would increase your space size for vendors with large-->
-<!--                        pieces of equipment to display. Hotel reservations can be made by calling the Hilton Memphis-->
-<!--                        Hotel at telephone number (901) 684-6664. Please peruse <a-->
-<!--                        href="corporate-sponsorship-guidelines.php">the sponsorship information and consider-->
-<!--                        becoming an event sponsor</a> at the 2017 meeting. Sponsorship at the level of $1500 and-->
-<!--                        above will include complimentary exhibit booth space.</p>-->
-                    <p>Should you wish to participate, a contract will be
-                        available for you to print, complete and return with a
+                    <p>Should you wish to participate, <a href="documents/exhibitor-contract.pdf">a contract is
+                        available <i class="fa fa-file-pdf-o"></i></a> for you to print, complete and return with a
                         check for $700.00 made payable to the UT/William F. Slagle Dental Meeting. We have an early bird
                         special for those vendors who register and pay in full by January 1st, 2017. Early bird
                         registration is $650.00. If you are a vendor who needs a bigger space than an 8'x 8'x 6' booth,
                         please consider renting two booths. This would increase your space size for vendors with large
                         pieces of equipment to display. Hotel reservations can be made by calling the Hilton Memphis
-                        Hotel at telephone number (901) 684-6664. Sponsorship at the level of $1500 and
+                        Hotel at telephone number (901) 684-6664. Please peruse <a
+                        href="corporate-sponsorship-guidelines.php">the sponsorship information and consider
+                        becoming an event sponsor</a> at the 2017 meeting. Sponsorship at the level of $1500 and
                         above will include complimentary exhibit booth space.</p>
-<!--                    <p>Also on-line is <a href="documents/electrical-exhibit-request.pdf">an electrical form to complete-->
-<!--                        if you have need for electricity <i class="fa fa-file-pdf-o"></i></a> and <a-->
-<!--                        href="documents/credit-card-authorization-form.pdf">a credit card authorization form <i-->
-<!--                        class="fa fa-file-pdf-o"></i></a>. Please note we can only accept Discover, MasterCard-->
-<!--                        or Visa. As always checks are accepted. Return the completed form(s) with the contract and-->
-<!--                        payment to Blake Dingman, 875 Union Avenue, Room C211G, Memphis, TN 38163. We look forward to-->
-<!--                        seeing you at our twenty-first annual William F. Slagle Dental Meeting.</p>-->
-                    <p>Also on-line will be an electrical form to complete
-                        if you have need for electricity and a credit card authorization form. Please note we can only accept Discover, MasterCard
+
+                    <p>Also on-line is <a href="documents/electrical-exhibit-request.pdf">an electrical form to complete
+                        if you have need for electricity <i class="fa fa-file-pdf-o"></i></a> and <a
+                        href="documents/credit-card-authorization-form.pdf">a credit card authorization form <i
+                        class="fa fa-file-pdf-o"></i></a>. Please note we can only accept Discover, MasterCard
                         or Visa. As always checks are accepted. Return the completed form(s) with the contract and
                         payment to Blake Dingman, 875 Union Avenue, Room C211G, Memphis, TN 38163. We look forward to
                         seeing you at our twenty-first annual William F. Slagle Dental Meeting.</p>
