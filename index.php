@@ -7,15 +7,15 @@ include("template-top.php");
 
             <div class="big-image big-image-large show-for-large-up" data-equalizer-watch>
                 <div class="row">
-                    <div class="small-10 columns small-centered text-center content-box" style="margin-top: 10%;">
+                    <div class="small-10 columns small-centered text-center content-box" style="margin-top: 20%;">
                         <h2>Save the Date</h2>
                         <h3 class="h3-after-h2"><i class="fa fa-calendar"></i> <span class="font-date">March 3-5, 2017</span></h3>
                     </div>
                 </div>
             </div>
-            <div class="big-image hide-for-large-up" data-equalizer-watch>
+            <div class="big-image hide-for-large-up" data-equalizer-watch style="min-height: 180px;">
                 <div class="row">
-                    <div class="small-10 columns small-centered text-center content-box">
+                    <div class="small-10 columns small-centered text-center content-box" style="margin-top: 6vh;">
                         <h2>Save the Date</h2>
                         <h3 class="h3-after-h2"><i class="fa fa-calendar"></i> <span class="font-date">March 3-5, 2017</span></h3>
                     </div>
