@@ -34,7 +34,7 @@ include("template-top.php");
 </p>
                             <p>
                                 Group Name: <strong>WILLIAM F. SLAGLE DENTAL MEETING</strong><br />
-                                Group Code: <strong>WS0302</strong>
+                                Group Code: <strong>WS0301</strong>
                             </p>
                         </div>
 
