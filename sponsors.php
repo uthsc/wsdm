@@ -9,7 +9,7 @@ include("template-top.php");
             <h1><?php echo $pagename;?></h1>
                 <div class="row" data-equalizer>
                     <div class="columns">
-                        <p>William F. Slagle Dental Meeting graciously thanks the 2016 sponsors for their support and a successful event.</p>
+                        <p>William F. Slagle Dental Meeting graciously thanks the 2017 sponsors for their support and a successful event.</p>
                         <h2>Platinum Level</h2>
                         <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-4 text-center">
                             <li><a href="http://uthsc.edu/dentistry/">UTHSC College of Dentistry<br /><img src="images/sponsors/uthsc-wordrdmark-cod-stack.png" alt="UTHSC College of Dentistry logo" /></a></li>

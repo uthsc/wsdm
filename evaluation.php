@@ -26,8 +26,8 @@ include("template-top.php");
                         $title = 'Submit today and be eligible for the prize drawing!';
                     }
                     ?>
-                    <a <?php echo $link; ?> class="button radius expand <?php echo $class; ?>" title="<?php echo $title; ?>"><strong>2016 Evaluation Form</strong><br/> Available March 4 - April 6</a>
-                    <p>The winner will be chosen at random and will receive a <strong>FREE</strong> registration for the 2017 meeting!</p>
+                    <a <?php echo $link; ?> class="button radius expand <?php echo $class; ?>" title="<?php echo $title; ?>"><strong>2017 Evaluation Form</strong><br/> Available March 3 - April 3 2017</a>
+                    <p>The winner will be chosen at random and will receive a <strong>FREE</strong> registration for the 2018 meeting!</p>
                 </div>
                 <div class="large-5 columns">
                     <img src="images/evaluation.jpg" alt="Attendee taking evaluation" style="padding-bottom:2em;"/>
