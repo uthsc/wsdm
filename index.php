@@ -7,15 +7,15 @@ include("template-top.php");
 
             <div class="big-image big-image-large show-for-large-up" data-equalizer-watch>
                 <div class="row">
-                    <div class="small-10 columns small-centered text-center content-box" style="margin-top: 10%;">
+                    <div class="small-10 columns small-centered text-center content-box" style="margin-top: 20%;">
                         <h2>Save the Date</h2>
                         <h3 class="h3-after-h2"><i class="fa fa-calendar"></i> <span class="font-date">March 3-5, 2017</span></h3>
                     </div>
                 </div>
             </div>
-            <div class="big-image hide-for-large-up" data-equalizer-watch>
+            <div class="big-image hide-for-large-up" data-equalizer-watch style="min-height: 180px;">
                 <div class="row">
-                    <div class="small-10 columns small-centered text-center content-box">
+                    <div class="small-10 columns small-centered text-center content-box" style="margin-top: 6vh;">
                         <h2>Save the Date</h2>
                         <h3 class="h3-after-h2"><i class="fa fa-calendar"></i> <span class="font-date">March 3-5, 2017</span></h3>
                     </div>
@@ -27,6 +27,10 @@ include("template-top.php");
             <div class="row">
                 <div class="columns">
                     <h3>Don't Miss Out!</h3>
+                    <div data-alert class="alert-box info round text-center">
+                        <a href="registration.php">Online Registration Opens Nov. 7, 2016!</a>
+                        <a href="#" class="close">&times;</a>
+                    </div>
                     <p>Programming is beginning to take shape for the 2017 William F. Slagle Dental Meeting in Memphis, TN!  25 speakers in all will provide amazing courses – topics of interest for everyone.</p>
                     <p>Please be sure to save the dates of March 3-5 on your calendars!  You will not want to miss this premier educational event!</p>
                 </div>
@@ -64,10 +68,11 @@ include("template-top.php");
                         Harald Heymann, DDS, MEd<br />
                         Karl Koerner, DDS, MS<br />
                         Lisa Harper-Mallonee, MPH, RDH, RD<br />
-                        Vernon Pennington, DDS, BS<br />
                         James Ragain, Jr., DDS, MS, PhD<br />
+                        Lynn Russell, RDH, BS, MEd, EdD<br />
                         Joe Safirstein, DDS<br />
-                        Harry Sharp, DDS, BS
+                        Larry Weeda, Jr., DDS<br />
+                        Martha Wells, DMD, MS
                     </p>
                 </div>
                 <div class="large-4 medium-4 small-12 columns schedule" data-equalizer-watch>
@@ -93,6 +98,7 @@ include("template-top.php");
                     <p>
                         Mojdeh Deghan, DDS, BA<br />
                         Martyn Green, DDS, MS<br />
+                        Nancy Johnson, EDD, LPC/MHSP<br />
                         James Ragain, Jr., DDS, MS, PhD<br />
                         Lynn Russell, RDH, BS, MEd, EdD<br />
                         Mrs. Catherine Warren, RDH, MEd
@@ -110,7 +116,7 @@ include("template-top.php");
     <div class="row">
         <div class="columns panel info">
             <h2><span class="fa fa-info-circle"></span> New Element for 2017</h2>
-            <p>ATTENTION RECENT GRADS: Social Media Marketing and modern-day Practice Management courses have been specifically designed and added to the program just for you on Friday, March 3rd!  Make plans to register and attend these new and engaging programs!</p>
+            <p><a href="are-you-a-dental-school-grad-from-the-class-of-2012-2016.php"><img src="images/orange-5-trailblazers.png" alt="logo for orange 5 trailblazers" class="right" style="width: 28%; min-width: 180px;"></a>ATTENTION RECENT GRADS: Social Media Marketing and modern-day Practice Management courses have been specifically designed and added to the program just for you on Friday, March 3rd!  Make plans to register and attend these new and engaging programs!</p>
         </div>
     </div><!--end speakers-->
 <?php include("template-bottom.php"); ?>
