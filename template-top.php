@@ -75,8 +75,8 @@
 <!--                                <li><a href="speakers-schedule.php">Speakers &amp; Schedule</a></li>-->
                                 <li><a href="location.php">Location</a></li>
                                 <li><a href="things-to-do-in-memphis.php">Things To Do In Memphis</a></li>
-                                <li><a href="registration.php">Registration</a></li>
                                 <li><a href="registration.php">Registration &amp; Meeting Agenda</a></li>
+                                <li><a href="http://events.meetingzilla.com/event/event_main.aspx?aid=UTCOD&ek=7D301D3B26BA486F912F0C802B4762E8_0000_0045">Speakers &amp; Schedule <i class="fa fa-external-link"></i></a></li>
                                 <li><a href="cancellation-policy.php">Cancellation Policy</a></li>
                                 <li><a href="evaluation.php">Evaluation</a></li>
                                 <li>
