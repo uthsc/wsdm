@@ -5,7 +5,7 @@ include("template-top.php");
 
     <div class="row">
         <div class="small-12 columns schedule gutter">
-            <!--===============Conetnt Area (begin)===============-->
+            <!--===============Content Area (begin)===============-->
             <h1><?php echo $pagename; ?></h1>
             <div class="row">
                 <div class="small-12 large-7 columns">
@@ -13,14 +13,7 @@ include("template-top.php");
                         we invite you to participate in the exhibit display during our 22nd anniversary meeting March
                         3-5, 2017. We had a highly successful conference in 2016 and we have great expectations for the
                         2017 meeting.</p>
-                    <p>The William F. Slagle Dental Meeting will be held March 3-5, 2017 in Memphis, Tennessee, at the
-                        Hilton Memphis Hotel located at 939 Ridge Lake Boulevard. The exhibit convention services will
-                        set up booths on Thursday morning, March 2nd; exhibitors will set up displays Thursday afternoon
-                        beginning at 1:00 PM and will need to be completed with booth assembly by 4:30 PM. The Exhibit
-                        Hall will open for display during the William F. Slagle Dental Meeting on Friday morning, March
-                        5th at 7:30 AM and close at 6:00 PM. Exhibitors will reopen for display on Saturday morning,
-                        March 5th beginning at 7:30 AM and will close at 12:00 pm. Booth takedown will begin promptly
-                        thereafter.</p>
+                    <p>The William F. Slagle Dental Meeting will be held March 3-5, 2017 in Memphis, Tennessee, at the Hilton Memphis Hotel located at 939 Ridge Lake Boulevard. The exhibit convention services will set up booths on Thursday morning, March 2nd; exhibitors will set up displays Thursday afternoon beginning at 1:00 PM and will need to be completed with booth assembly by 4:30 PM. The Exhibit Hall will open for display during the William F. Slagle Dental Meeting on Friday morning, March 3rd at 7:30 AM and close at 6:00 PM. Exhibitors will reopen for display on Saturday morning, March 4th beginning at 7:30 AM and will close at 12:00 pm. Booth takedown will begin promptly thereafter.</p>
 
                     <p>Should you wish to participate, <a href="documents/exhibitor-contract.pdf">a contract is
                         available <i class="fa fa-file-pdf-o"></i></a> for you to print, complete and return with a
@@ -77,7 +70,7 @@ include("template-top.php");
                     <br style="clear: both" />
                 </div>
             </div>
-            <!--===============Conetnt Area (end)===============-->
+            <!--===============Content Area (end)===============-->
         </div>
     </div>
 <?php include("template-bottom.php"); ?>

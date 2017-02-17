@@ -28,8 +28,7 @@ include("template-top.php");
                 <div class="columns">
                     <br />
                     <a href="registration.php" class="button expand">Register Now!</a>
-                    <p>Programming is beginning to take shape for the 2017 William F. Slagle Dental Meeting in Memphis, TN!  25 speakers in all will provide amazing courses – topics of interest for everyone.</p>
-                    <p>Please be sure to save the dates of March 3-5 on your calendars!  You will not want to miss this premier educational event!</p>
+                    <p>Download the official program for the <a href="/documents/william-f-slagle-dental-meeting-program-2017.pdf">2017 William F. Slagle Dental Meeting</a>&ensp;<i class="fa fa fa-file-pdf-o"></i></p>
                 </div>
             </div>
         </div>

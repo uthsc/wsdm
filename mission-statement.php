@@ -4,7 +4,7 @@ include("template-top.php");
 ?>
 <div class="row">
         <div class="small-12 columns schedule gutter">
-<!--===============Conetnt Area (begin)===============-->
+<!--===============Content Area (begin)===============-->
             <h1><?php echo $pagename;?></h1>
                 <div class="row">
                     <div class="small-12 medium-7 columns">
@@ -16,7 +16,7 @@ include("template-top.php");
 
                     </div>
                 </div>
-<!--===============Conetnt Area (end)===============-->
+<!--===============Content Area (end)===============-->
             </div>
         </div>
 			<?php include("template-bottom.php"); ?>

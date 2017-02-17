@@ -4,7 +4,7 @@ include("template-top.php");
 ?>
     <div class="row">
         <div class="small-12 columns schedule gutter">
-            <!--===============Conetnt Area (begin)===============-->
+            <!--===============Content Area (begin)===============-->
             <div class="row">
                 <div class="columns medium-6"><h1>Speakers &amp; Schedule</h1></div>
                 <div class="columns medium-6"><a href="documents/william-f-slagle-dental-meeting-program-2016.pdf" class="button right">Download the Program <i class="fa fa-file-pdf-o"></i></a></div>
@@ -771,7 +771,7 @@ include("template-top.php");
                 </div>
             </div>
 
-            <!--===============Conetnt Area (end)===============-->
+            <!--===============Content Area (end)===============-->
         </div>
     </div>
 <?php include("template-bottom.php"); ?>
