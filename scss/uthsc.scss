@@ -226,6 +226,15 @@ a {
 .handout-schedule-2 a.button:nth-child(even) {
   margin-bottom: 0;
 }
+
+.slagle-handouts-list hr {
+  border: dashed #bbb;
+  border-width: 2px 0 0;
+  clear: both;
+  height: 0;
+  margin: 1.25rem 7rem 2.35rem;
+}
+
 .label.with-wrap {
   white-space: inherit;
 }
