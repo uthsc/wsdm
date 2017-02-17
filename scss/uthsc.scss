@@ -14,181 +14,215 @@
 }
 
 a {
-    font-weight:bold;
-    }
-.content-box {
-    background: none repeat scroll 0 0 rgba(255, 255, 255, 0.85);
-  min-height: 70px;
-    }
-.gutter {
-    margin-bottom:15px;
-    }
-.schedule {
-/*background: linear-gradient(to right, rgba(255,255,255,.85) 95%,rgba(255,255,255,0) 95%);*/
-    background: none repeat scroll 0 0 rgba(255, 255, 255, 0.85);
-    border: 1px solid #8c8c8c;
-      td:nth-child(odd) {
-        text-align: center !important;
-      }
-    }
-.schedule-details {
-    background: none repeat scroll 0 0 rgba(50, 50, 255, 0.5);
-    border: 1px solid #8c8c8c;
-    }
-.sponsors-logos {
-background-image: url(../images/sponsor-collage.png);
-background-repeat: no-repeat;
-background-position: center;
-background-size: 100%;
+  font-weight: bold;
 }
+
+.content-box {
+  background: none repeat scroll 0 0 rgba(255, 255, 255, 0.85);
+  min-height: 70px;
+}
+
+.gutter {
+  margin-bottom: 15px;
+}
+
+.schedule {
+  /*background: linear-gradient(to right, rgba(255,255,255,.85) 95%,rgba(255,255,255,0) 95%);*/
+  background: none repeat scroll 0 0 rgba(255, 255, 255, 0.85);
+  border: 1px solid #8c8c8c;
+  td:nth-child(odd) {
+    text-align: center !important;
+  }
+}
+
+.schedule-details {
+  background: none repeat scroll 0 0 rgba(50, 50, 255, 0.5);
+  border: 1px solid #8c8c8c;
+}
+
+.sponsors-logos {
+  background-image: url(../images/sponsor-collage.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+}
+
 .header-footer-box {
   background: none repeat scroll 0 0 rgba(255, 255, 255, 0.85);
-    }
+}
+
 .footer-box p {
-    text-align:center;
-    padding: 0.3rem;
-    margin-bottom: 0;
-    }
+  text-align: center;
+  padding: 0.3rem;
+  margin-bottom: 0;
+}
+
 .footer-box p i {
-    }
+}
+
 .heading-box {
-    background: none repeat scroll 0 0 rgba(30, 30, 30, 0.91);
-    }
-.heading-box>p {
-    color:#fff;
-    }
-.heading-box>h2 {
-    color:#DB7620;
-    }
+  background: none repeat scroll 0 0 rgba(30, 30, 30, 0.91);
+}
+
+.heading-box > p {
+  color: #fff;
+}
+
+.heading-box > h2 {
+  color: #DB7620;
+}
+
 .wfsdm-logo {
-    padding:3%;
-    width: 100%;
-    }
+  padding: 3%;
+  width: 100%;
+}
+
 .save-the-date {
-    background: url('http://www3.hilton.com/resources/media/hi/MEMPHHF/en_US/img/shared/full_page_image_gallery/main/HH_ext01_675x359_FitToBoxSmallDimension_Center.jpg');
-    background-position: center 33%;
-    background-repeat: no-repeat no-repeat;
-    background-size: cover;
-    display: block;
-    left: 0;
-    opacity: 1;
-    top: 0;
-    visibility: visible;
-    }
+  background: url('http://www3.hilton.com/resources/media/hi/MEMPHHF/en_US/img/shared/full_page_image_gallery/main/HH_ext01_675x359_FitToBoxSmallDimension_Center.jpg');
+  background-position: center 33%;
+  background-repeat: no-repeat no-repeat;
+  background-size: cover;
+  display: block;
+  left: 0;
+  opacity: 1;
+  top: 0;
+  visibility: visible;
+}
+
 .white-text {
-    color:#fff;
-    }
+  color: #fff;
+}
+
 .padded-image {
-    padding:5%;
-    }
+  padding: 5%;
+}
+
 .affiliates {
-    padding: 0 0 0 25%;
-    width: 75%;
-    max-width:430px;
-    margin:10px 0;
-    }
+  padding: 0 0 0 25%;
+  width: 75%;
+  max-width: 430px;
+  margin: 10px 0;
+}
+
 .big-image {
-    /*background: url('../images/save-the-date-07.jpg') no-repeat scroll 0 22% / 100% rgba(0, 0, 0, 0);*/
-    background-attachment: scroll;
-    background-color: rgba(0, 0, 0, 0);
-    background-image: url("../images/save-the-date-07.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    margin-left: 0;
-    margin-right: 0;
-    }
+  /*background: url('../images/save-the-date-07.jpg') no-repeat scroll 0 22% / 100% rgba(0, 0, 0, 0);*/
+  background-attachment: scroll;
+  background-color: rgba(0, 0, 0, 0);
+  background-image: url("../images/save-the-date-07.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-left: 0;
+  margin-right: 0;
+}
+
 .big-image-large {
-    margin-left: -15px;
-    }
+  margin-left: -15px;
+}
+
 .hilton-image {
-    background-attachment: scroll;
-    background-color: rgba(0, 0, 0, 0);
-    background-image: url('http://www3.hilton.com/resources/media/hi/MEMPHHF/en_US/img/shared/full_page_image_gallery/main/HH_ext01_675x359_FitToBoxSmallDimension_Center.jpg');
-    background-position: 0 -55px;
-    background-repeat: repeat;
-    background-size: cover;
-    height: 150px;
-    margin-bottom: 15px;
-    width: 100%;
-    }
+  background-attachment: scroll;
+  background-color: rgba(0, 0, 0, 0);
+  background-image: url('http://www3.hilton.com/resources/media/hi/MEMPHHF/en_US/img/shared/full_page_image_gallery/main/HH_ext01_675x359_FitToBoxSmallDimension_Center.jpg');
+  background-position: 0 -55px;
+  background-repeat: repeat;
+  background-size: cover;
+  height: 150px;
+  margin-bottom: 15px;
+  width: 100%;
+}
+
 .formerly {
-    color: #505050;
-    font-size: 0.70em;
-    letter-spacing: 2px;
-    text-align:center;
-    }
+  color: #505050;
+  font-size: 0.70em;
+  letter-spacing: 2px;
+  text-align: center;
+}
+
 .center-text {
-    text-align:center;
-    }
+  text-align: center;
+}
+
 .font-date {
-    font-family: Georgia;
-    }
+  font-family: Georgia;
+}
+
 .h3-after-h2 {
-    color: #db7620;
-    margin-top: -10px;
-    }
+  color: #db7620;
+  margin-top: -10px;
+}
+
 .vertical-center-parent {
-    display: flex;
-    height: 300px;
-    align-content: center;
-    /* Or whatever */
-    }
+  display: flex;
+  height: 300px;
+  align-content: center;
+  /* Or whatever */
+}
+
 .vertical-center-child {
-    width: 100%;  /* Or whatever */
-    height: auto; /* Or whatever */
-    margin: auto;  /* Magic! */
-    }
+  width: 100%; /* Or whatever */
+  height: auto; /* Or whatever */
+  margin: auto; /* Magic! */
+}
+
 .panel-schedule {
-    overflow: hidden;
-    padding: 1.25rem 0;
-    }
+  overflow: hidden;
+  padding: 1.25rem 0;
+}
+
 .content-image {
-    border-radius: 3px;
-    box-shadow: 1px 1px 0 #7f7f7f  inset, -1px -1px 0 #7f7f7f  inset;
-    padding: 1px;
-    }
-    .right{
-        margin-left:10px;
-        }
-    .left{
-        margin-right:10px;
-        }
-    .text-x- {
-      &1-1 {
-        font-size: 1.1em !important;
-      }
-      &1-2 {
-        font-size: 1.2em !important;
-      }
-      &1-3 {
-        font-size: 1.3em !important;
-      }
-      &1-4 {
-        font-size: 1.4em !important;
-      }
-      &1-5 {
-        font-size: 1.5em !important;
-      }
-    }
-    .use-hyphen {
-      -webkit-hyphens: auto;
-      -moz-hyphens: auto;
-      -ms-hyphens: auto;
-      hyphens: auto;
-    }
-    .handout {
-      margin: 0 0 0.4em;
-      border: 1px solid #c4c4c4;
-      color: #145688;
-      &:hover {
-        background-color: #145688 !important;
-        color: #ffffff !important;
-      }
-    }
+  border-radius: 3px;
+  box-shadow: 1px 1px 0 #7f7f7f inset, -1px -1px 0 #7f7f7f inset;
+  padding: 1px;
+}
+
+.right {
+  margin-left: 10px;
+}
+
+.left {
+  margin-right: 10px;
+}
+
+.text-x- {
+  &1-1 {
+    font-size: 1.1em !important;
+  }
+  &1-2 {
+    font-size: 1.2em !important;
+  }
+  &1-3 {
+    font-size: 1.3em !important;
+  }
+  &1-4 {
+    font-size: 1.4em !important;
+  }
+  &1-5 {
+    font-size: 1.5em !important;
+  }
+}
+
+.use-hyphen {
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
+}
+
+.handout {
+  margin: 0 0 0.4em;
+  border: 1px solid #c4c4c4;
+  color: #145688;
+  &:hover {
+    background-color: #145688 !important;
+    color: #ffffff !important;
+  }
+}
+
 .handout-schedule a.button:nth-child(odd) {
   margin-bottom: 0;
 }
+
 .handout-schedule-2 a.button:nth-child(even) {
   margin-bottom: 0;
 }
@@ -199,6 +233,7 @@ background-size: 100%;
 a.button:nth-child(odd) {
   margin-bottom: 0;
 }
+
 .dropcap:first-letter {
   float: left;
   font-size: 3rem;
@@ -208,18 +243,20 @@ a.button:nth-child(odd) {
   padding-right: 8px;
   padding-left: 3px;
 }
+
 :target {
   background-color: lighten($success-color, 40%) !important;
 }
+
 @media only screen and (max-width: 23em) {
   .small-collapse {
-    padding:0;
-    margin:0;
+    padding: 0;
+    margin: 0;
     .columns {
-      padding:0;
-      margin:0;
+      padding: 0;
+      margin: 0;
     }
-    
+
   }
   table {
     border: 0 solid;
@@ -229,5 +266,5 @@ a.button:nth-child(odd) {
     font-size: 0.7rem;
     padding: 0.25rem 0.093rem;
     text-align: center;
-}
+  }
 }
