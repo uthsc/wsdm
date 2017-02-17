@@ -21,7 +21,7 @@ include("template-top.php");
                         (mktime() > strtotime("march 4, 2016")) &&
                         (mktime() < strtotime("april 7, 2016"))
                     ) {
-                        $link = 'href="https://uthsc.co1.qualtrics.com/SE/?SID=SV_9mkie92rFvyVe3X"';
+                        $link = 'href="https://uthsc.co1.qualtrics.com/SE/?SID=SV_6RwWKmKdyhum3CR"';
                         $class = '';
                         $title = 'Submit today and be eligible for the prize drawing!';
                     }
