@@ -13,6 +13,8 @@ include("template-top.php");
                     <h2>Downloads</h2>
                         <ul class="small-block-grid-1 slagle-handouts-list">
 <!--                        <li><a href="/handouts/xxxx" class="button small-12"><strong>xxxx</strong><br /><em>xxxx</em>&emsp;<i class="fa fa-file-o"></i></a></li>-->
+                            <li><a href="/handouts/bonner-grand-slam.pdf" class="button small-12"><strong>Bonner</strong><br /><em>Grand Slam Restorative Dentistry</em>&emsp;<i class="fa fa-file-o"></i></a></li>
+                            <hr />
                             <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-4" data-equalizer>
                                 <li><a Href="/handouts/caperila-1-changing-face-addendums.pdf" class="button small-12" data-equalizer-watch><strong>Caperila 1</strong><br /><em>Changing Face Addendums</em>&emsp;<i class="fa fa-file-o"></i></a></li>
                                 <li><a href="/handouts/caperila-2-getting-to-change.pdf" class="button small-12" data-equalizer-watch><strong>Caperila 2</strong><br /><em>Getting to Change</em>&emsp;<i class="fa fa-file-o"></i></a></li>
