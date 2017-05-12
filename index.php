@@ -8,16 +8,14 @@ include("template-top.php");
             <div class="big-image big-image-large show-for-large-up" data-equalizer-watch>
                 <div class="row">
                     <div class="small-10 columns small-centered text-center content-box" style="margin-top: 10%;">
-                        <h2>Save the Date</h2>
-                        <h3 class="h3-after-h2"><i class="fa fa-calendar"></i> <span class="font-date">March 3-5, 2017</span></h3>
+                        <?php echo $save_the_date_html ?>
                     </div>
                 </div>
             </div>
             <div class="big-image hide-for-large-up" data-equalizer-watch>
                 <div class="row">
                     <div class="small-10 columns small-centered text-center content-box">
-                        <h2>Save the Date</h2>
-                        <h3 class="h3-after-h2"><i class="fa fa-calendar"></i> <span class="font-date">March 3-5, 2017</span></h3>
+                        <?php echo $save_the_date_html ?>
                     </div>
                 </div>
             </div>
@@ -27,8 +25,8 @@ include("template-top.php");
             <div class="row">
                 <div class="columns">
                     <h3>Don't Miss Out!</h3>
-                    <p>Programming is beginning to take shape for the 2017 William F. Slagle Dental Meeting in Memphis, TN!  25 speakers in all will provide amazing courses – topics of interest for everyone.</p>
-                    <p>Please be sure to save the dates of March 3-5 on your calendars!  You will not want to miss this premier educational event!</p>
+                    <p>Programming is beginning to take shape for the 2018 William F. Slagle Dental Meeting in Memphis, TN! A variety of top-rated speakers will provide amazing courses – topics of interest for everyone.</p>
+                    <p>Please be sure to save the dates of <?php echo $save_the_date_date ?> on your calendars! You will not want to miss this premier educational event!</p>
                 </div>
             </div>
         </div>
