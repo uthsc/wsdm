@@ -91,9 +91,9 @@
 <!--                    <ul class="right">-->
 <!--                        <li class="active"><a href="registration.php"><strong>Register Now!</strong></a></li>-->
 <!--                    </ul>-->
-                    <ul class="right">
-                        <li class="active"><a href="handouts.php"><strong>Handouts&emsp;<i class="fa fa-file-o"></i></strong></a></li>
-                    </ul>
+<!--                    <ul class="right">-->
+<!--                        <li class="active"><a href="handouts.php"><strong>Handouts&emsp;<i class="fa fa-file-o"></i></strong></a></li>-->
+<!--                    </ul>-->
                 </section>
             </nav>
         </div>
