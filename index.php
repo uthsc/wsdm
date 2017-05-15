@@ -1,6 +1,11 @@
 <?php
 $pagename = 'Home';
 include("template-top.php");
+$save_the_date_date = 'March&nbsp;2&#8209;4,&nbsp;2018';
+$save_the_date_html = '
+    <h2>Save the Date</h2>
+    <h3 class="h3-after-h2"><i class="fa fa-calendar"></i> <span class="font-date">'.$save_the_date_date.'</span></h3>
+';
 ?>
     <div class="row" data-equalizer><!--big image and important info-->
         <div class="large-8 columns gutter">
