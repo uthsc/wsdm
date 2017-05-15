@@ -52,70 +52,75 @@ $save_the_date_html = '
 
     <div class="row gutter"><!--speakers-->
         <div class="large-12 small-12 columns heading-box">
-            <h2 class="center-text">2017 Featured Speakers</h2>
+            <h2 class="center-text">2018 Top-Featured Speakers</h2>
         </div>
         <div class="large-12 columns">
-            <div class="row" data-equalizer>
-                <div class="large-4 medium-4 small-12 columns schedule" data-equalizer-watch>
-                    <h3><strong>Friday</strong>
-                        <i class="fa fa-calendar"></i><br/><span class="font-date">March&nbsp;3,&nbsp;2017</span></h3>
-
-                    <p>
-                        Kyle Ash, DMD<br />
-                        Mr. Jack Hadley<br />
-                        Gavin Heymann, DDS, MS<br />
-                        Harald Heymann, DDS, MEd<br />
-                        Karl Koerner, DDS, MS<br />
-                        Lisa Harper-Mallonee, MPH, RDH, RD<br />
-                        James Ragain, Jr., DDS, MS, PhD<br />
-                        Lynn Russell, RDH, BS, MEd, EdD<br />
-                        Joe Safirstein, DDS<br />
-                        Larry Weeda, Jr., DDS<br />
-                        Martha Wells, DMD, MS
-                    </p>
-                </div>
-                <div class="large-4 medium-4 small-12 columns schedule" data-equalizer-watch>
-                    <h3><strong>Saturday</strong>
-                        <i class="fa fa-calendar"></i><br/><span class="font-date">March&nbsp;4,&nbsp;2017</span></h3>
-
-                    <p>
-                        David Bonner, DDS, MBA, MAGD, FICD, FICOI<br />
-                        Lil Caperila, RDH, BSDH, MEd<br />
-                        Cimara Fortes Ferreira, DDS, MS, PhD, MDS<br />
-                        Harvey Levy, DMD, MAGD<br />
-                        Madow Brothers<br />
-                        Joe Massad, DDS<br />
-                        Ms. Brenda Thaxton<br />
-                        Catherine Warren, RDH, MEd<br />
-                        Russell Wicks, DDS, MS
-                    </p>
-                </div>
-                <div class="large-4 medium-4 small-12 columns schedule" data-equalizer-watch>
-                    <h3><strong>Sunday</strong> <i class="fa fa-calendar"></i>
-                        <br/><span class="font-date">March&nbsp;5,&nbsp;2017</span></h3>
-
-                    <p>
-                        Mojdeh Deghan, DDS, BA<br />
-                        Martyn Green, DDS, MS<br />
-                        Nancy Johnson, EDD, LPC/MHSP<br />
-                        James Ragain, Jr., DDS, MS, PhD<br />
-                        Lynn Russell, RDH, BS, MEd, EdD<br />
-                        Mrs. Catherine Warren, RDH, MEd
+            <div class="row">
+                <div class="columns schedule" data-equalizer-watch>
+                    <p style="text-align: center;margin: 1rem;">
+                        Charles Blair, DDS<br />
+                        Sandy Baird, MBA<br />
+                        Gerard Kugel, DMD, MS, PhD<br />
+                        John Olmsted, DDS, MS<br />
+                        Ms. Penny Reed<br />
+                        Tom Viola, RPh, CCP<br />
+                        Mr. Gary Zelesky
                     </p>
                 </div>
             </div>
+            <!--            <div class="row" data-equalizer>-->
+            <!--                <div class="large-4 medium-4 small-12 columns schedule" data-equalizer-watch>-->
+            <!--                    <h3><strong>Friday</strong>-->
+            <!--                        <i class="fa fa-calendar"></i><br/><span class="font-date">March&nbsp;3,&nbsp;2017</span></h3>-->
+            <!---->
+            <!--                    <p>-->
+            <!--                        Kyle Ash, DMD<br />-->
+            <!--                        Mr. Jack Hadley<br />-->
+            <!--                        Gavin Heymann, DDS, MS<br />-->
+            <!--                        Harald Heymann, DDS, MEd<br />-->
+            <!--                        Karl Koerner, DDS, MS<br />-->
+            <!--                        Lisa Harper-Mallonee, BSDH, MPH, RD, LD<br />-->
+            <!--                        Vernon Pennington, DDS, BS<br />-->
+            <!--                        James Ragain, Jr., DDS, MS, PhD<br />-->
+            <!--                        Joe Safirstein, DDS<br />-->
+            <!--                        Harry Sharp, DDS, BS-->
+            <!--                    </p>-->
+            <!--                </div>-->
+            <!--                <div class="large-4 medium-4 small-12 columns schedule" data-equalizer-watch>-->
+            <!--                    <h3><strong>Saturday</strong>-->
+            <!--                        <i class="fa fa-calendar"></i><br/><span class="font-date">March&nbsp;4,&nbsp;2017</span></h3>-->
+            <!---->
+            <!--                    <p>-->
+            <!--                        David Bonner, DDS, MBA, MAGD, FICD, FICOI<br />-->
+            <!--                        Lil Caperila, RDH, BSDH, MEd<br />-->
+            <!--                        Cimara Fortes Ferreira, DDS, MS, PhD, MDS<br />-->
+            <!--                        Harvey Levy, DMD, MAGD<br />-->
+            <!--                        Madow Brothers<br />-->
+            <!--                        Joe Massad, DDS<br />-->
+            <!--                        Ms. Brenda Thaxton<br />-->
+            <!--                        Catherine Warren, RDH, MEd<br />-->
+            <!--                        Russell Wicks, DDS, MS-->
+            <!--                    </p>-->
+            <!--                </div>-->
+            <!--                <div class="large-4 medium-4 small-12 columns schedule" data-equalizer-watch>-->
+            <!--                    <h3><strong>Sunday</strong> <i class="fa fa-calendar"></i>-->
+            <!--                        <br/><span class="font-date">March&nbsp;5,&nbsp;2017</span></h3>-->
+            <!---->
+            <!--                    <p>-->
+            <!--                        Mojdeh Deghan, DDS, BA<br />-->
+            <!--                        Martyn Green, DDS, MS<br />-->
+            <!--                        James Ragain, Jr., DDS, MS, PhD<br />-->
+            <!--                        Lynn Russell, RDH, BS, MEd, EdD<br />-->
+            <!--                        Mrs. Catherine Warren, RDH, MEd-->
+            <!--                    </p>-->
+            <!--                </div>-->
+            <!--            </div>-->
         </div>
         <div class="large-12 columns heading-box center-text">
             <p>*Speakers subject to change.</p>
         </div><div class="large-12 columns heading-box">
-            <p>Stay tuned for the release of our detailed daily agenda including a list of exhibitor mini-sessions for 2017!</p>
+            <p>Stay tuned for the release of our detailed daily agenda including a list of exhibitor mini-sessions for 2018!</p>
             <p>A total of 18 credit hours may be earned by attending the maximum number of courses (15 hours), mini-sessions (2 hours), and breakfast with faculty (1 hour).</p>
-        </div>
-    </div>
-    <div class="row">
-        <div class="columns panel info">
-            <h2><span class="fa fa-info-circle"></span> New Element for 2017</h2>
-            <p><a href="are-you-a-dental-school-grad-from-the-class-of-2012-2016.php"><img src="images/orange-5-trailblazers.png" alt="logo for orange 5 trailblazers" class="right" style="width: 28%; min-width: 180px;"></a>ATTENTION RECENT GRADS: Social Media Marketing and modern-day Practice Management courses have been specifically designed and added to the program just for you on Friday, March 3rd!  Make plans to register and attend these new and engaging programs!</p>
         </div>
     </div><!--end speakers-->
 <?php include("template-bottom.php"); ?>
