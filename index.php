@@ -119,7 +119,7 @@ $save_the_date_html = '
         <div class="large-12 columns heading-box center-text">
             <p>*Speakers subject to change.</p>
         </div><div class="large-12 columns heading-box">
-            <p>Stay tuned for the release of our detailed daily agenda including a list of exhibitor mini-sessions for 2017!</p>
+            <p>Stay tuned for the release of our detailed daily agenda including a list of exhibitor mini-sessions for 2018!</p>
             <p>A total of 18 credit hours may be earned by attending the maximum number of courses (15 hours), mini-sessions (2 hours), and breakfast with faculty (1 hour).</p>
         </div>
     </div><!--end speakers-->
