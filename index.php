@@ -1,23 +1,26 @@
 <?php
 $pagename = 'Home';
 include("template-top.php");
+$save_the_date_date = 'March&nbsp;2&#8209;4,&nbsp;2018';
+$save_the_date_html = '
+    <h2>Save the Date</h2>
+    <h3 class="h3-after-h2"><i class="fa fa-calendar"></i> <span class="font-date">'.$save_the_date_date.'</span></h3>
+';
 ?>
     <div class="row" data-equalizer><!--big image and important info-->
         <div class="large-8 columns gutter">
 
             <div class="big-image big-image-large show-for-large-up" data-equalizer-watch>
                 <div class="row">
-                    <div class="small-10 columns small-centered text-center content-box" style="margin-top: 20%;">
-                        <h2>Registration Now Open!</h2>
-                        <h3 class="h3-after-h2"><i class="fa fa-calendar"></i> <span class="font-date">March 3-5, 2017</span></h3>
+                    <div class="small-10 columns small-centered text-center content-box" style="margin-top: 10%;">
+                        <?php echo $save_the_date_html ?>
                     </div>
                 </div>
             </div>
-            <div class="big-image hide-for-large-up" data-equalizer-watch style="min-height: 180px;">
+            <div class="big-image hide-for-large-up" data-equalizer-watch>
                 <div class="row">
-                    <div class="small-10 columns small-centered text-center content-box" style="margin-top: 6vh;">
-                        <h2>Registration Now Open!</h2>
-                        <h3 class="h3-after-h2"><i class="fa fa-calendar"></i> <span class="font-date">March 3-5, 2017</span></h3>
+                    <div class="small-10 columns small-centered text-center content-box">
+                        <?php echo $save_the_date_html ?>
                     </div>
                 </div>
             </div>
@@ -26,9 +29,9 @@ include("template-top.php");
         <div class="large-4 columns content-box gutter" data-equalizer-watch>
             <div class="row">
                 <div class="columns">
-                    <br />
-                    <a href="registration.php" class="button expand">Register Now!</a>
-                    <p>Download the official program for the <a href="/documents/william-f-slagle-dental-meeting-program-2017.pdf">2017 William F. Slagle Dental Meeting</a>&ensp;<i class="fa fa fa-file-pdf-o"></i></p>
+                    <h3>Don't Miss Out!</h3>
+                    <p>Programming is beginning to take shape for the 2018 William F. Slagle Dental Meeting in Memphis, TN! A variety of top-rated speakers will provide amazing courses – topics of interest for everyone.</p>
+                    <p>Please be sure to save the dates of <?php echo $save_the_date_date ?> on your calendars! You will not want to miss this premier educational event!</p>
                 </div>
             </div>
         </div>
