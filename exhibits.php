@@ -15,8 +15,8 @@ include("template-top.php");
                         2017 meeting.</p>
                     <p>The William F. Slagle Dental Meeting will be held March 3-5, 2017 in Memphis, Tennessee, at the Hilton Memphis Hotel located at 939 Ridge Lake Boulevard. The exhibit convention services will set up booths on Thursday morning, March 2nd; exhibitors will set up displays Thursday afternoon beginning at 1:00 PM and will need to be completed with booth assembly by 4:30 PM. The Exhibit Hall will open for display during the William F. Slagle Dental Meeting on Friday morning, March 3rd at 7:30 AM and close at 6:00 PM. Exhibitors will reopen for display on Saturday morning, March 4th beginning at 7:30 AM and will close at 12:00 pm. Booth takedown will begin promptly thereafter.</p>
 
-                    <p>Should you wish to participate, <a href="documents/exhibitor-contract.pdf">a contract is
-                        available <i class="fa fa-file-pdf-o"></i></a> for you to print, complete and return with a
+                    <p>test Should you wish to participate, <a href="documents/exhibitor-contract.pdf">a contract is
+                            available <i class="fa fa-file-pdf-o"></i></a> for you to print, complete and return with a
                         check for $700.00 made payable to the UT/William F. Slagle Dental Meeting. We have an early bird
                         special for those vendors who register and pay in full by January 1st, 2017. Early bird
                         registration is $650.00. If you are a vendor who needs a bigger space than an 8'x 8'x 6' booth,
@@ -66,7 +66,7 @@ include("template-top.php");
                             <a href="mailto:bdingman@uthsc.edu">bdingman@uthsc.edu</a>
                         </p>
                     </div>
-                    <img src="images/fred-heros.jpg" style="margin-bottom: 1rem;" alt="Photo of Fred Heros"/>
+<!--                    <img src="images/fred-heros.jpg" style="margin-bottom: 1rem;" alt="Photo of Fred Heros"/>-->
                     <br style="clear: both" />
                 </div>
             </div>
