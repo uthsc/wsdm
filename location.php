@@ -23,18 +23,17 @@ include("template-top.php");
 
 
                         <div class="alert-box warning radius text-center">
-                            <p>A room block is reserved for March 1, 2017 - March 6, 2017.<br />
-                                Special Room Rate:  $129/night + applicable tax and fees<br />
-                                Hotel Reservation Deadline:  January 30, 2017<br />
+                            <p>Special Room Rate: $129/night + applicable tax and fees.<br />
+                                Hotel Reservation Deadline: February 2, 2018<br />
                                 (or until the group block is sold-out, whichever comes first)<br />
                                 Hotel Check-in:  3 p.m.<br />
                                 Hotel Check-out:  11 a.m.</p>
                             <p>
-                                <a href="http://www.hilton.com/en/hi/groups/personalized/M/MEMPHHF-WS0301-20170301/index.jhtml?WT.mc_id=POG" class="button secondary">Reserve your room!</a>
-</p>
+                                <a href="http://www.hilton.com/en/hi/groups/personalized/M/MEMPHHF-WS0301-20170301/index.jhtml?WT.mc_id=POG" class="button secondary">Reserve your room!<br /><span class="label alert">Link Needs Updating!</span></a>
+                            </p>
                             <p>
                                 Group Name: <strong>WILLIAM F. SLAGLE DENTAL MEETING</strong><br />
-                                Group Code: <strong>WS0301</strong>
+                                Group Code: <strong>WS0228</strong>
                             </p>
                         </div>
 
