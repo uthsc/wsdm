@@ -32,9 +32,13 @@ $save_the_date_html = '
         <div class="large-4 columns content-box gutter" data-equalizer-watch>
             <div class="row">
                 <div class="columns">
-                    <h3>Don't Miss Out!</h3>
-                    <p>Programming is beginning to take shape for the 2018 William F. Slagle Dental Meeting in Memphis, TN! A variety of top-rated speakers will provide amazing courses – topics of interest for everyone.</p>
-                    <p>Please be sure to save the dates of <?php echo $save_the_date_date ?> on your calendars! You will not want to miss this premier educational event!</p>
+                    <h3 class="text-center">NEW THIS YEAR!</h3>
+                    <ul>
+                        <li>New Online Registration System</li>
+                        <li>Alumni Luncheon on Saturday</li>
+                        <li>CE Slips emailed after the Meeting</li>
+                    </ul>
+                    <p><a href="registration.php">Register Now</a>, we want to see you at this premier educational event!</p>
                 </div>
             </div>
         </div>
