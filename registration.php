@@ -55,9 +55,9 @@ include("template-top.php");
                         <p class="panel">Sponsor a current UT College of Dentistry student to attend the William F. Slagle Dental Meeting.  Your $75 sponsorship will allow a student the opportunity to participate in the courses and network with dental professionals. Simply indicate the number of students you would like to sponsor when registering. Your support is greatly appreciated.</p>
                     </div>
                     <div class="small-12 large-5 columns">
-                        <a href="http://events.meetingzilla.com/event/event_main.aspx?aid=UTCOD&ek=7D301D3B26BA486F912F0C802B4762E8_0000_0045" class="button info expand">Speakers and Schedule</a>
-                        <br />
-                        <br />
+<!--                        <a href="http://events.meetingzilla.com/event/event_main.aspx?aid=UTCOD&ek=7D301D3B26BA486F912F0C802B4762E8_0000_0045" class="button info expand">Speakers and Schedule</a>-->
+<!--                        <br />-->
+<!--                        <br />-->
                          <img src="images/registration.jpg" alt="Exhibitor at the conference" style="padding-bottom:2em;"/>
 
                     </div>
