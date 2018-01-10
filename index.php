@@ -3,8 +3,11 @@ $pagename = 'Home';
 include("template-top.php");
 $save_the_date_date = 'March&nbsp;2&#8209;4,&nbsp;2018';
 $save_the_date_html = '
-    <h2>Save the Date</h2>
+<br />
+<a href="registration.php" class="button large" >Register Now!</a>
+    <br />
     <h3 class="h3-after-h2"><i class="fa fa-calendar"></i> <span class="font-date">'.$save_the_date_date.'</span></h3>
+    <br />
 ';
 ?>
     <div class="row" data-equalizer><!--big image and important info-->
@@ -29,9 +32,13 @@ $save_the_date_html = '
         <div class="large-4 columns content-box gutter" data-equalizer-watch>
             <div class="row">
                 <div class="columns">
-                    <h3>Don't Miss Out!</h3>
-                    <p>Programming is beginning to take shape for the 2018 William F. Slagle Dental Meeting in Memphis, TN! A variety of top-rated speakers will provide amazing courses – topics of interest for everyone.</p>
-                    <p>Please be sure to save the dates of <?php echo $save_the_date_date ?> on your calendars! You will not want to miss this premier educational event!</p>
+                    <h3 class="text-center">NEW THIS YEAR!</h3>
+                    <ul>
+                        <li>New Online Registration System</li>
+                        <li>Alumni Luncheon on Saturday</li>
+                        <li>CE Slips emailed after the Meeting</li>
+                    </ul>
+                    <p><a href="registration.php">Register Now</a>, we want to see you at this premier educational event!</p>
                 </div>
             </div>
         </div>
@@ -52,69 +59,59 @@ $save_the_date_html = '
 
     <div class="row gutter"><!--speakers-->
         <div class="large-12 small-12 columns heading-box">
-            <h2 class="center-text">2018 Top-Featured Speakers</h2>
+            <h2 class="center-text">2018 Featured Speakers</h2>
         </div>
-        <div class="large-12 columns">
-            <div class="row">
-                <div class="columns schedule" data-equalizer-watch>
-                    <p style="text-align: center;margin: 1rem;">
-                        Charles Blair, DDS<br />
-                        Sandy Baird, MBA<br />
-                        Gerard Kugel, DMD, MS, PhD<br />
-                        John Olmsted, DDS, MS<br />
-                        Ms. Penny Reed<br />
-                        Tom Viola, RPh, CCP<br />
-                        Mr. Gary Zelesky
-                    </p>
-                </div>
-            </div>
-            <!--            <div class="row" data-equalizer>-->
-            <!--                <div class="large-4 medium-4 small-12 columns schedule" data-equalizer-watch>-->
-            <!--                    <h3><strong>Friday</strong>-->
-            <!--                        <i class="fa fa-calendar"></i><br/><span class="font-date">March&nbsp;3,&nbsp;2017</span></h3>-->
-            <!---->
-            <!--                    <p>-->
-            <!--                        Kyle Ash, DMD<br />-->
-            <!--                        Mr. Jack Hadley<br />-->
-            <!--                        Gavin Heymann, DDS, MS<br />-->
-            <!--                        Harald Heymann, DDS, MEd<br />-->
-            <!--                        Karl Koerner, DDS, MS<br />-->
-            <!--                        Lisa Harper-Mallonee, BSDH, MPH, RD, LD<br />-->
-            <!--                        Vernon Pennington, DDS, BS<br />-->
-            <!--                        James Ragain, Jr., DDS, MS, PhD<br />-->
-            <!--                        Joe Safirstein, DDS<br />-->
-            <!--                        Harry Sharp, DDS, BS-->
-            <!--                    </p>-->
-            <!--                </div>-->
-            <!--                <div class="large-4 medium-4 small-12 columns schedule" data-equalizer-watch>-->
-            <!--                    <h3><strong>Saturday</strong>-->
-            <!--                        <i class="fa fa-calendar"></i><br/><span class="font-date">March&nbsp;4,&nbsp;2017</span></h3>-->
-            <!---->
-            <!--                    <p>-->
-            <!--                        David Bonner, DDS, MBA, MAGD, FICD, FICOI<br />-->
-            <!--                        Lil Caperila, RDH, BSDH, MEd<br />-->
-            <!--                        Cimara Fortes Ferreira, DDS, MS, PhD, MDS<br />-->
-            <!--                        Harvey Levy, DMD, MAGD<br />-->
-            <!--                        Madow Brothers<br />-->
-            <!--                        Joe Massad, DDS<br />-->
-            <!--                        Ms. Brenda Thaxton<br />-->
-            <!--                        Catherine Warren, RDH, MEd<br />-->
-            <!--                        Russell Wicks, DDS, MS-->
-            <!--                    </p>-->
-            <!--                </div>-->
-            <!--                <div class="large-4 medium-4 small-12 columns schedule" data-equalizer-watch>-->
-            <!--                    <h3><strong>Sunday</strong> <i class="fa fa-calendar"></i>-->
-            <!--                        <br/><span class="font-date">March&nbsp;5,&nbsp;2017</span></h3>-->
-            <!---->
-            <!--                    <p>-->
-            <!--                        Mojdeh Deghan, DDS, BA<br />-->
-            <!--                        Martyn Green, DDS, MS<br />-->
-            <!--                        James Ragain, Jr., DDS, MS, PhD<br />-->
-            <!--                        Lynn Russell, RDH, BS, MEd, EdD<br />-->
-            <!--                        Mrs. Catherine Warren, RDH, MEd-->
-            <!--                    </p>-->
-            <!--                </div>-->
-            <!--            </div>-->
+        <div class="columns">
+<!--            <div class="row">-->
+<!--                <div class="columns schedule" data-equalizer-watch>-->
+<!--                    <p style="text-align: center;margin: 1rem;">-->
+<!--                        -->
+<!--                        -->
+<!--                        -->
+<!--                        -->
+<!--                        <br />-->
+<!--                        -->
+<!--                        -->
+<!--                    </p>-->
+<!--                </div>-->
+<!--            </div>-->
+                        <div class="row" data-equalizer>
+                            <div class="large-4 medium-4 small-12 columns schedule" data-equalizer-watch>
+<!--                                <h3><strong>Friday</strong>-->
+<!--                                    <i class="fa fa-calendar"></i><br/><span class="font-date">March&nbsp;3,&nbsp;2017</span></h3>-->
+                                <br />
+                                <p>
+                                    Charles Blair, DDS<br />
+                                    Sandy Baird, MBA<br />
+                                    Gerard Kugel, DMD, MS, PhD<br />
+                                    John Olmsted, DDS, MS<br />
+                                    Ms. Penny Reed
+                                </p>
+                            </div>
+                            <div class="large-4 medium-4 small-12 columns schedule" data-equalizer-watch>
+<!--                                <h3><strong>Saturday</strong>-->
+<!--                                    <i class="fa fa-calendar"></i><br/><span class="font-date">March&nbsp;4,&nbsp;2017</span></h3>-->
+                                <br />                                <p>
+                                    Tom Viola, RPh, CCP<br />
+                                    Mr. Gary Zelesky<br />
+                                    David E. Umsted, DDS<br />
+                                    David Sain, DDS<br />
+                                    Cindy Saylors, MEd, RT(R)(CT)(ARRT)
+                                </p>
+                            </div>
+                            <div class="large-4 medium-4 small-12 columns schedule" data-equalizer-watch>
+<!--                                <h3><strong>Sunday</strong> <i class="fa fa-calendar"></i>-->
+<!--                                    <br/><span class="font-date">March&nbsp;5,&nbsp;2017</span></h3>-->
+                                <br />
+                                <p>
+                                    Catherine Warren, RDH, MEd<br />
+                                    Lynn Russell, RDH, BSDH, MEd, EdD<br />
+                                    Vinay Jain, BDS, MS, MDS<br />
+                                    K. Mark Anderson, DDS<br />
+                                    Beth Mobilian, RDH, BA, MEd
+                                </p>
+                            </div>
+                        </div>
         </div>
         <div class="large-12 columns heading-box center-text">
             <p>*Speakers subject to change.</p>

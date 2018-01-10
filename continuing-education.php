@@ -25,7 +25,7 @@ include("template-top.php");
                         <p class="center-text"><strong>Up to 19 credit hours may be obtained by attending the maximum number of courses offered.</strong></p>
                         <p>A document stating the credit earned for each course attended will be mailed to each attendee approximately 6 weeks following the meeting.</p>
                         <p>UT College of Dentistry <a href="http://uthsc.edu/dentistry/CE/index.php">Continuing Education</a></p>
-                        <p class="panel">In order to ensure adequate arrangements for courses and other events, no refunds will be given after February 21, 2017. Please submit a written request for refund postmarked or faxed by that date. A $30 processing fee will be charged for each cancellation processed. Refund checks will be mailed within three weeks of adjournment of the William F. Slagle Dental Meeting. For more details, call toll-free (877) 216-0009.</p>
+                        <p class="panel">In order to ensure adequate arrangements for courses and other events, no refunds will be given after February 11, 2018. All cancellations must be done online at the registration site. Please submit a written request for refund postmarked or faxed by that date. A $30 processing fee will be charged for each cancellation processed. Refund checks will be mailed within three weeks of adjournment of the William F. Slagle Dental Meeting. For more details, call toll-free (877) 216-0009.</p>
                     </div>
                 </div>
                 <br style="clear:both;" />

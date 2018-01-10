@@ -9,15 +9,32 @@ include("template-top.php");
             <h1><?php echo $pagename;?></h1>
                 <div class="row">
                     <div class="columns">
-                        <img src="images/paul-mccord.jpg" alt="Photo of Paul McCord, President of the Dentistry Alumni Association Board of Trustees" class="content-image right" />
-                        <p>The William F. Slagle Dental Meeting, formerly named the MidSouth Dental Congress, is one of the College of Dentistry's greatest traditions. The inaugural meeting was held in 1995 to promote quality care by providing the dental team with an exceptional education opportunity. Continuing this mission, the Slagle Dental Meeting is committed to offering extensive continuing education courses, commercial exhibits, and additional educational programs advancing the growth and development of the dental profession.</p>
-                        <p>The Planning Committee, the Dentistry Alumni Association, and the UT College of Dentistry have worked diligently to present a 2017 program that honors the meeting's legacy with the highest caliber continuing education speakers. The program also includes hands-on courses and expanded programming for the entire dental office staff.</p>
-                        <p>Throughout its history, the meeting has provided more than $2 million in proceeds  directly to the College of Dentistry – a benefit you do not get from other continuing education programs. Your participation at the Slagle Dental Meeting and Dentistry Alumni Weekend helps enhance the dental school experience for current and future students.</p>
-                        <p>On behalf of the University of Tennessee Health Science Center College of Dentistry Alumni Association and the planning committee, I extend our warmest greetings to you and thank you for your participation in this exciting event.</p>
-                        <p>We look forward to seeing you in Memphis!</p>
-                        <p>Warmest Regards,<br />
-                        Paul McCord, DDS '78<br />
-                        President, Dentistry Alumni Association Board of Trustees</p>
+                        <img src="images/robert-lewis.jpg"
+                             alt="Photo of Rob Lewis DDS, President of the Dentistry Alumni Association Board of Trustees"
+                             class="content-image right"
+                             style="width: 40%; min-width: 175px;" />
+                        <p>On behalf of the University of Tennessee College of Dentistry Alumni Association I want to
+                            invite you to join us for the 2018 William F. Slagle Dental Meeting. Your Alumni Association
+                            Board and the College of Dentistry staff have planned an outstanding meeting. Bring your
+                            staff and learn from outstanding, nationally recognized speakers.</p>
+                        <p>In addition, you’ll have the opportunity to participate in hands on courses, team building
+                            and re-certify in all the required annual and bi-annual courses needed for licensure. It is
+                            the goal of the Slagle Dental Meeting to provide you the very best and most cost effective
+                            continuing education. In addition, the proceeds from the meeting are given back to the
+                            College of Dentistry to further support the faculty and students. The meeting has
+                            contributed over two million dollars back to our school!</p>
+                        <p>If this is a reunion year, contact you classmates and encourage them to join you. The Alumni
+                            Association plans dinners for you, so all you and your classmates need to do is show up!</p>
+                        <p>Be sure and plan to attend our welcome party at the new Graceland facility, surrounded by
+                            Elvis’s cars, and his legendary music.</p>
+                        <p>The remodel of the school is now complete. It is truly state of the art! Plan to go by. Say
+                            Hello to your favorite faculty member and thank him or her for all they taught you. You’ll
+                            be very proud of the quality education that our students continue to receive.</p>
+                        <p>I look forward to seeing you in Memphis and encourage you to participate in your Alumni
+                            Association!</p>
+
+                        <p>Rob Lewis DDS ‘76<br/>
+                            President, Dentistry Alumni Association Board of Trustees</p>
 
                     </div>
                 </div>
