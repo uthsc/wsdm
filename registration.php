@@ -16,19 +16,30 @@ include("template-top.php");
                                 </div>
                                 <div class="columns medium-9 small-text-center medium-text-left">
                                     <h2 class="show-for-small" style="color: #fff;"><span class="fa fa-calendar"></span> Dates</h2>
-                                    Online Registration Opens: Novovember&nbsp;7,&nbsp;2016!<br />
-                                    Early Bird Registration Deadline: February&nbsp;14,&nbsp;2017<br />
-                                    Online Registration Deadline: February&nbsp;21,&nbsp;2017
-                                    <br />
+                                    Online Registration Opens: January 3, 2018<br />
+                                    Early Bird Registration Deadline: February 2, 2018<br />
+                                    Online Registration Deadline: February 11, 2018<br />
                                     <br />
                                 </div>
-                                <a href="https://utconferences.eventsair.com/2017-william-f-slagle-dental-meeting/slagle17/Site/Register" class="button expand">Register Now!</a>
+                                <p class="text-center"><strong>WE HAVE A NEW REGISTRATION SYSTEM:<br />EVERYONE MUST CREATE A NEW ACCOUNT!</strong></p>
+                                <a href="https://reg.abcsignup.com/view/view_month.aspx?as=31&wp=342&aid=UTCOD" class="button expand">Register Now!</a>
+                                <div class="row collapse text-center">
+                                <div class="columns medium-8">
+                                    <a href="https://uthsc.edu/dentistry/CE/2018-slagle-meeting-registration-instructions.pdf" class="button tiny">Step-by-Step Registration Instructional Manual <span class="fa fa-file-pdf-o"></span></a>
+                                </div>
+                                <div class="columns medium-4">
+                                    <a href="https://uthsc.edu/dentistry/CE/2018-slagle-online-brochure.pdf" class="button tiny">Online Brochure <span class="fa fa-file-pdf-o"></span></a>
+                                </div>
+                                </div>
                                 <hr />
-                                <p><strong>On-site</strong> registration open:</p>
+                                <p>On-site registration desk open:</p>
                                 <ul>
-                                    <li>Friday, March 3, 7am - 6pm</li>
-                                    <li>Saturday, March 4, 7am - 2pm</li>
+                                    <li>Friday, March 2, 8am – 5pm</li>
+                                    <li>Saturday, March 3, 8am – 2pm</li>
+                                    <li>Not open on Sunday, March 4</li>
                                 </ul>
+                                <p>Registering online is the preferred method-changes to your schedule will be limited on-site at the hotel!
+                                    No changes after Saturday at 2:00 p.m.</p>
                             </div>
                         </div>
                         <br style="clear: both;" />
