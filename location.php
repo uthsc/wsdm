@@ -29,9 +29,9 @@ include("template-top.php");
                                 (or until the group is sold-out, whichever comes first)<br />
                                 Hotel Check-in: 3 p.m.<br />
                                 Hotel Check-out: 11 a.m.</p>
-<!--                            <p>-->
-<!--                                <a href="http://www.hilton.com/en/hi/groups/personalized/M/MEMPHHF-WS0301-20170301/index.jhtml?WT.mc_id=POG" class="button secondary">Reserve your room!<br /><span class="label alert">Link Needs Updating!</span></a>-->
-<!--                            </p>-->
+                            <p>
+                                <a href="http://www.hilton.com/en/hi/groups/personalized/M/MEMPHHF-WS0228-20180228/index.jhtml?WT.mc_id=POG" class="button secondary">Reserve your room!</a>
+                            </p>
                             <p>
                                 Group Name: <strong>William F. Slagle Dental Meeting</strong><br />
                                 Group Code: <strong>WS0228</strong>
