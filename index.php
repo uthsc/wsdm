@@ -52,7 +52,7 @@ $save_the_date_html = '
             <a href="http://uthsc.edu/dentistry/"><img src="images/cod-seal.png" class="affiliates" alt="uthsc college of denistry seal"/></a>
         </div>
         <div class="large-4 medium-4 small-12 columns content-box">
-            <a href="http://www.uthscalumni.com/s/1341/uthsc/index.aspx?sid=1341&gid=4&pgid=7026"><img src="images/cde-alumni-logo.png" class="affiliates" alt="uthsc alumni logo"/></a>
+            <a href="http://alumni.uthsc.edu/s/1341/uthsc/17/interior.aspx?sid=1341&gid=4&pgid=10679"><img src="images/cde-alumni-logo.png" class="affiliates" alt="uthsc alumni logo"/></a>
         </div>
     </div><!--end affiliates-->
     <div id="speakers" style="height:44px;"></div>
