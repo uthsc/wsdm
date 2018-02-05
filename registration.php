@@ -25,10 +25,10 @@ include("template-top.php");
                                 <a href="https://reg.abcsignup.com/view/view_month.aspx?as=31&wp=342&aid=UTCOD" class="button expand">Register Now!</a>
                                 <div class="row collapse text-center">
                                 <div class="columns medium-8">
-                                    <a href="https://uthsc.edu/dentistry/CE/2018-slagle-meeting-registration-instructions.pdf" class="button tiny">Step-by-Step Registration Instructional Manual <span class="fa fa-file-pdf-o"></span></a>
+                                    <a href="documents/2018-slagle-meeting-registration-instructions.pdf" class="button tiny">Step-by-Step Registration Instructional Manual <span class="fa fa-file-pdf-o"></span></a>
                                 </div>
                                 <div class="columns medium-4">
-                                    <a href="https://uthsc.edu/dentistry/CE/2018-slagle-online-brochure.pdf" class="button tiny">Online Brochure <span class="fa fa-file-pdf-o"></span></a>
+                                    <a href="documents/william-f-slagle-dental-meeting-program-2018.pdf" class="button tiny">Online Brochure <span class="fa fa-file-pdf-o"></span></a>
                                 </div>
                                 </div>
                                 <hr />
