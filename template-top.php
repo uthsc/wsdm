@@ -51,7 +51,29 @@
     </div>
     <!--end header-->
     <div class="row gutter">
+<?php
+$amp        = "&";
+$menu_1     = "Home";
 
+$menu_2     = "About";
+$menu_2_a   = "Welcome";
+$menu_2_b   = "Mission Statement";
+$menu_2_c   = "News";
+
+$menu_3     = "Attend";
+$menu_3_a   = "Location";
+$menu_3_b   = "Things To Do In Memphis";
+$menu_3_c   = "Registration & Meeting Agenda";
+$menu_3_d   = "Cancellation Policy";
+$menu_3_e   = "Evaluation";
+$menu_3_f   = "Alumni Events & Reunion Info";
+
+$menu_4     = "Exhibits";
+
+$menu_5     = "Sponsors";
+
+$menu_6     = "Continuing Education";
+?>
 
         <div class="contain-to-grid sticky">
             <nav class="top-bar" data-topbar role="navigation">
@@ -62,31 +84,31 @@
                 </ul>
                 <section class="top-bar-section">
                     <ul class="left">
-                        <li><a href="index.php"><i class="fa fa-home fa-2x"></i> Home</a></li>
-                        <li class="has-dropdown"><a href="#">About</a>
+                        <li><a href="index.php"><i class="fa fa-home fa-2x"></i> <?php echo $menu_1 ?></a></li>
+                        <li class="has-dropdown"><a href="#"><?php echo $menu_2 ?></a>
                             <ul class="dropdown">
-                                <li><a href="welcome.php">Welcome</a></li>
-                                <li><a href="mission-statement.php">Mission Statement</a></li>
-                                <li><a href="news.php">News</a></li>
+                                <li><a href="welcome.php"><?php echo $menu_2_a ?></a></li>
+                                <li><a href="mission-statement.php"><?php echo $menu_2_b ?></a></li>
+                                <li><a href="news.php"><?php echo $menu_2_c ?></a></li>
                             </ul>
                         </li>
-                        <li class="has-dropdown"><a href="#">Attend</a>
+                        <li class="has-dropdown"><a href="#"><?php echo $menu_3 ?></a>
                             <ul class="dropdown">
 <!--                                <li><a href="speakers-schedule.php">Speakers &amp; Schedule</a></li>-->
-                                <li><a href="location.php">Location</a></li>
-                                <li><a href="things-to-do-in-memphis.php">Things To Do In Memphis</a></li>
-                                <li><a href="registration.php">Registration &amp; Meeting Agenda</a></li>
+                                <li><a href="location.php"><?php echo $menu_3_a ?></a></li>
+                                <li><a href="things-to-do-in-memphis.php"><?php echo $menu_3_b ?></a></li>
+                                <li><a href="registration.php"><?php echo $menu_3_c ?></a></li>
 <!--                                <li><a href="http://events.meetingzilla.com/event/evenpt_main.aspx?aid=UTCOD&ek=7D301D3B26BA486F912F0C802B4762E8_0000_0045">Speakers &amp; Schedule <i class="fa fa-external-link"></i></a></li>-->
-                                <li><a href="cancellation-policy.php">Cancellation Policy</a></li>
-                                <li><a href="evaluation.php">Evaluation</a></li>
+                                <li><a href="cancellation-policy.php"><?php echo $menu_3_d ?></a></li>
+                                <li><a href="evaluation.php"><?php echo $menu_3_e ?></a></li>
                                 <li>
-                                    <a href="http://uthscalumni.com/DentistryWeekend2017">Alumni Events &amp; Reunion Info
+                                    <a href="http://uthscalumni.com/DentistryWeekend2017"><?php echo $menu_3_f ?>
                                         <i class="fa fa-external-link"></i></a></li>
                             </ul>
                         </li>
-                        <li><a href="exhibits.php">Exhibits</a></li>
-                        <li><a href="sponsors.php">Sponsors</a></li>
-                        <li><a href="continuing-education.php">Continuing Education</a></li>
+                        <li><a href="exhibits.php"><?php echo $menu_4 ?></a></li>
+                        <li><a href="sponsors.php"><?php echo $menu_5 ?></a></li>
+                        <li><a href="continuing-education.php"><?php echo $menu_6 ?></a></li>
                     </ul>
 <!--                    <ul class="right">-->
 <!--                        <li class="active"><a href="registration.php"><strong>Register Now!</strong></a></li>-->
