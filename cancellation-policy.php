@@ -9,7 +9,7 @@ include("template-top.php");
             <h1><?php echo $pagename;?></h1>
                 <div class="row">
                     <div class="columns">
-                        <p>In order to ensure adequate arrangements for courses and other events, no refunds will be given after February 11, 2018. All cancellations must be done online at the registration site.  Please submit a written request for refund by the deadline date to UT Conferences at <a href="mailto:conferences@utk.edu">conferences@utk.edu</a> .  A $30 processing fee will be charged for each cancellation processed.  Refund checks will be mailed within three weeks of adjournment of the William F. Slagle Dental Meeting.  For more details, call toll-free (877) 216-0009.</p>
+                        <p>You can cancel your registration online on the registration site before February 11, 2018. A $30 processing fee is assessed to ALL refunds and will be deducted from the registration fee paid. In addition to canceling your registration online, please send an email to the UTHSC Continuing Dental Education Office at <a href="mailto:utcde@uthsc.edu">utcde@uthsc.edu</a> that you have canceled  your registration.</p>
                     </div>
                 </div>
 <!--===============Content Area (end)===============-->
