@@ -21,11 +21,11 @@ include("template-top.php");
                                 alt="Logo for ACDE UTHSC colege of dendistry is a member of Association for Continuing Dental Education"
                                 width="50%" />
                         <p>Continuing education courses that are presented cover all aspects of the practice of Dentistry including new knowledge that may not be widely accepted by the profession. In so doing, some presentations may include controversial material or commercial reference. Please be aware that the presentation of such course material should not be considered as an endorsement or approval of a particular philosophy, product, or procedure.</p>
-                        <p>The University of Tennessee Health Science Center College of Dentistry designates this activity for a total of 19 continuing education credits.</p>
-                        <p class="center-text"><strong>Up to 19 credit hours may be obtained by attending the maximum number of courses offered.</strong></p>
+                        <p>The University of Tennessee Health Science Center College of Dentistry designates this activity for a total of 18 continuing education credits.</p>
+                        <p class="center-text"><strong>Up to 18 credit hours may be obtained by attending the maximum number of courses offered.</strong></p>
                         <p>A document stating the credit earned for each course attended will be mailed to each attendee approximately 6 weeks following the meeting.</p>
                         <p>UT College of Dentistry <a href="http://uthsc.edu/dentistry/CE/index.php">Continuing Education</a></p>
-                        <p class="panel">In order to ensure adequate arrangements for courses and other events, no refunds will be given after February 11, 2018. All cancellations must be done online at the registration site. Please submit a written request for refund postmarked or faxed by that date. A $30 processing fee will be charged for each cancellation processed. Refund checks will be mailed within three weeks of adjournment of the William F. Slagle Dental Meeting. For more details, call toll-free (877) 216-0009.</p>
+                        <p class="panel">In order to ensure adequate arrangements for courses and other events, no refunds will be given after February 11, 2018. All cancellations must be done online at the registration site. Please submit a written request for refund  to <a href="mailto:utcde@uthsc.edu">utcde@uthsc.edu</a> by  the above date. A $30 processing fee will be charged for each cancellation processed. For more details, 901-448-5386.</p>
                     </div>
                 </div>
                 <br style="clear:both;" />
