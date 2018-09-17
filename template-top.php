@@ -52,7 +52,6 @@
     <!--end header-->
     <div class="row gutter">
 <?php
-$amp        = "&";
 $menu_1     = "Home";
 
 $menu_2     = "About";
@@ -63,10 +62,10 @@ $menu_2_c   = "News";
 $menu_3     = "Attend";
 $menu_3_a   = "Location";
 $menu_3_b   = "Things To Do In Memphis";
-$menu_3_c   = "Registration & Meeting Agenda";
+$menu_3_c   = "Registration and Meeting Agenda";
 $menu_3_d   = "Cancellation Policy";
 $menu_3_e   = "Evaluation";
-$menu_3_f   = "Alumni Events & Reunion Info";
+$menu_3_f   = "Alumni Events and Reunion Info";
 
 $menu_4     = "Exhibits";
 
