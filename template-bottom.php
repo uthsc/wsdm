@@ -1,9 +1,9 @@
-﻿<?php
+<?php
 
 function slagle_edit_request()
 {
     $to = 'nic.winn@uthsc.edu';
-    $cc = 'cmooney@uthsc.edu';
+    $cc = 'cmooney@uthsc.edu, terron@uthsc.edu';
     $actual_link = (isset($_SERVER['HTTPS']) ? "https" : "http") . "://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
 
 
