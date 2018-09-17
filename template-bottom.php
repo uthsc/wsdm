@@ -3,7 +3,7 @@
 function slagle_edit_request()
 {
     $to = 'nic.winn@uthsc.edu';
-    $cc = 'cmooney@uthsc.edu';
+    $cc = 'cmooney@uthsc.edu, terron@uthsc.edu';
     $actual_link = (isset($_SERVER['HTTPS']) ? "https" : "http") . "://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
 
 
@@ -37,10 +37,10 @@ function slagle_edit_request()
 &bull; " . $GLOBALS['menu_3'] . "%0A
       &bull; " . $GLOBALS['menu_3_a'] . "%0A
       &bull; " . $GLOBALS['menu_3_b'] . "%0A
-      &bull; " . htmlspecialchars($GLOBALS['menu_3_c']) . "%0A
+      &bull; " . $GLOBALS['menu_3_c'] . "%0A
       &bull; " . $GLOBALS['menu_3_d'] . "%0A
       &bull; " . $GLOBALS['menu_3_e'] . "%0A
-      &bull; " . htmlspecialchars($GLOBALS['menu_3_f']) . "%0A
+      &bull; " . $GLOBALS['menu_3_f'] . "%0A
 &bull; " . $GLOBALS['menu_4'] . "%0A
 &bull; " . $GLOBALS['menu_5'] . "%0A
 &bull; " . $GLOBALS['menu_6'] . "%0A
